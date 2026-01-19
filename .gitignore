@@ -2,6 +2,7 @@
 ODIR-2019/dataset/preprocessed_images
 ODIR-2019/dataset/full_df.csv
 ODIR-2019/dataset/ODIR-5K
+ODIR-2019/yolo
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -209,3 +210,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+ODIR-2019/dataset/.DS_Store
+ODIR-2019/.DS_Store
