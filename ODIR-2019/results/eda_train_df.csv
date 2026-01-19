@@ -29,7 +29,7 @@ filename,ID,class,keywords,label
 943_right.jpg,943,Other diseases,macular epiretinal membrane,O
 4016_left.jpg,4016,Diabetes,moderate non proliferative retinopathy,D
 1555_right.jpg,1555,Myopia,pathological myopia,M
-2041_left.jpg,2041,Glaucoma,glaucoma，wet age-related macular degeneration,G
+2041_left.jpg,2041,Glaucoma,glaucoma wet age-related macular degeneration,G
 4237_left.jpg,4237,Diabetes,mild nonproliferative retinopathy,D
 2193_right.jpg,2193,Cataract,cataract,C
 23_right.jpg,23,Hypertension,hypertensive retinopathy,H
@@ -95,12 +95,12 @@ filename,ID,class,keywords,label
 2367_left.jpg,2367,Normal,normal fundus,N
 2704_right.jpg,2704,Normal,normal fundus,N
 4011_left.jpg,4011,Diabetes,moderate non proliferative retinopathy,D
-120_left.jpg,120,Diabetes,proliferative diabetic retinopathy，hypertensive retinopathy,D
-1309_right.jpg,1309,Glaucoma,glaucoma，hypertensive retinopathy,G
-22_left.jpg,22,Diabetes,moderate non proliferative retinopathy，laser spot,D
+120_left.jpg,120,Diabetes,proliferative diabetic retinopathy hypertensive retinopathy,D
+1309_right.jpg,1309,Glaucoma,glaucoma hypertensive retinopathy,G
+22_left.jpg,22,Diabetes,moderate non proliferative retinopathy laser spot,D
 3083_right.jpg,3083,Normal,normal fundus,N
 1834_left.jpg,1834,Ageing,dry age-related macular degeneration,A
-931_right.jpg,931,Glaucoma,suspected glaucoma，moderate non proliferative retinopathy,G
+931_right.jpg,931,Glaucoma,suspected glaucoma moderate non proliferative retinopathy,G
 1129_right.jpg,1129,Normal,normal fundus,N
 2447_left.jpg,2447,Normal,normal fundus,N
 2763_left.jpg,2763,Normal,normal fundus,N
@@ -147,8 +147,8 @@ filename,ID,class,keywords,label
 2194_right.jpg,2194,Cataract,cataract,C
 2378_right.jpg,2378,Normal,normal fundus,N
 157_right.jpg,157,Diabetes,moderate non proliferative retinopathy,D
-1373_right.jpg,1373,Hypertension,hypertensive retinopathy，branch retinal vein occlusion，vitreous opacity,H
-962_left.jpg,962,Other diseases,drusen，mild nonproliferative retinopathy,O
+1373_right.jpg,1373,Hypertension,hypertensive retinopathy branch retinal vein occlusion vitreous opacity,H
+962_left.jpg,962,Other diseases,drusen mild nonproliferative retinopathy,O
 2388_left.jpg,2388,Normal,normal fundus,N
 3971_right.jpg,3971,Diabetes,moderate non proliferative retinopathy,D
 4635_left.jpg,4635,Diabetes,moderate non proliferative retinopathy,D
@@ -156,8 +156,8 @@ filename,ID,class,keywords,label
 2970_right.jpg,2970,Normal,normal fundus,N
 2006_right.jpg,2006,Other diseases,maculopathy,O
 1287_right.jpg,1287,Glaucoma,glaucoma,G
-3986_left.jpg,3986,Diabetes,severe nonproliferative retinopathy，hypertensive retinopathy,D
-826_right.jpg,826,Hypertension,hypertensive retinopathy，maculopathy,H
+3986_left.jpg,3986,Diabetes,severe nonproliferative retinopathy hypertensive retinopathy,D
+826_right.jpg,826,Hypertension,hypertensive retinopathy maculopathy,H
 2171_left.jpg,2171,Cataract,cataract,C
 311_left.jpg,311,Diabetes,diabetic retinopathy,D
 3347_left.jpg,3347,Normal,normal fundus,N
@@ -165,7 +165,7 @@ filename,ID,class,keywords,label
 3368_left.jpg,3368,Normal,normal fundus,N
 2034_left.jpg,2034,Ageing,dry age-related macular degeneration,A
 3045_right.jpg,3045,Normal,normal fundus,N
-861_right.jpg,861,Diabetes,proliferative diabetic retinopathy，hypertensive retinopathy,D
+861_right.jpg,861,Diabetes,proliferative diabetic retinopathy hypertensive retinopathy,D
 115_left.jpg,115,Other diseases,vitreous degeneration,O
 3074_right.jpg,3074,Normal,normal fundus,N
 2980_left.jpg,2980,Normal,normal fundus,N
@@ -178,7 +178,7 @@ filename,ID,class,keywords,label
 3444_right.jpg,3444,Normal,normal fundus,N
 1082_right.jpg,1082,Diabetes,moderate non proliferative retinopathy,D
 3435_right.jpg,3435,Normal,normal fundus,N
-1302_left.jpg,1302,Glaucoma,glaucoma，diabetic retinopathy,G
+1302_left.jpg,1302,Glaucoma,glaucoma diabetic retinopathy,G
 3407_left.jpg,3407,Normal,normal fundus,N
 1597_right.jpg,1597,Myopia,pathological myopia,M
 929_left.jpg,929,Diabetes,mild nonproliferative retinopathy,D
@@ -187,7 +187,7 @@ filename,ID,class,keywords,label
 525_right.jpg,525,Myopia,pathological myopia,M
 4314_left.jpg,4314,Diabetes,mild nonproliferative retinopathy,D
 2153_left.jpg,2153,Cataract,cataract,C
-4088_left.jpg,4088,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+4088_left.jpg,4088,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 3259_left.jpg,3259,Normal,normal fundus,N
 3197_left.jpg,3197,Normal,normal fundus,N
 4016_right.jpg,4016,Normal,normal fundus,N
@@ -195,25 +195,25 @@ filename,ID,class,keywords,label
 38_right.jpg,38,Normal,normal fundus,N
 235_right.jpg,235,Ageing,dry age-related macular degeneration,A
 31_right.jpg,31,Normal,normal fundus,N
-998_right.jpg,998,Ageing,dry age-related macular degeneration，hypertensive retinopathy,A
+998_right.jpg,998,Ageing,dry age-related macular degeneration hypertensive retinopathy,A
 1510_right.jpg,1510,Glaucoma,glaucoma,G
-493_left.jpg,493,Diabetes,moderate non proliferative retinopathy，laser spot,D
-1559_right.jpg,1559,Myopia,pathological myopia，suspected macular epimacular membrane,M
+493_left.jpg,493,Diabetes,moderate non proliferative retinopathy laser spot,D
+1559_right.jpg,1559,Myopia,pathological myopia suspected macular epimacular membrane,M
 319_right.jpg,319,Ageing,dry age-related macular degeneration,A
 1011_left.jpg,1011,Normal,normal fundus,N
 3332_left.jpg,3332,Normal,normal fundus,N
 4274_right.jpg,4274,Normal,normal fundus,N
 3153_left.jpg,3153,Normal,normal fundus,N
 2530_right.jpg,2530,Normal,normal fundus,N
-1214_left.jpg,1214,Glaucoma,glaucoma，macular epiretinal membrane,G
+1214_left.jpg,1214,Glaucoma,glaucoma macular epiretinal membrane,G
 4395_left.jpg,4395,Diabetes,mild nonproliferative retinopathy,D
-604_left.jpg,604,Diabetes,moderate non proliferative retinopathy，laser spot,D
-159_left.jpg,159,Diabetes,mild nonproliferative retinopathy，epiretinal membrane,D
+604_left.jpg,604,Diabetes,moderate non proliferative retinopathy laser spot,D
+159_left.jpg,159,Diabetes,mild nonproliferative retinopathy epiretinal membrane,D
 854_left.jpg,854,Normal,normal fundus,N
 249_right.jpg,249,Diabetes,proliferative diabetic retinopathy,D
 3202_right.jpg,3202,Normal,normal fundus,N
 2777_right.jpg,2777,Normal,normal fundus,N
-305_right.jpg,305,Hypertension,hypertensive retinopathy，macular epiretinal membrane,H
+305_right.jpg,305,Hypertension,hypertensive retinopathy macular epiretinal membrane,H
 4119_right.jpg,4119,Diabetes,moderate non proliferative retinopathy,D
 628_left.jpg,628,Other diseases,epiretinal membrane,O
 966_right.jpg,966,Normal,normal fundus,N
@@ -223,15 +223,15 @@ filename,ID,class,keywords,label
 1198_right.jpg,1198,Normal,normal fundus,N
 323_right.jpg,323,Hypertension,hypertensive retinopathy,H
 3965_right.jpg,3965,Diabetes,moderate non proliferative retinopathy,D
-803_right.jpg,803,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+803_right.jpg,803,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 587_right.jpg,587,Normal,normal fundus,N
 2122_right.jpg,2122,Cataract,cataract,C
 584_right.jpg,584,Normal,normal fundus,N
-2234_right.jpg,2234,Diabetes,moderate non proliferative retinopathy，cataract,D
+2234_right.jpg,2234,Diabetes,moderate non proliferative retinopathy cataract,D
 3094_right.jpg,3094,Normal,normal fundus,N
 4115_left.jpg,4115,Diabetes,mild nonproliferative retinopathy,D
 4254_left.jpg,4254,Diabetes,mild nonproliferative retinopathy,D
-1420_right.jpg,1420,Glaucoma,suspected glaucoma，refractive media opacity,G
+1420_right.jpg,1420,Glaucoma,suspected glaucoma refractive media opacity,G
 4436_right.jpg,4436,Diabetes,moderate non proliferative retinopathy,D
 140_left.jpg,140,Normal,normal fundus,N
 302_left.jpg,302,Normal,normal fundus,N
@@ -241,18 +241,18 @@ filename,ID,class,keywords,label
 3316_right.jpg,3316,Normal,normal fundus,N
 306_right.jpg,306,Other diseases,vitreous degeneration,O
 2795_left.jpg,2795,Normal,normal fundus,N
-484_left.jpg,484,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+484_left.jpg,484,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 4242_left.jpg,4242,Normal,normal fundus,N
 3275_left.jpg,3275,Normal,normal fundus,N
 4342_right.jpg,4342,Diabetes,mild nonproliferative retinopathy,D
 4688_left.jpg,4688,Diabetes,moderate non proliferative retinopathy,D
-850_left.jpg,850,Diabetes,moderate non proliferative retinopathy，macular epiretinal membrane,D
+850_left.jpg,850,Diabetes,moderate non proliferative retinopathy macular epiretinal membrane,D
 3240_left.jpg,3240,Normal,normal fundus,N
-81_right.jpg,81,Diabetes,moderate non proliferative retinopathy，cataract,D
-880_right.jpg,880,Other diseases,drusen，moderate non proliferative retinopathy,O
+81_right.jpg,81,Diabetes,moderate non proliferative retinopathy cataract,D
+880_right.jpg,880,Other diseases,drusen moderate non proliferative retinopathy,O
 872_left.jpg,872,Other diseases,vitreous degeneration,O
 298_left.jpg,298,Other diseases,macular epiretinal membrane,O
-857_left.jpg,857,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+857_left.jpg,857,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 4134_right.jpg,4134,Diabetes,moderate non proliferative retinopathy,D
 4034_left.jpg,4034,Diabetes,mild nonproliferative retinopathy,D
 1600_left.jpg,1600,Myopia,pathological myopia,M
@@ -260,7 +260,7 @@ filename,ID,class,keywords,label
 3951_right.jpg,3951,Hypertension,hypertensive retinopathy,H
 1124_right.jpg,1124,Normal,normal fundus,N
 18_left.jpg,18,Myopia,pathological myopia,M
-775_left.jpg,775,Ageing,dry age-related macular degeneration，diabetic retinopathy,A
+775_left.jpg,775,Ageing,dry age-related macular degeneration diabetic retinopathy,A
 3121_left.jpg,3121,Normal,normal fundus,N
 2360_right.jpg,2360,Normal,normal fundus,N
 1423_right.jpg,1423,Normal,normal fundus,N
@@ -271,14 +271,14 @@ filename,ID,class,keywords,label
 2161_left.jpg,2161,Diabetes,moderate non proliferative retinopathy,D
 2200_left.jpg,2200,Cataract,cataract,C
 2548_left.jpg,2548,Normal,normal fundus,N
-107_right.jpg,107,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+107_right.jpg,107,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 379_left.jpg,379,Myopia,pathological myopia,M
 4130_right.jpg,4130,Diabetes,mild nonproliferative retinopathy,D
 1985_right.jpg,1985,Other diseases,myelinated nerve fibers,O
 167_left.jpg,167,Glaucoma,glaucoma,G
 4051_left.jpg,4051,Diabetes,moderate non proliferative retinopathy,D
 962_right.jpg,962,Other diseases,drusen,O
-257_left.jpg,257,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+257_left.jpg,257,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 2341_right.jpg,2341,Normal,normal fundus,N
 515_right.jpg,515,Other diseases,macular epiretinal membrane,O
 2708_left.jpg,2708,Normal,normal fundus,N
@@ -323,7 +323,7 @@ filename,ID,class,keywords,label
 4081_left.jpg,4081,Diabetes,moderate non proliferative retinopathy,D
 4525_left.jpg,4525,Diabetes,moderate non proliferative retinopathy,D
 215_right.jpg,215,Normal,normal fundus,N
-391_right.jpg,391,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+391_right.jpg,391,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 639_right.jpg,639,Other diseases,drusen,O
 1245_right.jpg,1245,Other diseases,macular epiretinal membrane,O
 3218_left.jpg,3218,Normal,normal fundus,N
@@ -332,7 +332,7 @@ filename,ID,class,keywords,label
 655_right.jpg,655,Normal,normal fundus,N
 204_right.jpg,204,Other diseases,macular epiretinal membrane,O
 2146_right.jpg,2146,Cataract,cataract,C
-1084_right.jpg,1084,Cataract,cataract，mild nonproliferative retinopathy,C
+1084_right.jpg,1084,Cataract,cataract mild nonproliferative retinopathy,C
 3250_left.jpg,3250,Normal,normal fundus,N
 1599_right.jpg,1599,Myopia,pathological myopia,M
 4060_right.jpg,4060,Diabetes,mild nonproliferative retinopathy,D
@@ -349,8 +349,8 @@ filename,ID,class,keywords,label
 3305_right.jpg,3305,Normal,normal fundus,N
 655_left.jpg,655,Other diseases,refractive media opacity,O
 4250_right.jpg,4250,Diabetes,moderate non proliferative retinopathy,D
-1221_left.jpg,1221,Glaucoma,glaucoma，macular epiretinal membrane,G
-744_right.jpg,744,Other diseases,epiretinal membrane，moderate non proliferative retinopathy,O
+1221_left.jpg,1221,Glaucoma,glaucoma macular epiretinal membrane,G
+744_right.jpg,744,Other diseases,epiretinal membrane moderate non proliferative retinopathy,O
 2366_left.jpg,2366,Normal,normal fundus,N
 4458_left.jpg,4458,Diabetes,mild nonproliferative retinopathy,D
 906_left.jpg,906,Other diseases,drusen,O
@@ -359,7 +359,7 @@ filename,ID,class,keywords,label
 4530_right.jpg,4530,Diabetes,moderate non proliferative retinopathy,D
 3113_left.jpg,3113,Normal,normal fundus,N
 2604_right.jpg,2604,Normal,normal fundus,N
-400_right.jpg,400,Other diseases,drusen，drusen,O
+400_right.jpg,400,Other diseases,drusen drusen,O
 1630_left.jpg,1630,Myopia,pathological myopia,M
 4227_left.jpg,4227,Diabetes,moderate non proliferative retinopathy,D
 381_right.jpg,381,Normal,normal fundus,N
@@ -384,7 +384,7 @@ filename,ID,class,keywords,label
 2882_left.jpg,2882,Normal,normal fundus,N
 1050_left.jpg,1050,Other diseases,drusen,O
 4406_right.jpg,4406,Diabetes,moderate non proliferative retinopathy,D
-1408_right.jpg,1408,Glaucoma,suspected glaucoma，refractive media opacity,G
+1408_right.jpg,1408,Glaucoma,suspected glaucoma refractive media opacity,G
 1862_right.jpg,1862,Ageing,dry age-related macular degeneration,A
 590_left.jpg,590,Other diseases,myelinated nerve fibers,O
 1878_right.jpg,1878,Ageing,dry age-related macular degeneration,A
@@ -393,7 +393,7 @@ filename,ID,class,keywords,label
 4500_left.jpg,4500,Normal,normal fundus,N
 1072_right.jpg,1072,Normal,normal fundus,N
 149_left.jpg,149,Normal,normal fundus,N
-274_left.jpg,274,Diabetes,mild nonproliferative retinopathy，epiretinal membrane,D
+274_left.jpg,274,Diabetes,mild nonproliferative retinopathy epiretinal membrane,D
 1294_left.jpg,1294,Glaucoma,glaucoma,G
 4185_right.jpg,4185,Diabetes,moderate non proliferative retinopathy,D
 4373_left.jpg,4373,Normal,normal fundus,N
@@ -438,7 +438,7 @@ filename,ID,class,keywords,label
 3000_right.jpg,3000,Normal,normal fundus,N
 2354_right.jpg,2354,Normal,normal fundus,N
 2847_left.jpg,2847,Normal,normal fundus,N
-6_right.jpg,6,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+6_right.jpg,6,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 1612_right.jpg,1612,Myopia,pathological myopia,M
 353_right.jpg,353,Other diseases,myelinated nerve fibers,O
 2885_left.jpg,2885,Normal,normal fundus,N
@@ -453,7 +453,7 @@ filename,ID,class,keywords,label
 2853_right.jpg,2853,Normal,normal fundus,N
 1570_left.jpg,1570,Myopia,pathological myopia,M
 385_left.jpg,385,Normal,normal fundus,N
-544_right.jpg,544,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+544_right.jpg,544,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 1493_right.jpg,1493,Normal,normal fundus,N
 3329_right.jpg,3329,Normal,normal fundus,N
 3960_left.jpg,3960,Diabetes,mild nonproliferative retinopathy,D
@@ -464,7 +464,7 @@ filename,ID,class,keywords,label
 2498_left.jpg,2498,Normal,normal fundus,N
 2120_left.jpg,2120,Cataract,cataract,C
 963_right.jpg,963,Other diseases,drusen,O
-4120_right.jpg,4120,Diabetes,severe nonproliferative retinopathy，hypertensive retinopathy,D
+4120_right.jpg,4120,Diabetes,severe nonproliferative retinopathy hypertensive retinopathy,D
 1053_left.jpg,1053,Normal,normal fundus,N
 2514_left.jpg,2514,Normal,normal fundus,N
 2821_right.jpg,2821,Normal,normal fundus,N
@@ -496,7 +496,7 @@ filename,ID,class,keywords,label
 1344_right.jpg,1344,Glaucoma,glaucoma,G
 2141_left.jpg,2141,Diabetes,mild nonproliferative retinopathy,D
 4496_left.jpg,4496,Normal,normal fundus,N
-1474_left.jpg,1474,Glaucoma,glaucoma，moderate non proliferative retinopathy,G
+1474_left.jpg,1474,Glaucoma,glaucoma moderate non proliferative retinopathy,G
 628_right.jpg,628,Normal,normal fundus,N
 3427_right.jpg,3427,Normal,normal fundus,N
 2191_right.jpg,2191,Cataract,cataract,C
@@ -508,7 +508,7 @@ filename,ID,class,keywords,label
 3246_left.jpg,3246,Normal,normal fundus,N
 1523_left.jpg,1523,Myopia,pathological myopia,M
 1624_right.jpg,1624,Myopia,pathological myopia,M
-3981_right.jpg,3981,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+3981_right.jpg,3981,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 3152_right.jpg,3152,Normal,normal fundus,N
 3218_right.jpg,3218,Normal,normal fundus,N
 871_left.jpg,871,Diabetes,moderate non proliferative retinopathy,D
@@ -517,7 +517,7 @@ filename,ID,class,keywords,label
 4605_left.jpg,4605,Diabetes,moderate non proliferative retinopathy,D
 1301_left.jpg,1301,Glaucoma,glaucoma,G
 4127_right.jpg,4127,Diabetes,severe nonproliferative retinopathy,D
-1221_right.jpg,1221,Glaucoma,glaucoma，old central retinal vein occlusion,G
+1221_right.jpg,1221,Glaucoma,glaucoma old central retinal vein occlusion,G
 3984_right.jpg,3984,Normal,normal fundus,N
 2835_left.jpg,2835,Normal,normal fundus,N
 758_right.jpg,758,Other diseases,vitreous degeneration,O
@@ -525,7 +525,7 @@ filename,ID,class,keywords,label
 2384_right.jpg,2384,Normal,normal fundus,N
 4441_left.jpg,4441,Diabetes,moderate non proliferative retinopathy,D
 10_right.jpg,10,Normal,normal fundus,N
-4784_right.jpg,4784,Hypertension,hypertensive retinopathy，age-related macular degeneration,H
+4784_right.jpg,4784,Hypertension,hypertensive retinopathy age-related macular degeneration,H
 4637_left.jpg,4637,Normal,normal fundus,N
 4529_right.jpg,4529,Diabetes,moderate non proliferative retinopathy,D
 3224_right.jpg,3224,Normal,normal fundus,N
@@ -543,13 +543,13 @@ filename,ID,class,keywords,label
 939_left.jpg,939,Normal,normal fundus,N
 284_left.jpg,284,Diabetes,moderate non proliferative retinopathy,D
 3061_left.jpg,3061,Normal,normal fundus,N
-596_left.jpg,596,Other diseases,epiretinal membrane，drusen,O
-4330_right.jpg,4330,Diabetes,mild nonproliferative retinopathy，dry age-related macular degeneration,D
+596_left.jpg,596,Other diseases,epiretinal membrane drusen,O
+4330_right.jpg,4330,Diabetes,mild nonproliferative retinopathy dry age-related macular degeneration,D
 42_left.jpg,42,Normal,normal fundus,N
 2167_right.jpg,2167,Cataract,cataract,C
 1681_right.jpg,1681,Myopia,pathological myopia,M
 2769_right.jpg,2769,Normal,normal fundus,N
-217_right.jpg,217,Diabetes,moderate non proliferative retinopathy，spotted membranous change,D
+217_right.jpg,217,Diabetes,moderate non proliferative retinopathy spotted membranous change,D
 156_left.jpg,156,Other diseases,refractive media opacity,O
 1071_left.jpg,1071,Diabetes,moderate non proliferative retinopathy,D
 4330_left.jpg,4330,Normal,normal fundus,N
@@ -572,7 +572,7 @@ filename,ID,class,keywords,label
 223_left.jpg,223,Diabetes,moderate non proliferative retinopathy,D
 4201_right.jpg,4201,Diabetes,mild nonproliferative retinopathy,D
 3139_right.jpg,3139,Normal,normal fundus,N
-2020_left.jpg,2020,Other diseases,myelinated nerve fibers，suspected glaucoma,O
+2020_left.jpg,2020,Other diseases,myelinated nerve fibers suspected glaucoma,O
 4024_left.jpg,4024,Normal,normal fundus,N
 3135_left.jpg,3135,Normal,normal fundus,N
 1610_left.jpg,1610,Myopia,pathological myopia,M
@@ -591,8 +591,8 @@ filename,ID,class,keywords,label
 2147_right.jpg,2147,Other diseases,refractive media opacity,O
 59_left.jpg,59,Normal,normal fundus,N
 3200_left.jpg,3200,Normal,normal fundus,N
-1279_right.jpg,1279,Glaucoma,glaucoma，myopia retinopathy,G
-739_right.jpg,739,Other diseases,drusen，vitreous degeneration,O
+1279_right.jpg,1279,Glaucoma,glaucoma myopia retinopathy,G
+739_right.jpg,739,Other diseases,drusen vitreous degeneration,O
 1153_left.jpg,1153,Diabetes,severe nonproliferative retinopathy,D
 3080_right.jpg,3080,Normal,normal fundus,N
 2223_right.jpg,2223,Cataract,cataract,C
@@ -606,7 +606,7 @@ filename,ID,class,keywords,label
 343_right.jpg,343,Other diseases,epiretinal membrane,O
 680_right.jpg,680,Normal,normal fundus,N
 2645_right.jpg,2645,Normal,normal fundus,N
-763_right.jpg,763,Diabetes,moderate non proliferative retinopathy，atrophic change,D
+763_right.jpg,763,Diabetes,moderate non proliferative retinopathy atrophic change,D
 4513_right.jpg,4513,Diabetes,mild nonproliferative retinopathy,D
 3157_right.jpg,3157,Normal,normal fundus,N
 4057_left.jpg,4057,Normal,normal fundus,N
@@ -616,7 +616,7 @@ filename,ID,class,keywords,label
 1554_right.jpg,1554,Myopia,pathological myopia,M
 260_right.jpg,260,Ageing,dry age-related macular degeneration,A
 551_left.jpg,551,Diabetes,severe nonproliferative retinopathy,D
-247_left.jpg,247,Ageing,dry age-related macular degeneration，glaucoma,A
+247_left.jpg,247,Ageing,dry age-related macular degeneration glaucoma,A
 3112_left.jpg,3112,Normal,normal fundus,N
 4422_right.jpg,4422,Diabetes,moderate non proliferative retinopathy,D
 3059_left.jpg,3059,Normal,normal fundus,N
@@ -636,7 +636,7 @@ filename,ID,class,keywords,label
 367_right.jpg,367,Diabetes,moderate non proliferative retinopathy,D
 3443_right.jpg,3443,Normal,normal fundus,N
 4225_right.jpg,4225,Diabetes,mild nonproliferative retinopathy,D
-1488_right.jpg,1488,Glaucoma,glaucoma，moderate non proliferative retinopathy,G
+1488_right.jpg,1488,Glaucoma,glaucoma moderate non proliferative retinopathy,G
 2577_left.jpg,2577,Normal,normal fundus,N
 4504_right.jpg,4504,Diabetes,severe nonproliferative retinopathy,D
 1325_left.jpg,1325,Glaucoma,glaucoma,G
@@ -667,8 +667,8 @@ filename,ID,class,keywords,label
 1207_left.jpg,1207,Other diseases,macular epiretinal membrane,O
 633_left.jpg,633,Normal,normal fundus,N
 2798_right.jpg,2798,Normal,normal fundus,N
-268_left.jpg,268,Diabetes,moderate non proliferative retinopathy，laser spot,D
-365_right.jpg,365,Hypertension,hypertensive retinopathy，suspected glaucoma,H
+268_left.jpg,268,Diabetes,moderate non proliferative retinopathy laser spot,D
+365_right.jpg,365,Hypertension,hypertensive retinopathy suspected glaucoma,H
 3420_left.jpg,3420,Normal,normal fundus,N
 712_right.jpg,712,Diabetes,diabetic retinopathy,D
 1146_right.jpg,1146,Normal,normal fundus,N
@@ -702,7 +702,7 @@ filename,ID,class,keywords,label
 1206_left.jpg,1206,Diabetes,mild nonproliferative retinopathy,D
 1987_right.jpg,1987,Other diseases,myelinated nerve fibers,O
 2587_right.jpg,2587,Normal,normal fundus,N
-642_left.jpg,642,Other diseases,epiretinal membrane，laser spot，severe proliferative diabetic retinopathy,O
+642_left.jpg,642,Other diseases,epiretinal membrane laser spot severe proliferative diabetic retinopathy,O
 370_left.jpg,370,Other diseases,epiretinal membrane,O
 2109_right.jpg,2109,Cataract,cataract,C
 1867_left.jpg,1867,Hypertension,hypertensive retinopathy,H
@@ -713,7 +713,7 @@ filename,ID,class,keywords,label
 3116_right.jpg,3116,Normal,normal fundus,N
 2446_right.jpg,2446,Normal,normal fundus,N
 1545_left.jpg,1545,Myopia,pathological myopia,M
-1520_left.jpg,1520,Other diseases,refractive media opacity，pathological myopia,O
+1520_left.jpg,1520,Other diseases,refractive media opacity pathological myopia,O
 4425_right.jpg,4425,Diabetes,moderate non proliferative retinopathy,D
 4294_right.jpg,4294,Diabetes,severe nonproliferative retinopathy,D
 2163_left.jpg,2163,Cataract,cataract,C
@@ -753,7 +753,7 @@ filename,ID,class,keywords,label
 31_left.jpg,31,Other diseases,epiretinal membrane,O
 2903_left.jpg,2903,Normal,normal fundus,N
 824_left.jpg,824,Cataract,cataract,C
-519_right.jpg,519,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+519_right.jpg,519,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 3221_left.jpg,3221,Normal,normal fundus,N
 796_left.jpg,796,Diabetes,moderate non proliferative retinopathy,D
 1427_right.jpg,1427,Glaucoma,suspected glaucoma,G
@@ -762,7 +762,7 @@ filename,ID,class,keywords,label
 898_right.jpg,898,Diabetes,mild nonproliferative retinopathy,D
 4653_left.jpg,4653,Diabetes,moderate non proliferative retinopathy,D
 374_right.jpg,374,Hypertension,hypertensive retinopathy,H
-11_left.jpg,11,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+11_left.jpg,11,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 879_right.jpg,879,Normal,normal fundus,N
 888_left.jpg,888,Ageing,dry age-related macular degeneration,A
 3377_left.jpg,3377,Normal,normal fundus,N
@@ -795,19 +795,19 @@ filename,ID,class,keywords,label
 954_left.jpg,954,Other diseases,epiretinal membrane,O
 4546_left.jpg,4546,Diabetes,moderate non proliferative retinopathy,D
 78_right.jpg,78,Normal,normal fundus,N
-890_right.jpg,890,Diabetes,moderate non proliferative retinopathy，myelinated nerve fibers,D
-1383_left.jpg,1383,Other diseases,macular epiretinal membrane，glaucoma,O
+890_right.jpg,890,Diabetes,moderate non proliferative retinopathy myelinated nerve fibers,D
+1383_left.jpg,1383,Other diseases,macular epiretinal membrane glaucoma,O
 2750_right.jpg,2750,Normal,normal fundus,N
 5_right.jpg,5,Diabetes,moderate non proliferative retinopathy,D
 4306_right.jpg,4306,Diabetes,moderate non proliferative retinopathy,D
 73_left.jpg,73,Other diseases,macular epiretinal membrane,O
-923_left.jpg,923,Diabetes,moderate non proliferative retinopathy，atrophic change,D
+923_left.jpg,923,Diabetes,moderate non proliferative retinopathy atrophic change,D
 4602_right.jpg,4602,Normal,normal fundus,N
 2517_right.jpg,2517,Normal,normal fundus,N
 1562_left.jpg,1562,Myopia,pathological myopia,M
 562_right.jpg,562,Diabetes,severe nonproliferative retinopathy,D
 502_right.jpg,502,Other diseases,drusen,O
-4037_left.jpg,4037,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+4037_left.jpg,4037,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 730_left.jpg,730,Other diseases,epiretinal membrane,O
 4044_right.jpg,4044,Diabetes,moderate non proliferative retinopathy,D
 2178_left.jpg,2178,Cataract,cataract,C
@@ -830,7 +830,7 @@ filename,ID,class,keywords,label
 4555_right.jpg,4555,Diabetes,moderate non proliferative retinopathy,D
 1084_left.jpg,1084,Diabetes,moderate non proliferative retinopathy,D
 2838_right.jpg,2838,Normal,normal fundus,N
-2792_left.jpg,2792,Normal,normal fundus，normal fundus,N
+2792_left.jpg,2792,Normal,normal fundus normal fundus,N
 1609_left.jpg,1609,Myopia,pathological myopia,M
 1270_right.jpg,1270,Glaucoma,glaucoma,G
 632_left.jpg,632,Other diseases,myelinated nerve fibers,O
@@ -841,7 +841,7 @@ filename,ID,class,keywords,label
 542_left.jpg,542,Diabetes,diabetic retinopathy,D
 480_left.jpg,480,Other diseases,macular epiretinal membrane,O
 115_right.jpg,115,Normal,normal fundus,N
-699_right.jpg,699,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+699_right.jpg,699,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 865_right.jpg,865,Diabetes,mild nonproliferative retinopathy,D
 270_right.jpg,270,Ageing,wet age-related macular degeneration,A
 3374_right.jpg,3374,Normal,normal fundus,N
@@ -882,7 +882,7 @@ filename,ID,class,keywords,label
 3430_right.jpg,3430,Normal,normal fundus,N
 2422_right.jpg,2422,Normal,normal fundus,N
 2926_right.jpg,2926,Normal,normal fundus,N
-1230_right.jpg,1230,Glaucoma,glaucoma，diabetic retinopathy,G
+1230_right.jpg,1230,Glaucoma,glaucoma diabetic retinopathy,G
 2689_right.jpg,2689,Normal,normal fundus,N
 4563_left.jpg,4563,Diabetes,mild nonproliferative retinopathy,D
 2768_left.jpg,2768,Normal,normal fundus,N
@@ -892,7 +892,7 @@ filename,ID,class,keywords,label
 3145_right.jpg,3145,Normal,normal fundus,N
 1284_right.jpg,1284,Glaucoma,glaucoma,G
 1392_right.jpg,1392,Glaucoma,glaucoma,G
-4142_right.jpg,4142,Diabetes,severe nonproliferative retinopathy，hypertensive retinopathy,D
+4142_right.jpg,4142,Diabetes,severe nonproliferative retinopathy hypertensive retinopathy,D
 354_right.jpg,354,Cataract,cataract,C
 1606_left.jpg,1606,Myopia,pathological myopia,M
 2722_right.jpg,2722,Normal,normal fundus,N
@@ -929,14 +929,14 @@ filename,ID,class,keywords,label
 314_left.jpg,314,Diabetes,moderate non proliferative retinopathy,D
 536_left.jpg,536,Normal,normal fundus,N
 4562_right.jpg,4562,Hypertension,hypertensive retinopathy,H
-436_right.jpg,436,Diabetes,moderate non proliferative retinopathy，abnormal pigment ,D
+436_right.jpg,436,Diabetes,moderate non proliferative retinopathy abnormal pigment ,D
 4608_left.jpg,4608,Normal,normal fundus,N
 910_right.jpg,910,Ageing,dry age-related macular degeneration,A
 3219_right.jpg,3219,Normal,normal fundus,N
 3374_left.jpg,3374,Normal,normal fundus,N
 2670_left.jpg,2670,Normal,normal fundus,N
 635_left.jpg,635,Diabetes,moderate non proliferative retinopathy,D
-754_right.jpg,754,Hypertension,hypertensive retinopathy，suspected diabetic retinopathy,H
+754_right.jpg,754,Hypertension,hypertensive retinopathy suspected diabetic retinopathy,H
 4236_left.jpg,4236,Diabetes,moderate non proliferative retinopathy,D
 3941_left.jpg,3941,Diabetes,moderate non proliferative retinopathy,D
 1334_right.jpg,1334,Glaucoma,glaucoma,G
@@ -957,7 +957,7 @@ filename,ID,class,keywords,label
 2998_right.jpg,2998,Normal,normal fundus,N
 3387_right.jpg,3387,Normal,normal fundus,N
 4619_right.jpg,4619,Diabetes,moderate non proliferative retinopathy,D
-176_right.jpg,176,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+176_right.jpg,176,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 4029_right.jpg,4029,Diabetes,moderate non proliferative retinopathy,D
 1553_right.jpg,1553,Myopia,pathological myopia,M
 3247_right.jpg,3247,Normal,normal fundus,N
@@ -990,7 +990,7 @@ filename,ID,class,keywords,label
 3273_right.jpg,3273,Normal,normal fundus,N
 821_left.jpg,821,Ageing,dry age-related macular degeneration,A
 3101_left.jpg,3101,Normal,normal fundus,N
-857_right.jpg,857,Other diseases,macular epiretinal membrane，severe nonproliferative retinopathy，old branch retinal vein occlusion,O
+857_right.jpg,857,Other diseases,macular epiretinal membrane severe nonproliferative retinopathy old branch retinal vein occlusion,O
 3401_left.jpg,3401,Normal,normal fundus,N
 284_right.jpg,284,Diabetes,moderate non proliferative retinopathy,D
 756_right.jpg,756,Other diseases,macular epiretinal membrane,O
@@ -1041,7 +1041,7 @@ filename,ID,class,keywords,label
 759_right.jpg,759,Hypertension,hypertensive retinopathy,H
 2845_left.jpg,2845,Normal,normal fundus,N
 4283_right.jpg,4283,Diabetes,mild nonproliferative retinopathy,D
-3986_right.jpg,3986,Diabetes,proliferative diabetic retinopathy，hypertensive retinopathy,D
+3986_right.jpg,3986,Diabetes,proliferative diabetic retinopathy hypertensive retinopathy,D
 1028_left.jpg,1028,Other diseases,branch retinal vein occlusion,O
 4647_left.jpg,4647,Diabetes,severe nonproliferative retinopathy,D
 21_right.jpg,21,Other diseases,epiretinal membrane,O
@@ -1052,7 +1052,7 @@ filename,ID,class,keywords,label
 1091_right.jpg,1091,Ageing,dry age-related macular degeneration,A
 728_right.jpg,728,Normal,normal fundus,N
 4491_left.jpg,4491,Diabetes,severe proliferative diabetic retinopathy,D
-1251_left.jpg,1251,Glaucoma,glaucoma，diabetic retinopathy,G
+1251_left.jpg,1251,Glaucoma,glaucoma diabetic retinopathy,G
 266_right.jpg,266,Ageing,dry age-related macular degeneration,A
 649_left.jpg,649,Normal,normal fundus,N
 686_left.jpg,686,Hypertension,hypertensive retinopathy,H
@@ -1086,8 +1086,8 @@ filename,ID,class,keywords,label
 4327_right.jpg,4327,Hypertension,hypertensive retinopathy,H
 389_right.jpg,389,Normal,normal fundus,N
 2235_right.jpg,2235,Normal,normal fundus,N
-4068_right.jpg,4068,Diabetes,moderate non proliferative retinopathy，age-related macular degeneration,D
-1148_right.jpg,1148,Other diseases,macular epiretinal membrane，atrophic change,O
+4068_right.jpg,4068,Diabetes,moderate non proliferative retinopathy age-related macular degeneration,D
+1148_right.jpg,1148,Other diseases,macular epiretinal membrane atrophic change,O
 3244_left.jpg,3244,Normal,normal fundus,N
 3209_left.jpg,3209,Normal,normal fundus,N
 3417_right.jpg,3417,Normal,normal fundus,N
@@ -1102,7 +1102,7 @@ filename,ID,class,keywords,label
 645_left.jpg,645,Other diseases,macular epiretinal membrane,O
 3386_right.jpg,3386,Normal,normal fundus,N
 2406_left.jpg,2406,Normal,normal fundus,N
-579_right.jpg,579,Diabetes,mild nonproliferative retinopathy，myelinated nerve fibers,D
+579_right.jpg,579,Diabetes,mild nonproliferative retinopathy myelinated nerve fibers,D
 4451_left.jpg,4451,Diabetes,mild nonproliferative retinopathy,D
 1102_left.jpg,1102,Cataract,cataract,C
 561_right.jpg,561,Hypertension,hypertensive retinopathy,H
@@ -1116,7 +1116,7 @@ filename,ID,class,keywords,label
 3201_right.jpg,3201,Normal,normal fundus,N
 2378_left.jpg,2378,Normal,normal fundus,N
 3232_right.jpg,3232,Normal,normal fundus,N
-345_right.jpg,345,Hypertension,hypertensive retinopathy，cataract,H
+345_right.jpg,345,Hypertension,hypertensive retinopathy cataract,H
 1282_right.jpg,1282,Glaucoma,glaucoma,G
 1133_left.jpg,1133,Other diseases,myelinated nerve fibers,O
 2471_right.jpg,2471,Normal,normal fundus,N
@@ -1129,12 +1129,12 @@ filename,ID,class,keywords,label
 4116_right.jpg,4116,Diabetes,moderate non proliferative retinopathy,D
 2563_right.jpg,2563,Normal,normal fundus,N
 559_right.jpg,559,Other diseases,vitreous degeneration,O
-574_right.jpg,574,Diabetes,moderate non proliferative retinopathy，central retinal artery occlusion,D
+574_right.jpg,574,Diabetes,moderate non proliferative retinopathy central retinal artery occlusion,D
 3059_right.jpg,3059,Normal,normal fundus,N
 2745_left.jpg,2745,Normal,normal fundus,N
 3180_left.jpg,3180,Normal,normal fundus,N
 4222_left.jpg,4222,Diabetes,moderate non proliferative retinopathy,D
-1994_left.jpg,1994,Cataract,cataract，myelinated nerve fibers，moderate non proliferative retinopathy,C
+1994_left.jpg,1994,Cataract,cataract myelinated nerve fibers moderate non proliferative retinopathy,C
 4137_right.jpg,4137,Diabetes,severe nonproliferative retinopathy,D
 4500_right.jpg,4500,Diabetes,mild nonproliferative retinopathy,D
 1048_left.jpg,1048,Hypertension,hypertensive retinopathy,H
@@ -1201,10 +1201,10 @@ filename,ID,class,keywords,label
 4076_left.jpg,4076,Normal,normal fundus,N
 3235_left.jpg,3235,Normal,normal fundus,N
 4455_right.jpg,4455,Normal,normal fundus,N
-41_left.jpg,41,Other diseases,epiretinal membrane，moderate non proliferative retinopathy，laser spot,O
+41_left.jpg,41,Other diseases,epiretinal membrane moderate non proliferative retinopathy laser spot,O
 1549_right.jpg,1549,Myopia,pathological myopia,M
 589_left.jpg,589,Normal,normal fundus,N
-1289_right.jpg,1289,Glaucoma,glaucoma，myopia retinopathy,G
+1289_right.jpg,1289,Glaucoma,glaucoma myopia retinopathy,G
 4049_right.jpg,4049,Diabetes,moderate non proliferative retinopathy,D
 2619_right.jpg,2619,Normal,normal fundus,N
 893_right.jpg,893,Normal,normal fundus,N
@@ -1262,9 +1262,9 @@ filename,ID,class,keywords,label
 1569_left.jpg,1569,Normal,normal fundus,N
 2665_left.jpg,2665,Normal,normal fundus,N
 489_right.jpg,489,Diabetes,mild nonproliferative retinopathy,D
-1718_left.jpg,1718,Diabetes,moderate non proliferative retinopathy，laser spot,D
-778_left.jpg,778,Other diseases,myelinated nerve fibers，moderate non proliferative retinopathy,O
-796_right.jpg,796,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+1718_left.jpg,1718,Diabetes,moderate non proliferative retinopathy laser spot,D
+778_left.jpg,778,Other diseases,myelinated nerve fibers moderate non proliferative retinopathy,O
+796_right.jpg,796,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 513_left.jpg,513,Normal,normal fundus,N
 4032_right.jpg,4032,Diabetes,moderate non proliferative retinopathy,D
 3419_right.jpg,3419,Normal,normal fundus,N
@@ -1274,7 +1274,7 @@ filename,ID,class,keywords,label
 2489_right.jpg,2489,Normal,normal fundus,N
 1168_left.jpg,1168,Normal,normal fundus,N
 3009_left.jpg,3009,Normal,normal fundus,N
-111_right.jpg,111,Diabetes,moderate non proliferative retinopathy，white vessel,D
+111_right.jpg,111,Diabetes,moderate non proliferative retinopathy white vessel,D
 1008_left.jpg,1008,Normal,normal fundus,N
 1060_left.jpg,1060,Normal,normal fundus,N
 2610_right.jpg,2610,Normal,normal fundus,N
@@ -1291,7 +1291,7 @@ filename,ID,class,keywords,label
 214_left.jpg,214,Normal,normal fundus,N
 308_right.jpg,308,Other diseases,macular epiretinal membrane,O
 3302_right.jpg,3302,Normal,normal fundus,N
-4207_left.jpg,4207,Diabetes,mild nonproliferative retinopathy，hypertensive retinopathy,D
+4207_left.jpg,4207,Diabetes,mild nonproliferative retinopathy hypertensive retinopathy,D
 1129_left.jpg,1129,Other diseases,vitreous degeneration,O
 3405_right.jpg,3405,Normal,normal fundus,N
 734_left.jpg,734,Normal,normal fundus,N
@@ -1311,11 +1311,11 @@ filename,ID,class,keywords,label
 4219_left.jpg,4219,Normal,normal fundus,N
 335_left.jpg,335,Normal,normal fundus,N
 1547_right.jpg,1547,Myopia,pathological myopia,M
-450_right.jpg,450,Other diseases,myelinated nerve fibers，macular epiretinal membrane,O
+450_right.jpg,450,Other diseases,myelinated nerve fibers macular epiretinal membrane,O
 2613_right.jpg,2613,Normal,normal fundus,N
-576_left.jpg,576,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+576_left.jpg,576,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 570_left.jpg,570,Normal,normal fundus,N
-3981_left.jpg,3981,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+3981_left.jpg,3981,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 2679_left.jpg,2679,Normal,normal fundus,N
 4181_right.jpg,4181,Diabetes,moderate non proliferative retinopathy,D
 4203_right.jpg,4203,Diabetes,moderate non proliferative retinopathy,D
@@ -1329,7 +1329,7 @@ filename,ID,class,keywords,label
 2538_left.jpg,2538,Normal,normal fundus,N
 3159_right.jpg,3159,Normal,normal fundus,N
 2435_left.jpg,2435,Normal,normal fundus,N
-810_right.jpg,810,Other diseases,epiretinal membrane，mild nonproliferative retinopathy,O
+810_right.jpg,810,Other diseases,epiretinal membrane mild nonproliferative retinopathy,O
 1470_right.jpg,1470,Glaucoma,glaucoma,G
 86_left.jpg,86,Diabetes,mild nonproliferative retinopathy,D
 502_left.jpg,502,Other diseases,drusen,O
@@ -1340,11 +1340,11 @@ filename,ID,class,keywords,label
 2872_left.jpg,2872,Normal,normal fundus,N
 1443_left.jpg,1443,Glaucoma,glaucoma,G
 1515_left.jpg,1515,Glaucoma,glaucoma,G
-1881_left.jpg,1881,Ageing,dry age-related macular degeneration，glaucoma,A
+1881_left.jpg,1881,Ageing,dry age-related macular degeneration glaucoma,A
 2162_right.jpg,2162,Cataract,cataract,C
 2918_right.jpg,2918,Normal,normal fundus,N
 4141_left.jpg,4141,Normal,normal fundus,N
-948_right.jpg,948,Diabetes,moderate non proliferative retinopathy，macular epiretinal membrane,D
+948_right.jpg,948,Diabetes,moderate non proliferative retinopathy macular epiretinal membrane,D
 2163_right.jpg,2163,Cataract,cataract,C
 815_right.jpg,815,Ageing,dry age-related macular degeneration,A
 1307_left.jpg,1307,Glaucoma,glaucoma,G
@@ -1369,7 +1369,7 @@ filename,ID,class,keywords,label
 2237_left.jpg,2237,Normal,normal fundus,N
 1060_right.jpg,1060,Normal,normal fundus,N
 454_left.jpg,454,Other diseases,vitreous degeneration,O
-1290_left.jpg,1290,Glaucoma,glaucoma，hypertensive retinopathy,G
+1290_left.jpg,1290,Glaucoma,glaucoma hypertensive retinopathy,G
 4552_left.jpg,4552,Diabetes,moderate non proliferative retinopathy,D
 3410_right.jpg,3410,Normal,normal fundus,N
 738_left.jpg,738,Other diseases,maculopathy,O
@@ -1385,7 +1385,7 @@ filename,ID,class,keywords,label
 3424_right.jpg,3424,Normal,normal fundus,N
 2205_left.jpg,2205,Normal,normal fundus,N
 844_right.jpg,844,Other diseases,drusen,O
-130_left.jpg,130,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+130_left.jpg,130,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 179_left.jpg,179,Hypertension,hypertensive retinopathy,H
 2565_left.jpg,2565,Normal,normal fundus,N
 24_left.jpg,24,Normal,normal fundus,N
@@ -1402,7 +1402,7 @@ filename,ID,class,keywords,label
 1473_right.jpg,1473,Glaucoma,glaucoma,G
 2452_left.jpg,2452,Normal,normal fundus,N
 2032_left.jpg,2032,Diabetes,moderate non proliferative retinopathy,D
-1309_left.jpg,1309,Glaucoma,glaucoma，hypertensive retinopathy,G
+1309_left.jpg,1309,Glaucoma,glaucoma hypertensive retinopathy,G
 2755_left.jpg,2755,Normal,normal fundus,N
 4184_right.jpg,4184,Diabetes,moderate non proliferative retinopathy,D
 2923_right.jpg,2923,Normal,normal fundus,N
@@ -1418,7 +1418,7 @@ filename,ID,class,keywords,label
 970_right.jpg,970,Cataract,cataract,C
 2176_right.jpg,2176,Cataract,cataract,C
 3094_left.jpg,3094,Normal,normal fundus,N
-1426_left.jpg,1426,Glaucoma,suspected glaucoma，drusen,G
+1426_left.jpg,1426,Glaucoma,suspected glaucoma drusen,G
 638_left.jpg,638,Ageing,dry age-related macular degeneration,A
 4655_left.jpg,4655,Diabetes,mild nonproliferative retinopathy,D
 4210_right.jpg,4210,Diabetes,moderate non proliferative retinopathy,D
@@ -1427,7 +1427,7 @@ filename,ID,class,keywords,label
 1487_right.jpg,1487,Glaucoma,glaucoma,G
 3309_right.jpg,3309,Normal,normal fundus,N
 630_right.jpg,630,Diabetes,moderate non proliferative retinopathy,D
-1434_left.jpg,1434,Glaucoma,suspected glaucoma，moderate non proliferative retinopathy,G
+1434_left.jpg,1434,Glaucoma,suspected glaucoma moderate non proliferative retinopathy,G
 3298_left.jpg,3298,Normal,normal fundus,N
 4311_left.jpg,4311,Diabetes,moderate non proliferative retinopathy,D
 4574_left.jpg,4574,Diabetes,moderate non proliferative retinopathy,D
@@ -1451,7 +1451,7 @@ filename,ID,class,keywords,label
 715_left.jpg,715,Other diseases,macular epiretinal membrane,O
 4148_right.jpg,4148,Diabetes,moderate non proliferative retinopathy,D
 3957_right.jpg,3957,Diabetes,mild nonproliferative retinopathy,D
-847_left.jpg,847,Ageing,wet age-related macular degeneration，diffuse chorioretinal atrophy,A
+847_left.jpg,847,Ageing,wet age-related macular degeneration diffuse chorioretinal atrophy,A
 3358_right.jpg,3358,Normal,normal fundus,N
 2330_left.jpg,2330,Normal,normal fundus,N
 564_left.jpg,564,Ageing,dry age-related macular degeneration,A
@@ -1461,13 +1461,13 @@ filename,ID,class,keywords,label
 4418_left.jpg,4418,Diabetes,mild nonproliferative retinopathy,D
 4519_left.jpg,4519,Diabetes,moderate non proliferative retinopathy,D
 2900_right.jpg,2900,Normal,normal fundus,N
-733_left.jpg,733,Diabetes,moderate non proliferative retinopathy，myelinated nerve fibers,D
+733_left.jpg,733,Diabetes,moderate non proliferative retinopathy myelinated nerve fibers,D
 1054_left.jpg,1054,Normal,normal fundus,N
 3077_left.jpg,3077,Normal,normal fundus,N
 3008_right.jpg,3008,Normal,normal fundus,N
 4234_left.jpg,4234,Diabetes,moderate non proliferative retinopathy,D
 2239_right.jpg,2239,Cataract,cataract,C
-642_right.jpg,642,Other diseases,epiretinal membrane，moderate non proliferative retinopathy，laser spot,O
+642_right.jpg,642,Other diseases,epiretinal membrane moderate non proliferative retinopathy laser spot,O
 750_right.jpg,750,Diabetes,moderate non proliferative retinopathy,D
 3421_right.jpg,3421,Normal,normal fundus,N
 968_right.jpg,968,Hypertension,hypertensive retinopathy,H
@@ -1486,7 +1486,7 @@ filename,ID,class,keywords,label
 4539_left.jpg,4539,Diabetes,mild nonproliferative retinopathy,D
 3186_right.jpg,3186,Normal,normal fundus,N
 2375_right.jpg,2375,Normal,normal fundus,N
-746_right.jpg,746,Glaucoma,suspected glaucoma，suspicious diabetic retinopathy,G
+746_right.jpg,746,Glaucoma,suspected glaucoma suspicious diabetic retinopathy,G
 3105_left.jpg,3105,Normal,normal fundus,N
 2750_left.jpg,2750,Normal,normal fundus,N
 702_left.jpg,702,Normal,normal fundus,N
@@ -1501,7 +1501,7 @@ filename,ID,class,keywords,label
 4043_right.jpg,4043,Diabetes,severe nonproliferative retinopathy,D
 1994_right.jpg,1994,Diabetes,mild nonproliferative retinopathy,D
 1117_left.jpg,1117,Normal,normal fundus,N
-37_left.jpg,37,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+37_left.jpg,37,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 1288_left.jpg,1288,Glaucoma,glaucoma,G
 2379_left.jpg,2379,Normal,normal fundus,N
 921_left.jpg,921,Other diseases,drusen,O
@@ -1512,7 +1512,7 @@ filename,ID,class,keywords,label
 229_left.jpg,229,Diabetes,severe nonproliferative retinopathy,D
 975_left.jpg,975,Normal,normal fundus,N
 3416_left.jpg,3416,Normal,normal fundus,N
-77_left.jpg,77,Diabetes,moderate non proliferative retinopathy，myelinated nerve fibers,D
+77_left.jpg,77,Diabetes,moderate non proliferative retinopathy myelinated nerve fibers,D
 500_left.jpg,500,Other diseases,macular epiretinal membrane,O
 3342_right.jpg,3342,Normal,normal fundus,N
 1145_right.jpg,1145,Normal,normal fundus,N
@@ -1537,7 +1537,7 @@ filename,ID,class,keywords,label
 2864_right.jpg,2864,Normal,normal fundus,N
 809_left.jpg,809,Cataract,cataract,C
 4074_left.jpg,4074,Diabetes,mild nonproliferative retinopathy,D
-972_right.jpg,972,Diabetes,mild nonproliferative retinopathy，vitreous degeneration,D
+972_right.jpg,972,Diabetes,mild nonproliferative retinopathy vitreous degeneration,D
 3357_right.jpg,3357,Normal,normal fundus,N
 2108_left.jpg,2108,Cataract,cataract,C
 2862_right.jpg,2862,Normal,normal fundus,N
@@ -1546,7 +1546,7 @@ filename,ID,class,keywords,label
 2800_left.jpg,2800,Normal,normal fundus,N
 88_right.jpg,88,Other diseases,macular epiretinal membrane,O
 4139_left.jpg,4139,Diabetes,mild nonproliferative retinopathy,D
-338_left.jpg,338,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+338_left.jpg,338,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 3210_left.jpg,3210,Normal,normal fundus,N
 3364_right.jpg,3364,Normal,normal fundus,N
 3958_right.jpg,3958,Diabetes,mild nonproliferative retinopathy,D
@@ -1562,7 +1562,7 @@ filename,ID,class,keywords,label
 469_left.jpg,469,Diabetes,moderate non proliferative retinopathy,D
 3093_left.jpg,3093,Normal,normal fundus,N
 1365_left.jpg,1365,Glaucoma,glaucoma,G
-1211_left.jpg,1211,Glaucoma,glaucoma，optic nerve atrophy,G
+1211_left.jpg,1211,Glaucoma,glaucoma optic nerve atrophy,G
 4431_right.jpg,4431,Diabetes,moderate non proliferative retinopathy,D
 1418_left.jpg,1418,Glaucoma,suspected glaucoma,G
 309_right.jpg,309,Diabetes,moderate non proliferative retinopathy,D
@@ -1586,13 +1586,13 @@ filename,ID,class,keywords,label
 4388_right.jpg,4388,Diabetes,mild nonproliferative retinopathy,D
 408_right.jpg,408,Normal,normal fundus,N
 4060_left.jpg,4060,Normal,normal fundus,N
-11_right.jpg,11,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+11_right.jpg,11,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 245_right.jpg,245,Other diseases,epiretinal membrane,O
 3991_left.jpg,3991,Diabetes,moderate non proliferative retinopathy,D
 3047_left.jpg,3047,Normal,normal fundus,N
 3980_left.jpg,3980,Diabetes,mild nonproliferative retinopathy,D
 2376_left.jpg,2376,Normal,normal fundus,N
-807_left.jpg,807,Diabetes,moderate non proliferative retinopathy，macular epiretinal membrane,D
+807_left.jpg,807,Diabetes,moderate non proliferative retinopathy macular epiretinal membrane,D
 4078_left.jpg,4078,Diabetes,mild nonproliferative retinopathy,D
 3961_right.jpg,3961,Diabetes,mild nonproliferative retinopathy,D
 2151_left.jpg,2151,Cataract,cataract,C
@@ -1631,7 +1631,7 @@ filename,ID,class,keywords,label
 4161_right.jpg,4161,Diabetes,moderate non proliferative retinopathy,D
 2332_right.jpg,2332,Normal,normal fundus,N
 1829_right.jpg,1829,Ageing,dry age-related macular degeneration,A
-2477_left.jpg,2477,Normal,normal fundus，normal fundus,N
+2477_left.jpg,2477,Normal,normal fundus normal fundus,N
 4675_right.jpg,4675,Diabetes,moderate non proliferative retinopathy,D
 401_left.jpg,401,Myopia,pathological myopia,M
 2136_left.jpg,2136,Cataract,cataract,C
@@ -1643,7 +1643,7 @@ filename,ID,class,keywords,label
 110_left.jpg,110,Other diseases,macular epiretinal membrane,O
 1620_left.jpg,1620,Normal,normal fundus,N
 1_left.jpg,1,Normal,normal fundus,N
-1225_right.jpg,1225,Glaucoma,glaucoma，myopia retinopathy,G
+1225_right.jpg,1225,Glaucoma,glaucoma myopia retinopathy,G
 4351_right.jpg,4351,Normal,normal fundus,N
 3163_right.jpg,3163,Normal,normal fundus,N
 2972_left.jpg,2972,Normal,normal fundus,N
@@ -1659,7 +1659,7 @@ filename,ID,class,keywords,label
 4367_right.jpg,4367,Diabetes,moderate non proliferative retinopathy,D
 4618_right.jpg,4618,Diabetes,mild nonproliferative retinopathy,D
 3932_left.jpg,3932,Diabetes,mild nonproliferative retinopathy,D
-2078_right.jpg,2078,Diabetes,diabetic retinopathy，macular epiretinal membrane,D
+2078_right.jpg,2078,Diabetes,diabetic retinopathy macular epiretinal membrane,D
 916_right.jpg,916,Diabetes,moderate non proliferative retinopathy,D
 691_right.jpg,691,Diabetes,moderate non proliferative retinopathy,D
 854_right.jpg,854,Other diseases,myelinated nerve fibers,O
@@ -1678,7 +1678,7 @@ filename,ID,class,keywords,label
 4431_left.jpg,4431,Diabetes,moderate non proliferative retinopathy,D
 253_left.jpg,253,Other diseases,refractive media opacity,O
 1602_left.jpg,1602,Myopia,pathological myopia,M
-383_right.jpg,383,Diabetes,mild nonproliferative retinopathy，vitreous degeneration,D
+383_right.jpg,383,Diabetes,mild nonproliferative retinopathy vitreous degeneration,D
 2217_right.jpg,2217,Cataract,cataract,C
 227_right.jpg,227,Other diseases,macular epiretinal membrane,O
 4154_left.jpg,4154,Normal,normal fundus,N
@@ -1687,7 +1687,7 @@ filename,ID,class,keywords,label
 2514_right.jpg,2514,Normal,normal fundus,N
 3436_left.jpg,3436,Normal,normal fundus,N
 3229_right.jpg,3229,Normal,normal fundus,N
-630_left.jpg,630,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+630_left.jpg,630,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 4280_left.jpg,4280,Diabetes,severe nonproliferative retinopathy,D
 888_right.jpg,888,Ageing,dry age-related macular degeneration,A
 3143_right.jpg,3143,Normal,normal fundus,N
@@ -1701,7 +1701,7 @@ filename,ID,class,keywords,label
 778_right.jpg,778,Other diseases,vitreous degeneration,O
 4022_left.jpg,4022,Diabetes,moderate non proliferative retinopathy,D
 122_right.jpg,122,Normal,normal fundus,N
-931_left.jpg,931,Glaucoma,suspected glaucoma，moderate non proliferative retinopathy,G
+931_left.jpg,931,Glaucoma,suspected glaucoma moderate non proliferative retinopathy,G
 2210_left.jpg,2210,Cataract,cataract,C
 658_left.jpg,658,Normal,normal fundus,N
 1397_left.jpg,1397,Glaucoma,glaucoma,G
@@ -1728,8 +1728,8 @@ filename,ID,class,keywords,label
 1421_left.jpg,1421,Glaucoma,suspected glaucoma,G
 1854_left.jpg,1854,Ageing,wet age-related macular degeneration,A
 711_left.jpg,711,Other diseases,drusen,O
-4445_left.jpg,4445,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
-612_right.jpg,612,Diabetes,moderate non proliferative retinopathy，laser spot,D
+4445_left.jpg,4445,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
+612_right.jpg,612,Diabetes,moderate non proliferative retinopathy laser spot,D
 2958_left.jpg,2958,Normal,normal fundus,N
 2460_right.jpg,2460,Normal,normal fundus,N
 4136_right.jpg,4136,Diabetes,moderate non proliferative retinopathy,D
@@ -1739,13 +1739,13 @@ filename,ID,class,keywords,label
 4298_right.jpg,4298,Diabetes,mild nonproliferative retinopathy,D
 0_left.jpg,0,Cataract,cataract,C
 91_right.jpg,91,Other diseases,myelinated nerve fibers,O
-609_left.jpg,609,Diabetes,mild nonproliferative retinopathy，epiretinal membrane,D
+609_left.jpg,609,Diabetes,mild nonproliferative retinopathy epiretinal membrane,D
 923_right.jpg,923,Diabetes,moderate non proliferative retinopathy,D
 3422_right.jpg,3422,Normal,normal fundus,N
 224_right.jpg,224,Diabetes,moderate non proliferative retinopathy,D
 4244_right.jpg,4244,Diabetes,severe nonproliferative retinopathy,D
 4265_right.jpg,4265,Diabetes,mild nonproliferative retinopathy,D
-605_left.jpg,605,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+605_left.jpg,605,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 2630_left.jpg,2630,Normal,normal fundus,N
 752_left.jpg,752,Diabetes,moderate non proliferative retinopathy,D
 125_right.jpg,125,Normal,normal fundus,N
@@ -1795,7 +1795,7 @@ filename,ID,class,keywords,label
 718_left.jpg,718,Diabetes,moderate non proliferative retinopathy,D
 2523_left.jpg,2523,Normal,normal fundus,N
 3123_right.jpg,3123,Normal,normal fundus,N
-1291_left.jpg,1291,Glaucoma,glaucoma，macular epiretinal membrane,G
+1291_left.jpg,1291,Glaucoma,glaucoma macular epiretinal membrane,G
 437_left.jpg,437,Normal,normal fundus,N
 528_right.jpg,528,Other diseases,macular epiretinal membrane,O
 264_left.jpg,264,Ageing,wet age-related macular degeneration,A
@@ -1814,11 +1814,11 @@ filename,ID,class,keywords,label
 818_right.jpg,818,Hypertension,hypertensive retinopathy,H
 4637_right.jpg,4637,Normal,normal fundus,N
 2934_left.jpg,2934,Normal,normal fundus,N
-2052_right.jpg,2052,Hypertension,hypertensive retinopathy，cataract,H
+2052_right.jpg,2052,Hypertension,hypertensive retinopathy cataract,H
 476_left.jpg,476,Normal,normal fundus,N
 3109_right.jpg,3109,Normal,normal fundus,N
 524_right.jpg,524,Other diseases,branch retinal vein occlusion,O
-978_left.jpg,978,Diabetes,diabetic retinopathy，wet age-related macular degeneration,D
+978_left.jpg,978,Diabetes,diabetic retinopathy wet age-related macular degeneration,D
 1276_left.jpg,1276,Glaucoma,glaucoma,G
 2697_left.jpg,2697,Normal,normal fundus,N
 1409_left.jpg,1409,Diabetes,mild nonproliferative retinopathy,D
@@ -1844,7 +1844,7 @@ filename,ID,class,keywords,label
 760_left.jpg,760,Myopia,pathological myopia,M
 1629_left.jpg,1629,Myopia,pathological myopia,M
 265_right.jpg,265,Ageing,dry age-related macular degeneration,A
-576_right.jpg,576,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+576_right.jpg,576,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 721_left.jpg,721,Other diseases,vitreous degeneration,O
 3418_right.jpg,3418,Normal,normal fundus,N
 4386_right.jpg,4386,Diabetes,severe nonproliferative retinopathy,D
@@ -1856,11 +1856,11 @@ filename,ID,class,keywords,label
 3166_left.jpg,3166,Normal,normal fundus,N
 2805_left.jpg,2805,Normal,normal fundus,N
 3111_left.jpg,3111,Normal,normal fundus,N
-2006_left.jpg,2006,Other diseases,maculopathy，glaucoma,O
+2006_left.jpg,2006,Other diseases,maculopathy glaucoma,O
 2877_right.jpg,2877,Normal,normal fundus,N
 3308_left.jpg,3308,Normal,normal fundus,N
 455_left.jpg,455,Ageing,dry age-related macular degeneration,A
-2282_right.jpg,2282,Cataract,cataract，vitreous degeneration,C
+2282_right.jpg,2282,Cataract,cataract vitreous degeneration,C
 3970_left.jpg,3970,Normal,normal fundus,N
 3227_left.jpg,3227,Normal,normal fundus,N
 3249_left.jpg,3249,Normal,normal fundus,N
@@ -1872,18 +1872,18 @@ filename,ID,class,keywords,label
 2349_right.jpg,2349,Normal,normal fundus,N
 352_left.jpg,352,Other diseases,refractive media opacity,O
 2381_right.jpg,2381,Normal,normal fundus,N
-127_left.jpg,127,Diabetes,proliferative diabetic retinopathy，hypertensive retinopathy,D
+127_left.jpg,127,Diabetes,proliferative diabetic retinopathy hypertensive retinopathy,D
 2367_right.jpg,2367,Normal,normal fundus,N
 1142_right.jpg,1142,Normal,normal fundus,N
 2537_right.jpg,2537,Normal,normal fundus,N
 2965_left.jpg,2965,Normal,normal fundus,N
 486_left.jpg,486,Diabetes,mild nonproliferative retinopathy,D
-422_left.jpg,422,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+422_left.jpg,422,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 2225_right.jpg,2225,Cataract,cataract,C
 2417_left.jpg,2417,Normal,normal fundus,N
 3030_right.jpg,3030,Normal,normal fundus,N
 1093_left.jpg,1093,Other diseases,macular epiretinal membrane,O
-1238_right.jpg,1238,Glaucoma,glaucoma，diabetic retinopathy,G
+1238_right.jpg,1238,Glaucoma,glaucoma diabetic retinopathy,G
 3262_right.jpg,3262,Normal,normal fundus,N
 2732_right.jpg,2732,Normal,normal fundus,N
 4159_right.jpg,4159,Normal,normal fundus,N
@@ -1897,7 +1897,7 @@ filename,ID,class,keywords,label
 3248_right.jpg,3248,Normal,normal fundus,N
 4301_left.jpg,4301,Diabetes,moderate non proliferative retinopathy,D
 2775_right.jpg,2775,Normal,normal fundus,N
-792_left.jpg,792,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+792_left.jpg,792,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 3232_left.jpg,3232,Normal,normal fundus,N
 4084_right.jpg,4084,Diabetes,moderate non proliferative retinopathy,D
 4171_right.jpg,4171,Diabetes,moderate non proliferative retinopathy,D
@@ -1931,7 +1931,7 @@ filename,ID,class,keywords,label
 563_left.jpg,563,Diabetes,moderate non proliferative retinopathy,D
 4125_left.jpg,4125,Diabetes,severe nonproliferative retinopathy,D
 708_left.jpg,708,Other diseases,myelinated nerve fibers,O
-26_right.jpg,26,Diabetes,moderate non proliferative retinopathy，abnormal pigment ,D
+26_right.jpg,26,Diabetes,moderate non proliferative retinopathy abnormal pigment ,D
 2670_right.jpg,2670,Normal,normal fundus,N
 4338_right.jpg,4338,Normal,normal fundus,N
 1150_left.jpg,1150,Myopia,pathological myopia,M
@@ -1947,7 +1947,7 @@ filename,ID,class,keywords,label
 8_left.jpg,8,Normal,normal fundus,N
 2545_left.jpg,2545,Normal,normal fundus,N
 3079_left.jpg,3079,Normal,normal fundus,N
-713_right.jpg,713,Diabetes,mild nonproliferative retinopathy，myelinated nerve fibers,D
+713_right.jpg,713,Diabetes,mild nonproliferative retinopathy myelinated nerve fibers,D
 3089_left.jpg,3089,Normal,normal fundus,N
 572_left.jpg,572,Ageing,dry age-related macular degeneration,A
 4365_right.jpg,4365,Diabetes,moderate non proliferative retinopathy,D
@@ -1975,7 +1975,7 @@ filename,ID,class,keywords,label
 943_left.jpg,943,Other diseases,macular epiretinal membrane,O
 4316_left.jpg,4316,Normal,normal fundus,N
 509_right.jpg,509,Other diseases,macular epiretinal membrane,O
-93_left.jpg,93,Diabetes,moderate non proliferative retinopathy，retina fold,D
+93_left.jpg,93,Diabetes,moderate non proliferative retinopathy retina fold,D
 1843_left.jpg,1843,Ageing,dry age-related macular degeneration,A
 2539_left.jpg,2539,Normal,normal fundus,N
 3252_left.jpg,3252,Normal,normal fundus,N
@@ -2009,7 +2009,7 @@ filename,ID,class,keywords,label
 4113_right.jpg,4113,Diabetes,moderate non proliferative retinopathy,D
 2500_right.jpg,2500,Normal,normal fundus,N
 4410_right.jpg,4410,Diabetes,mild nonproliferative retinopathy,D
-799_right.jpg,799,Diabetes,moderate non proliferative retinopathy，branch retinal vein occlusion,D
+799_right.jpg,799,Diabetes,moderate non proliferative retinopathy branch retinal vein occlusion,D
 4_left.jpg,4,Other diseases,macular epiretinal membrane,O
 948_left.jpg,948,Diabetes,moderate non proliferative retinopathy,D
 2835_right.jpg,2835,Normal,normal fundus,N
@@ -2025,13 +2025,13 @@ filename,ID,class,keywords,label
 3255_left.jpg,3255,Normal,normal fundus,N
 1556_right.jpg,1556,Normal,normal fundus,N
 3223_left.jpg,3223,Normal,normal fundus,N
-1838_left.jpg,1838,Diabetes,diabetic retinopathy，post laser photocoagulation,D
+1838_left.jpg,1838,Diabetes,diabetic retinopathy post laser photocoagulation,D
 4249_left.jpg,4249,Diabetes,mild nonproliferative retinopathy,D
 3356_right.jpg,3356,Normal,normal fundus,N
 368_right.jpg,368,Other diseases,myelinated nerve fibers,O
 4516_left.jpg,4516,Diabetes,mild nonproliferative retinopathy,D
-2063_right.jpg,2063,Glaucoma,glaucoma，moderate non proliferative retinopathy，laser spot,G
-538_right.jpg,538,Diabetes,moderate non proliferative retinopathy，drusen,D
+2063_right.jpg,2063,Glaucoma,glaucoma moderate non proliferative retinopathy laser spot,G
+538_right.jpg,538,Diabetes,moderate non proliferative retinopathy drusen,D
 1280_right.jpg,1280,Normal,normal fundus,N
 4449_right.jpg,4449,Diabetes,severe nonproliferative retinopathy,D
 4351_left.jpg,4351,Diabetes,mild nonproliferative retinopathy,D
@@ -2067,7 +2067,7 @@ filename,ID,class,keywords,label
 7_right.jpg,7,Diabetes,mild nonproliferative retinopathy,D
 173_right.jpg,173,Other diseases,epiretinal membrane,O
 2368_right.jpg,2368,Normal,normal fundus,N
-1281_right.jpg,1281,Glaucoma,glaucoma，diabetic retinopathy,G
+1281_right.jpg,1281,Glaucoma,glaucoma diabetic retinopathy,G
 3317_left.jpg,3317,Normal,normal fundus,N
 1104_left.jpg,1104,Ageing,dry age-related macular degeneration,A
 141_right.jpg,141,Normal,normal fundus,N
@@ -2078,17 +2078,17 @@ filename,ID,class,keywords,label
 2982_right.jpg,2982,Normal,normal fundus,N
 2819_left.jpg,2819,Normal,normal fundus,N
 2715_left.jpg,2715,Normal,normal fundus,N
-785_right.jpg,785,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+785_right.jpg,785,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 457_right.jpg,457,Other diseases,vitreous degeneration,O
-4088_right.jpg,4088,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
-1364_right.jpg,1364,Diabetes,moderate non proliferative retinopathy，pathological myopia,D
+4088_right.jpg,4088,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
+1364_right.jpg,1364,Diabetes,moderate non proliferative retinopathy pathological myopia,D
 4484_left.jpg,4484,Diabetes,moderate non proliferative retinopathy,D
 4310_left.jpg,4310,Diabetes,severe nonproliferative retinopathy,D
 285_right.jpg,285,Other diseases,macular epiretinal membrane,O
 4255_right.jpg,4255,Diabetes,mild nonproliferative retinopathy,D
 4478_left.jpg,4478,Hypertension,hypertensive retinopathy,H
 4391_right.jpg,4391,Diabetes,proliferative diabetic retinopathy,D
-653_left.jpg,653,Diabetes,mild nonproliferative retinopathy，macular epiretinal membrane,D
+653_left.jpg,653,Diabetes,mild nonproliferative retinopathy macular epiretinal membrane,D
 2726_right.jpg,2726,Normal,normal fundus,N
 3242_left.jpg,3242,Normal,normal fundus,N
 4118_left.jpg,4118,Normal,normal fundus,N
@@ -2135,7 +2135,7 @@ filename,ID,class,keywords,label
 34_left.jpg,34,Other diseases,drusen,O
 4470_left.jpg,4470,Diabetes,mild nonproliferative retinopathy,D
 2217_left.jpg,2217,Cataract,cataract,C
-372_left.jpg,372,Other diseases,"low image quality,maculopathy",O
+372_left.jpg,372,Other diseases,low image quality maculopathy,O
 2714_right.jpg,2714,Normal,normal fundus,N
 294_right.jpg,294,Normal,normal fundus,N
 2142_left.jpg,2142,Cataract,cataract,C
@@ -2164,7 +2164,7 @@ filename,ID,class,keywords,label
 2792_right.jpg,2792,Normal,normal fundus,N
 762_left.jpg,762,Diabetes,mild nonproliferative retinopathy,D
 318_left.jpg,318,Other diseases,epiretinal membrane,O
-1377_right.jpg,1377,Glaucoma,glaucoma，hypertensive retinopathy,G
+1377_right.jpg,1377,Glaucoma,glaucoma hypertensive retinopathy,G
 910_left.jpg,910,Ageing,dry age-related macular degeneration,A
 3171_right.jpg,3171,Normal,normal fundus,N
 4428_left.jpg,4428,Diabetes,mild nonproliferative retinopathy,D
@@ -2175,14 +2175,14 @@ filename,ID,class,keywords,label
 187_left.jpg,187,Normal,normal fundus,N
 2499_right.jpg,2499,Normal,normal fundus,N
 103_left.jpg,103,Cataract,cataract,C
-207_left.jpg,207,Diabetes,mild nonproliferative retinopathy，macular epiretinal membrane,D
+207_left.jpg,207,Diabetes,mild nonproliferative retinopathy macular epiretinal membrane,D
 2974_left.jpg,2974,Normal,normal fundus,N
 543_right.jpg,543,Hypertension,hypertensive retinopathy,H
 4183_left.jpg,4183,Diabetes,moderate non proliferative retinopathy,D
 47_right.jpg,47,Normal,normal fundus,N
 1436_left.jpg,1436,Glaucoma,glaucoma,G
 416_right.jpg,416,Other diseases,drusen,O
-4142_left.jpg,4142,Diabetes,severe nonproliferative retinopathy，hypertensive retinopathy,D
+4142_left.jpg,4142,Diabetes,severe nonproliferative retinopathy hypertensive retinopathy,D
 100_right.jpg,100,Normal,normal fundus,N
 2695_right.jpg,2695,Normal,normal fundus,N
 4498_left.jpg,4498,Diabetes,moderate non proliferative retinopathy,D
@@ -2190,7 +2190,7 @@ filename,ID,class,keywords,label
 4621_right.jpg,4621,Diabetes,mild nonproliferative retinopathy,D
 3948_left.jpg,3948,Diabetes,moderate non proliferative retinopathy,D
 148_left.jpg,148,Other diseases,vitreous degeneration,O
-825_right.jpg,825,Diabetes,moderate non proliferative retinopathy，old branch retinal vein occlusion,D
+825_right.jpg,825,Diabetes,moderate non proliferative retinopathy old branch retinal vein occlusion,D
 614_right.jpg,614,Normal,normal fundus,N
 2489_left.jpg,2489,Normal,normal fundus,N
 98_left.jpg,98,Other diseases,branch retinal vein occlusion,O
@@ -2204,7 +2204,7 @@ filename,ID,class,keywords,label
 4408_right.jpg,4408,Normal,normal fundus,N
 803_left.jpg,803,Normal,normal fundus,N
 2469_left.jpg,2469,Normal,normal fundus,N
-540_right.jpg,540,Ageing,dry age-related macular degeneration，diabetic retinopathy,A
+540_right.jpg,540,Ageing,dry age-related macular degeneration diabetic retinopathy,A
 2401_left.jpg,2401,Normal,normal fundus,N
 2554_right.jpg,2554,Normal,normal fundus,N
 2596_right.jpg,2596,Normal,normal fundus,N
@@ -2212,7 +2212,7 @@ filename,ID,class,keywords,label
 4018_right.jpg,4018,Diabetes,severe nonproliferative retinopathy,D
 4601_left.jpg,4601,Diabetes,moderate non proliferative retinopathy,D
 666_left.jpg,666,Other diseases,drusen,O
-61_left.jpg,61,Other diseases,epiretinal membrane，myelinated nerve fibers,O
+61_left.jpg,61,Other diseases,epiretinal membrane myelinated nerve fibers,O
 2632_left.jpg,2632,Normal,normal fundus,N
 2152_left.jpg,2152,Cataract,cataract,C
 19_right.jpg,19,Diabetes,mild nonproliferative retinopathy,D
@@ -2251,16 +2251,16 @@ filename,ID,class,keywords,label
 135_left.jpg,135,Other diseases,drusen,O
 1068_right.jpg,1068,Diabetes,moderate non proliferative retinopathy,D
 4528_left.jpg,4528,Diabetes,moderate non proliferative retinopathy,D
-1674_left.jpg,1674,Diabetes,moderate non proliferative retinopathy，pathological myopia,D
+1674_left.jpg,1674,Diabetes,moderate non proliferative retinopathy pathological myopia,D
 510_left.jpg,510,Other diseases,epiretinal membrane,O
 2773_left.jpg,2773,Normal,normal fundus,N
 2126_right.jpg,2126,Cataract,cataract,C
 274_right.jpg,274,Diabetes,mild nonproliferative retinopathy,D
-634_right.jpg,634,Diabetes,moderate non proliferative retinopathy，laser spot,D
+634_right.jpg,634,Diabetes,moderate non proliferative retinopathy laser spot,D
 2760_right.jpg,2760,Normal,normal fundus,N
 575_left.jpg,575,Normal,normal fundus,N
 3298_right.jpg,3298,Normal,normal fundus,N
-139_right.jpg,139,Diabetes,severe nonproliferative retinopathy，hypertensive retinopathy,D
+139_right.jpg,139,Diabetes,severe nonproliferative retinopathy hypertensive retinopathy,D
 1253_left.jpg,1253,Normal,normal fundus,N
 3161_right.jpg,3161,Normal,normal fundus,N
 4239_right.jpg,4239,Normal,normal fundus,N
@@ -2271,7 +2271,7 @@ filename,ID,class,keywords,label
 4204_left.jpg,4204,Diabetes,severe nonproliferative retinopathy,D
 822_left.jpg,822,Normal,normal fundus,N
 725_left.jpg,725,Other diseases,drusen,O
-742_left.jpg,742,Other diseases,vitreous degeneration，vitreous degeneration,O
+742_left.jpg,742,Other diseases,vitreous degeneration vitreous degeneration,O
 3414_right.jpg,3414,Normal,normal fundus,N
 2232_left.jpg,2232,Cataract,cataract,C
 531_left.jpg,531,Other diseases,vitreous degeneration,O
@@ -2287,13 +2287,13 @@ filename,ID,class,keywords,label
 1268_left.jpg,1268,Glaucoma,glaucoma,G
 2671_right.jpg,2671,Normal,normal fundus,N
 516_right.jpg,516,Diabetes,moderate non proliferative retinopathy,D
-787_left.jpg,787,Other diseases,myelinated nerve fibers，moderate non proliferative retinopathy,O
+787_left.jpg,787,Other diseases,myelinated nerve fibers moderate non proliferative retinopathy,O
 742_right.jpg,742,Normal,normal fundus,N
 4509_left.jpg,4509,Diabetes,mild nonproliferative retinopathy,D
 3425_right.jpg,3425,Normal,normal fundus,N
 1117_right.jpg,1117,Other diseases,maculopathy,O
 4326_right.jpg,4326,Diabetes,severe nonproliferative retinopathy,D
-399_left.jpg,399,Other diseases,macular epiretinal membrane，severe nonproliferative retinopathy,O
+399_left.jpg,399,Other diseases,macular epiretinal membrane severe nonproliferative retinopathy,O
 3026_right.jpg,3026,Normal,normal fundus,N
 2225_left.jpg,2225,Cataract,cataract,C
 3362_right.jpg,3362,Normal,normal fundus,N
@@ -2304,19 +2304,19 @@ filename,ID,class,keywords,label
 3319_right.jpg,3319,Normal,normal fundus,N
 2572_right.jpg,2572,Normal,normal fundus,N
 4690_left.jpg,4690,Diabetes,mild nonproliferative retinopathy,D
-2030_right.jpg,2030,Diabetes,mild nonproliferative retinopathy，glaucoma，vitreous degeneration,D
+2030_right.jpg,2030,Diabetes,mild nonproliferative retinopathy glaucoma vitreous degeneration,D
 4642_right.jpg,4642,Normal,normal fundus,N
 1238_left.jpg,1238,Diabetes,diabetic retinopathy,D
 439_right.jpg,439,Other diseases,vitreous degeneration,O
 2704_left.jpg,2704,Normal,normal fundus,N
-2103_left.jpg,2103,Cataract,cataract，mild nonproliferative retinopathy,C
+2103_left.jpg,2103,Cataract,cataract mild nonproliferative retinopathy,C
 2518_right.jpg,2518,Normal,normal fundus,N
 2936_left.jpg,2936,Normal,normal fundus,N
 4288_right.jpg,4288,Diabetes,moderate non proliferative retinopathy,D
 2953_left.jpg,2953,Normal,normal fundus,N
 2989_right.jpg,2989,Normal,normal fundus,N
 2818_right.jpg,2818,Normal,normal fundus,N
-127_right.jpg,127,Diabetes,proliferative diabetic retinopathy，hypertensive retinopathy,D
+127_right.jpg,127,Diabetes,proliferative diabetic retinopathy hypertensive retinopathy,D
 839_left.jpg,839,Diabetes,mild nonproliferative retinopathy,D
 3365_left.jpg,3365,Normal,normal fundus,N
 209_right.jpg,209,Diabetes,severe nonproliferative retinopathy,D
@@ -2328,16 +2328,16 @@ filename,ID,class,keywords,label
 258_left.jpg,258,Normal,normal fundus,N
 1349_right.jpg,1349,Myopia,pathological myopia,M
 687_right.jpg,687,Diabetes,moderate non proliferative retinopathy,D
-1286_left.jpg,1286,Glaucoma,glaucoma，diabetic retinopathy,G
+1286_left.jpg,1286,Glaucoma,glaucoma diabetic retinopathy,G
 519_left.jpg,519,Diabetes,moderate non proliferative retinopathy,D
 4461_right.jpg,4461,Diabetes,moderate non proliferative retinopathy,D
 2914_right.jpg,2914,Normal,normal fundus,N
-648_left.jpg,648,Diabetes,moderate non proliferative retinopathy，optic disc edema,D
+648_left.jpg,648,Diabetes,moderate non proliferative retinopathy optic disc edema,D
 4253_left.jpg,4253,Normal,normal fundus,N
 2803_left.jpg,2803,Normal,normal fundus,N
 2647_left.jpg,2647,Normal,normal fundus,N
 849_right.jpg,849,Hypertension,hypertensive retinopathy,H
-558_left.jpg,558,Diabetes,mild nonproliferative retinopathy，mild nonproliferative retinopathy,D
+558_left.jpg,558,Diabetes,mild nonproliferative retinopathy mild nonproliferative retinopathy,D
 4353_left.jpg,4353,Diabetes,moderate non proliferative retinopathy,D
 1423_left.jpg,1423,Glaucoma,suspected glaucoma,G
 2662_left.jpg,2662,Normal,normal fundus,N
@@ -2368,7 +2368,7 @@ filename,ID,class,keywords,label
 398_right.jpg,398,Diabetes,moderate non proliferative retinopathy,D
 2826_left.jpg,2826,Normal,normal fundus,N
 426_left.jpg,426,Normal,normal fundus,N
-952_left.jpg,952,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+952_left.jpg,952,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 2974_right.jpg,2974,Normal,normal fundus,N
 2140_left.jpg,2140,Cataract,cataract,C
 2640_left.jpg,2640,Normal,normal fundus,N
@@ -2380,7 +2380,7 @@ filename,ID,class,keywords,label
 4008_left.jpg,4008,Diabetes,moderate non proliferative retinopathy,D
 3132_left.jpg,3132,Normal,normal fundus,N
 2454_right.jpg,2454,Normal,normal fundus,N
-195_right.jpg,195,Diabetes,moderate non proliferative retinopathy，laser spot,D
+195_right.jpg,195,Diabetes,moderate non proliferative retinopathy laser spot,D
 3944_left.jpg,3944,Diabetes,moderate non proliferative retinopathy,D
 3273_left.jpg,3273,Normal,normal fundus,N
 391_left.jpg,391,Normal,normal fundus,N
@@ -2389,7 +2389,7 @@ filename,ID,class,keywords,label
 2898_right.jpg,2898,Normal,normal fundus,N
 1591_left.jpg,1591,Myopia,pathological myopia,M
 174_right.jpg,174,Normal,normal fundus,N
-682_right.jpg,682,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+682_right.jpg,682,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 3415_right.jpg,3415,Normal,normal fundus,N
 1529_right.jpg,1529,Myopia,pathological myopia,M
 2095_left.jpg,2095,Normal,normal fundus,N
@@ -2412,7 +2412,7 @@ filename,ID,class,keywords,label
 544_left.jpg,544,Normal,normal fundus,N
 1080_right.jpg,1080,Normal,normal fundus,N
 153_left.jpg,153,Glaucoma,glaucoma,G
-1881_right.jpg,1881,Ageing,dry age-related macular degeneration，glaucoma,A
+1881_right.jpg,1881,Ageing,dry age-related macular degeneration glaucoma,A
 3363_right.jpg,3363,Normal,normal fundus,N
 1850_right.jpg,1850,Ageing,dry age-related macular degeneration,A
 240_right.jpg,240,Other diseases,drusen,O
@@ -2421,7 +2421,7 @@ filename,ID,class,keywords,label
 411_left.jpg,411,Diabetes,moderate non proliferative retinopathy,D
 440_left.jpg,440,Normal,normal fundus,N
 3103_left.jpg,3103,Normal,normal fundus,N
-299_right.jpg,299,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+299_right.jpg,299,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 3450_left.jpg,3450,Normal,normal fundus,N
 4651_right.jpg,4651,Diabetes,moderate non proliferative retinopathy,D
 4296_right.jpg,4296,Diabetes,moderate non proliferative retinopathy,D
@@ -2470,18 +2470,18 @@ filename,ID,class,keywords,label
 4313_left.jpg,4313,Diabetes,mild nonproliferative retinopathy,D
 812_left.jpg,812,Diabetes,moderate non proliferative retinopathy,D
 3052_right.jpg,3052,Normal,normal fundus,N
-754_left.jpg,754,Hypertension,hypertensive retinopathy，suspected diabetic retinopathy,H
+754_left.jpg,754,Hypertension,hypertensive retinopathy suspected diabetic retinopathy,H
 422_right.jpg,422,Normal,normal fundus,N
 3345_left.jpg,3345,Normal,normal fundus,N
-2100_right.jpg,2100,Cataract,cataract，moderate non proliferative retinopathy,C
+2100_right.jpg,2100,Cataract,cataract moderate non proliferative retinopathy,C
 4033_right.jpg,4033,Diabetes,moderate non proliferative retinopathy,D
-3939_left.jpg,3939,Diabetes,severe nonproliferative retinopathy，hypertensive retinopathy,D
+3939_left.jpg,3939,Diabetes,severe nonproliferative retinopathy hypertensive retinopathy,D
 2716_left.jpg,2716,Normal,normal fundus,N
-897_left.jpg,897,Other diseases,vitreous degeneration，vitreous degeneration,O
+897_left.jpg,897,Other diseases,vitreous degeneration vitreous degeneration,O
 3392_right.jpg,3392,Normal,normal fundus,N
 3419_left.jpg,3419,Normal,normal fundus,N
 160_left.jpg,160,Normal,normal fundus,N
-1990_right.jpg,1990,Other diseases,myelinated nerve fibers，glaucoma,O
+1990_right.jpg,1990,Other diseases,myelinated nerve fibers glaucoma,O
 4196_left.jpg,4196,Diabetes,moderate non proliferative retinopathy,D
 1417_right.jpg,1417,Glaucoma,suspected glaucoma,G
 2124_right.jpg,2124,Other diseases,epiretinal membrane,O
@@ -2501,7 +2501,7 @@ filename,ID,class,keywords,label
 310_right.jpg,310,Other diseases,macular epiretinal membrane,O
 4029_left.jpg,4029,Diabetes,moderate non proliferative retinopathy,D
 4082_left.jpg,4082,Diabetes,mild nonproliferative retinopathy,D
-1731_right.jpg,1731,Diabetes,moderate non proliferative retinopathy，tessellated fundus,D
+1731_right.jpg,1731,Diabetes,moderate non proliferative retinopathy tessellated fundus,D
 4530_left.jpg,4530,Diabetes,severe nonproliferative retinopathy,D
 2128_left.jpg,2128,Cataract,cataract,C
 4407_left.jpg,4407,Diabetes,severe nonproliferative retinopathy,D
@@ -2520,7 +2520,7 @@ filename,ID,class,keywords,label
 465_right.jpg,465,Other diseases,drusen,O
 2110_left.jpg,2110,Cataract,cataract,C
 919_right.jpg,919,Normal,normal fundus,N
-2100_left.jpg,2100,Diabetes,moderate non proliferative retinopathy，refractive media opacity,D
+2100_left.jpg,2100,Diabetes,moderate non proliferative retinopathy refractive media opacity,D
 3287_right.jpg,3287,Normal,normal fundus,N
 53_right.jpg,53,Ageing,dry age-related macular degeneration,A
 2189_left.jpg,2189,Cataract,cataract,C
@@ -2560,14 +2560,14 @@ filename,ID,class,keywords,label
 4347_right.jpg,4347,Diabetes,moderate non proliferative retinopathy,D
 2587_left.jpg,2587,Normal,normal fundus,N
 1144_left.jpg,1144,Cataract,cataract,C
-1144_right.jpg,1144,Cataract,cataract，moderate non proliferative retinopathy,C
+1144_right.jpg,1144,Cataract,cataract moderate non proliferative retinopathy,C
 225_right.jpg,225,Diabetes,moderate non proliferative retinopathy,D
 4471_right.jpg,4471,Diabetes,moderate non proliferative retinopathy,D
 191_right.jpg,191,Normal,normal fundus,N
 2560_left.jpg,2560,Normal,normal fundus,N
 3310_right.jpg,3310,Normal,normal fundus,N
 780_left.jpg,780,Other diseases,myelinated nerve fibers,O
-651_left.jpg,651,Ageing,wet age-related macular degeneration，myopia retinopathy,A
+651_left.jpg,651,Ageing,wet age-related macular degeneration myopia retinopathy,A
 960_left.jpg,960,Diabetes,severe nonproliferative retinopathy,D
 2933_left.jpg,2933,Normal,normal fundus,N
 384_left.jpg,384,Normal,normal fundus,N
@@ -2575,10 +2575,10 @@ filename,ID,class,keywords,label
 999_left.jpg,999,Cataract,cataract,C
 946_left.jpg,946,Normal,normal fundus,N
 2615_left.jpg,2615,Normal,normal fundus,N
-1290_right.jpg,1290,Glaucoma,glaucoma，hypertensive retinopathy,G
+1290_right.jpg,1290,Glaucoma,glaucoma hypertensive retinopathy,G
 218_left.jpg,218,Other diseases,refractive media opacity,O
 2171_right.jpg,2171,Normal,normal fundus,N
-1442_left.jpg,1442,Glaucoma,glaucoma，mild nonproliferative retinopathy，macular pigmentation disorder,G
+1442_left.jpg,1442,Glaucoma,glaucoma mild nonproliferative retinopathy macular pigmentation disorder,G
 2846_right.jpg,2846,Normal,normal fundus,N
 3288_left.jpg,3288,Normal,normal fundus,N
 4177_left.jpg,4177,Diabetes,mild nonproliferative retinopathy,D
@@ -2586,11 +2586,11 @@ filename,ID,class,keywords,label
 2111_left.jpg,2111,Cataract,cataract,C
 3946_left.jpg,3946,Diabetes,mild nonproliferative retinopathy,D
 2247_left.jpg,2247,Cataract,cataract,C
-4202_right.jpg,4202,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+4202_right.jpg,4202,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 2337_left.jpg,2337,Normal,normal fundus,N
 4023_left.jpg,4023,Normal,normal fundus,N
 4669_left.jpg,4669,Diabetes,severe nonproliferative retinopathy,D
-874_left.jpg,874,Cataract,cataract，moderate non proliferative retinopathy,C
+874_left.jpg,874,Cataract,cataract moderate non proliferative retinopathy,C
 4321_right.jpg,4321,Diabetes,moderate non proliferative retinopathy,D
 4039_left.jpg,4039,Diabetes,moderate non proliferative retinopathy,D
 3189_right.jpg,3189,Normal,normal fundus,N
@@ -2598,10 +2598,10 @@ filename,ID,class,keywords,label
 2228_left.jpg,2228,Diabetes,mild nonproliferative retinopathy,D
 588_left.jpg,588,Normal,normal fundus,N
 1694_left.jpg,1694,Other diseases,refractive media opacity,O
-549_left.jpg,549,Diabetes,moderate non proliferative retinopathy，white vessel,D
+549_left.jpg,549,Diabetes,moderate non proliferative retinopathy white vessel,D
 3948_right.jpg,3948,Diabetes,mild nonproliferative retinopathy,D
 58_right.jpg,58,Other diseases,vitreous degeneration,O
-627_right.jpg,627,Diabetes,mild nonproliferative retinopathy，macular epiretinal membrane,D
+627_right.jpg,627,Diabetes,mild nonproliferative retinopathy macular epiretinal membrane,D
 4438_left.jpg,4438,Normal,normal fundus,N
 616_left.jpg,616,Diabetes,moderate non proliferative retinopathy,D
 3222_right.jpg,3222,Normal,normal fundus,N
@@ -2619,10 +2619,10 @@ filename,ID,class,keywords,label
 2441_left.jpg,2441,Normal,normal fundus,N
 2811_right.jpg,2811,Normal,normal fundus,N
 3231_left.jpg,3231,Normal,normal fundus,N
-89_right.jpg,89,Diabetes,moderate non proliferative retinopathy，retinitis pigmentosa,D
+89_right.jpg,89,Diabetes,moderate non proliferative retinopathy retinitis pigmentosa,D
 3968_left.jpg,3968,Diabetes,moderate non proliferative retinopathy,D
 34_right.jpg,34,Other diseases,drusen,O
-297_left.jpg,297,Other diseases,macular epiretinal membrane，vessel tortuosity,O
+297_left.jpg,297,Other diseases,macular epiretinal membrane vessel tortuosity,O
 3296_left.jpg,3296,Normal,normal fundus,N
 2720_left.jpg,2720,Normal,normal fundus,N
 4175_left.jpg,4175,Diabetes,mild nonproliferative retinopathy,D
@@ -2631,13 +2631,13 @@ filename,ID,class,keywords,label
 940_right.jpg,940,Normal,normal fundus,N
 2953_right.jpg,2953,Normal,normal fundus,N
 769_right.jpg,769,Cataract,cataract,C
-81_left.jpg,81,Diabetes,moderate non proliferative retinopathy，cataract,D
-1482_left.jpg,1482,Diabetes,moderate non proliferative retinopathy，glaucoma,D
+81_left.jpg,81,Diabetes,moderate non proliferative retinopathy cataract,D
+1482_left.jpg,1482,Diabetes,moderate non proliferative retinopathy glaucoma,D
 4139_right.jpg,4139,Normal,normal fundus,N
 2351_right.jpg,2351,Normal,normal fundus,N
 950_left.jpg,950,Normal,normal fundus,N
 2411_left.jpg,2411,Normal,normal fundus,N
-700_left.jpg,700,Diabetes,moderate non proliferative retinopathy，drusen,D
+700_left.jpg,700,Diabetes,moderate non proliferative retinopathy drusen,D
 4520_left.jpg,4520,Diabetes,moderate non proliferative retinopathy,D
 4339_left.jpg,4339,Diabetes,moderate non proliferative retinopathy,D
 1035_left.jpg,1035,Normal,normal fundus,N
@@ -2662,7 +2662,7 @@ filename,ID,class,keywords,label
 2184_right.jpg,2184,Cataract,cataract,C
 3091_left.jpg,3091,Normal,normal fundus,N
 4192_left.jpg,4192,Diabetes,moderate non proliferative retinopathy,D
-745_left.jpg,745,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy，laser spot,O
+745_left.jpg,745,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy laser spot,O
 4620_right.jpg,4620,Diabetes,severe nonproliferative retinopathy,D
 2221_left.jpg,2221,Cataract,cataract,C
 526_left.jpg,526,Other diseases,maculopathy,O
@@ -2684,7 +2684,7 @@ filename,ID,class,keywords,label
 4421_right.jpg,4421,Diabetes,moderate non proliferative retinopathy,D
 3441_left.jpg,3441,Normal,normal fundus,N
 4083_right.jpg,4083,Diabetes,mild nonproliferative retinopathy,D
-622_left.jpg,622,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+622_left.jpg,622,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 1345_right.jpg,1345,Glaucoma,glaucoma,G
 2112_right.jpg,2112,Cataract,cataract,C
 371_right.jpg,371,Other diseases,drusen,O
@@ -2698,7 +2698,7 @@ filename,ID,class,keywords,label
 128_left.jpg,128,Normal,normal fundus,N
 4433_right.jpg,4433,Diabetes,mild nonproliferative retinopathy,D
 272_right.jpg,272,Hypertension,hypertensive retinopathy,H
-289_left.jpg,289,Diabetes,mild nonproliferative retinopathy，epiretinal membrane,D
+289_left.jpg,289,Diabetes,mild nonproliferative retinopathy epiretinal membrane,D
 3058_left.jpg,3058,Normal,normal fundus,N
 3067_right.jpg,3067,Normal,normal fundus,N
 3973_left.jpg,3973,Diabetes,moderate non proliferative retinopathy,D
@@ -2712,7 +2712,7 @@ filename,ID,class,keywords,label
 533_left.jpg,533,Diabetes,severe nonproliferative retinopathy,D
 1529_left.jpg,1529,Myopia,pathological myopia,M
 2492_right.jpg,2492,Normal,normal fundus,N
-2168_right.jpg,2168,Cataract,cataract，laser spot，moderate non proliferative retinopathy,C
+2168_right.jpg,2168,Cataract,cataract laser spot moderate non proliferative retinopathy,C
 2385_right.jpg,2385,Normal,normal fundus,N
 4283_left.jpg,4283,Normal,normal fundus,N
 2531_left.jpg,2531,Normal,normal fundus,N
@@ -2727,7 +2727,7 @@ filename,ID,class,keywords,label
 3387_left.jpg,3387,Normal,normal fundus,N
 2485_right.jpg,2485,Normal,normal fundus,N
 46_right.jpg,46,Myopia,pathological myopia,M
-1706_right.jpg,1706,Diabetes,moderate non proliferative retinopathy，pathological myopia,D
+1706_right.jpg,1706,Diabetes,moderate non proliferative retinopathy pathological myopia,D
 619_left.jpg,619,Diabetes,moderate non proliferative retinopathy,D
 3317_right.jpg,3317,Normal,normal fundus,N
 2958_right.jpg,2958,Normal,normal fundus,N
@@ -2755,13 +2755,13 @@ filename,ID,class,keywords,label
 491_right.jpg,491,Diabetes,moderate non proliferative retinopathy,D
 3327_left.jpg,3327,Normal,normal fundus,N
 4690_right.jpg,4690,Diabetes,mild nonproliferative retinopathy,D
-3939_right.jpg,3939,Diabetes,severe nonproliferative retinopathy，hypertensive retinopathy,D
+3939_right.jpg,3939,Diabetes,severe nonproliferative retinopathy hypertensive retinopathy,D
 2822_left.jpg,2822,Normal,normal fundus,N
 129_left.jpg,129,Other diseases,myelinated nerve fibers,O
 609_right.jpg,609,Diabetes,moderate non proliferative retinopathy,D
 483_right.jpg,483,Normal,normal fundus,N
 2233_left.jpg,2233,Cataract,cataract,C
-934_right.jpg,934,Diabetes,diabetic retinopathy，dry age-related macular degeneration,D
+934_right.jpg,934,Diabetes,diabetic retinopathy dry age-related macular degeneration,D
 244_left.jpg,244,Other diseases,epiretinal membrane,O
 1393_right.jpg,1393,Glaucoma,glaucoma,G
 4413_right.jpg,4413,Diabetes,moderate non proliferative retinopathy,D
@@ -2776,11 +2776,11 @@ filename,ID,class,keywords,label
 4303_left.jpg,4303,Diabetes,moderate non proliferative retinopathy,D
 2150_left.jpg,2150,Cataract,cataract,C
 841_right.jpg,841,Normal,normal fundus,N
-697_left.jpg,697,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+697_left.jpg,697,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 3125_right.jpg,3125,Normal,normal fundus,N
 327_left.jpg,327,Diabetes,moderate non proliferative retinopathy,D
 3372_left.jpg,3372,Normal,normal fundus,N
-342_right.jpg,342,Diabetes,moderate non proliferative retinopathy，laser spot,D
+342_right.jpg,342,Diabetes,moderate non proliferative retinopathy laser spot,D
 23_left.jpg,23,Hypertension,hypertensive retinopathy,H
 4111_left.jpg,4111,Normal,normal fundus,N
 790_right.jpg,790,Hypertension,hypertensive retinopathy,H
@@ -2802,7 +2802,7 @@ filename,ID,class,keywords,label
 4372_left.jpg,4372,Diabetes,moderate non proliferative retinopathy,D
 2560_right.jpg,2560,Normal,normal fundus,N
 4212_left.jpg,4212,Diabetes,moderate non proliferative retinopathy,D
-959_left.jpg,959,Other diseases,drusen，mild nonproliferative retinopathy,O
+959_left.jpg,959,Other diseases,drusen mild nonproliferative retinopathy,O
 1162_left.jpg,1162,Normal,normal fundus,N
 1987_left.jpg,1987,Cataract,cataract,C
 2377_left.jpg,2377,Normal,normal fundus,N
@@ -2839,11 +2839,11 @@ filename,ID,class,keywords,label
 4407_right.jpg,4407,Diabetes,severe nonproliferative retinopathy,D
 770_left.jpg,770,Normal,normal fundus,N
 3347_right.jpg,3347,Normal,normal fundus,N
-137_right.jpg,137,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+137_right.jpg,137,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 1560_right.jpg,1560,Myopia,pathological myopia,M
 4443_right.jpg,4443,Diabetes,mild nonproliferative retinopathy,D
 1012_right.jpg,1012,Myopia,pathological myopia,M
-1985_left.jpg,1985,Glaucoma,glaucoma，moderate non proliferative retinopathy,G
+1985_left.jpg,1985,Glaucoma,glaucoma moderate non proliferative retinopathy,G
 4603_left.jpg,4603,Diabetes,severe nonproliferative retinopathy,D
 4064_right.jpg,4064,Diabetes,mild nonproliferative retinopathy,D
 1270_left.jpg,1270,Glaucoma,glaucoma,G
@@ -2852,13 +2852,13 @@ filename,ID,class,keywords,label
 2883_left.jpg,2883,Normal,normal fundus,N
 1890_left.jpg,1890,Ageing,wet age-related macular degeneration,A
 1250_left.jpg,1250,Glaucoma,glaucoma,G
-1281_left.jpg,1281,Glaucoma,glaucoma，diabetic retinopathy,G
+1281_left.jpg,1281,Glaucoma,glaucoma diabetic retinopathy,G
 807_right.jpg,807,Normal,normal fundus,N
 3343_right.jpg,3343,Normal,normal fundus,N
 525_left.jpg,525,Myopia,pathological myopia,M
 1132_right.jpg,1132,Other diseases,vitreous degeneration,O
 1971_left.jpg,1971,Glaucoma,suspected glaucoma,G
-4327_left.jpg,4327,Diabetes,mild nonproliferative retinopathy，hypertensive retinopathy,D
+4327_left.jpg,4327,Diabetes,mild nonproliferative retinopathy hypertensive retinopathy,D
 185_right.jpg,185,Other diseases,drusen,O
 364_right.jpg,364,Normal,normal fundus,N
 2475_right.jpg,2475,Normal,normal fundus,N
@@ -2880,7 +2880,7 @@ filename,ID,class,keywords,label
 4168_right.jpg,4168,Diabetes,moderate non proliferative retinopathy,D
 275_right.jpg,275,Other diseases,epiretinal membrane,O
 1171_right.jpg,1171,Normal,normal fundus,N
-365_left.jpg,365,Hypertension,hypertensive retinopathy，suspected glaucoma,H
+365_left.jpg,365,Hypertension,hypertensive retinopathy suspected glaucoma,H
 2906_right.jpg,2906,Normal,normal fundus,N
 2854_right.jpg,2854,Normal,normal fundus,N
 4279_left.jpg,4279,Diabetes,proliferative diabetic retinopathy,D
@@ -2915,7 +2915,7 @@ filename,ID,class,keywords,label
 2846_left.jpg,2846,Normal,normal fundus,N
 3253_right.jpg,3253,Normal,normal fundus,N
 96_left.jpg,96,Other diseases,vitreous degeneration,O
-1434_right.jpg,1434,Diabetes,moderate non proliferative retinopathy，suspected glaucoma,D
+1434_right.jpg,1434,Diabetes,moderate non proliferative retinopathy suspected glaucoma,D
 4043_left.jpg,4043,Diabetes,severe nonproliferative retinopathy,D
 3408_right.jpg,3408,Normal,normal fundus,N
 2020_right.jpg,2020,Normal,normal fundus,N
@@ -2931,7 +2931,7 @@ filename,ID,class,keywords,label
 771_right.jpg,771,Normal,normal fundus,N
 4590_right.jpg,4590,Normal,normal fundus,N
 2738_right.jpg,2738,Normal,normal fundus,N
-601_left.jpg,601,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+601_left.jpg,601,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 1396_left.jpg,1396,Glaucoma,suspected glaucoma,G
 3368_right.jpg,3368,Normal,normal fundus,N
 172_right.jpg,172,Normal,normal fundus,N
@@ -2982,21 +2982,21 @@ filename,ID,class,keywords,label
 4641_left.jpg,4641,Normal,normal fundus,N
 2593_right.jpg,2593,Normal,normal fundus,N
 3128_right.jpg,3128,Normal,normal fundus,N
-976_left.jpg,976,Diabetes,mild nonproliferative retinopathy，epiretinal membrane,D
+976_left.jpg,976,Diabetes,mild nonproliferative retinopathy epiretinal membrane,D
 1840_left.jpg,1840,Ageing,dry age-related macular degeneration,A
 113_right.jpg,113,Other diseases,epiretinal membrane,O
 51_right.jpg,51,Other diseases,epiretinal membrane over the macula,O
 2440_left.jpg,2440,Normal,normal fundus,N
 480_right.jpg,480,Other diseases,macular epiretinal membrane,O
 761_right.jpg,761,Ageing,dry age-related macular degeneration,A
-176_left.jpg,176,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+176_left.jpg,176,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 2540_left.jpg,2540,Normal,normal fundus,N
 2794_left.jpg,2794,Normal,normal fundus,N
 2557_left.jpg,2557,Normal,normal fundus,N
 4588_left.jpg,4588,Diabetes,mild nonproliferative retinopathy,D
 2999_right.jpg,2999,Normal,normal fundus,N
 4175_right.jpg,4175,Diabetes,moderate non proliferative retinopathy,D
-692_left.jpg,692,Diabetes,moderate non proliferative retinopathy，laser spot,D
+692_left.jpg,692,Diabetes,moderate non proliferative retinopathy laser spot,D
 2070_left.jpg,2070,Hypertension,hypertensive retinopathy,H
 2473_left.jpg,2473,Normal,normal fundus,N
 371_left.jpg,371,Other diseases,drusen,O
@@ -3010,7 +3010,7 @@ filename,ID,class,keywords,label
 4392_right.jpg,4392,Diabetes,mild nonproliferative retinopathy,D
 3011_right.jpg,3011,Normal,normal fundus,N
 4183_right.jpg,4183,Diabetes,moderate non proliferative retinopathy,D
-926_right.jpg,926,Diabetes,moderate non proliferative retinopathy，optic disc edema,D
+926_right.jpg,926,Diabetes,moderate non proliferative retinopathy optic disc edema,D
 1838_right.jpg,1838,Diabetes,diabetic retinopathy,D
 4317_left.jpg,4317,Diabetes,moderate non proliferative retinopathy,D
 2409_left.jpg,2409,Normal,normal fundus,N
@@ -3067,7 +3067,7 @@ filename,ID,class,keywords,label
 2476_left.jpg,2476,Normal,normal fundus,N
 2939_left.jpg,2939,Normal,normal fundus,N
 2663_left.jpg,2663,Normal,normal fundus,N
-1314_left.jpg,1314,Ageing,dry age-related macular degeneration，glaucoma,A
+1314_left.jpg,1314,Ageing,dry age-related macular degeneration glaucoma,A
 219_left.jpg,219,Other diseases,vitreous degeneration,O
 2857_right.jpg,2857,Normal,normal fundus,N
 4658_left.jpg,4658,Diabetes,moderate non proliferative retinopathy,D
@@ -3080,16 +3080,16 @@ filename,ID,class,keywords,label
 4312_left.jpg,4312,Diabetes,moderate non proliferative retinopathy,D
 3373_left.jpg,3373,Normal,normal fundus,N
 4506_right.jpg,4506,Normal,normal fundus,N
-430_left.jpg,430,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+430_left.jpg,430,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 3203_left.jpg,3203,Normal,normal fundus,N
 4118_right.jpg,4118,Diabetes,mild nonproliferative retinopathy,D
 3208_left.jpg,3208,Normal,normal fundus,N
-1297_left.jpg,1297,Glaucoma,glaucoma，macular epiretinal membrane,G
+1297_left.jpg,1297,Glaucoma,glaucoma macular epiretinal membrane,G
 1564_left.jpg,1564,Myopia,pathological myopia,M
 462_left.jpg,462,Diabetes,moderate non proliferative retinopathy,D
 3966_right.jpg,3966,Diabetes,mild nonproliferative retinopathy,D
 4084_left.jpg,4084,Diabetes,moderate non proliferative retinopathy,D
-787_right.jpg,787,Other diseases,myelinated nerve fibers，mild nonproliferative retinopathy,O
+787_right.jpg,787,Other diseases,myelinated nerve fibers mild nonproliferative retinopathy,O
 2356_right.jpg,2356,Normal,normal fundus,N
 4664_right.jpg,4664,Diabetes,moderate non proliferative retinopathy,D
 891_left.jpg,891,Other diseases,drusen,O
@@ -3106,7 +3106,7 @@ filename,ID,class,keywords,label
 4258_right.jpg,4258,Diabetes,moderate non proliferative retinopathy,D
 657_left.jpg,657,Other diseases,epiretinal membrane,O
 4270_left.jpg,4270,Diabetes,severe nonproliferative retinopathy,D
-938_right.jpg,938,Diabetes,diabetic retinopathy，dry age-related macular degeneration,D
+938_right.jpg,938,Diabetes,diabetic retinopathy dry age-related macular degeneration,D
 3107_left.jpg,3107,Normal,normal fundus,N
 2142_right.jpg,2142,Cataract,cataract,C
 4512_right.jpg,4512,Diabetes,mild nonproliferative retinopathy,D
@@ -3119,9 +3119,9 @@ filename,ID,class,keywords,label
 813_right.jpg,813,Diabetes,severe nonproliferative retinopathy,D
 2843_left.jpg,2843,Normal,normal fundus,N
 1523_right.jpg,1523,Myopia,pathological myopia,M
-605_right.jpg,605,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+605_right.jpg,605,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 199_left.jpg,199,Other diseases,branch retinal vein occlusion,O
-2078_left.jpg,2078,Diabetes,diabetic retinopathy，wet age-related macular degeneration，macular epiretinal membrane,D
+2078_left.jpg,2078,Diabetes,diabetic retinopathy wet age-related macular degeneration macular epiretinal membrane,D
 3994_right.jpg,3994,Diabetes,severe proliferative diabetic retinopathy,D
 2436_right.jpg,2436,Normal,normal fundus,N
 1845_right.jpg,1845,Ageing,dry age-related macular degeneration,A
@@ -3176,7 +3176,7 @@ filename,ID,class,keywords,label
 1584_right.jpg,1584,Myopia,pathological myopia,M
 95_right.jpg,95,Hypertension,hypertensive retinopathy,H
 1419_right.jpg,1419,Other diseases,drusen,O
-1251_right.jpg,1251,Glaucoma,glaucoma，diabetic retinopathy,G
+1251_right.jpg,1251,Glaucoma,glaucoma diabetic retinopathy,G
 2851_right.jpg,2851,Normal,normal fundus,N
 4128_right.jpg,4128,Normal,normal fundus,N
 2950_right.jpg,2950,Normal,normal fundus,N
@@ -3184,7 +3184,7 @@ filename,ID,class,keywords,label
 461_left.jpg,461,Normal,normal fundus,N
 4214_right.jpg,4214,Hypertension,hypertensive retinopathy,H
 4266_left.jpg,4266,Diabetes,mild nonproliferative retinopathy,D
-775_right.jpg,775,Ageing,dry age-related macular degeneration，diabetic retinopathy,A
+775_right.jpg,775,Ageing,dry age-related macular degeneration diabetic retinopathy,A
 3052_left.jpg,3052,Normal,normal fundus,N
 1567_right.jpg,1567,Myopia,pathological myopia,M
 3436_right.jpg,3436,Normal,normal fundus,N
@@ -3195,12 +3195,12 @@ filename,ID,class,keywords,label
 4260_left.jpg,4260,Diabetes,mild nonproliferative retinopathy,D
 2849_right.jpg,2849,Normal,normal fundus,N
 297_right.jpg,297,Other diseases,epiretinal membrane,O
-47_left.jpg,47,Diabetes,moderate non proliferative retinopathy，myelinated nerve fibers,D
-410_right.jpg,410,Ageing,dry age-related macular degeneration，macular epiretinal membrane,A
-1327_left.jpg,1327,Glaucoma,glaucoma，macular epiretinal membrane,G
+47_left.jpg,47,Diabetes,moderate non proliferative retinopathy myelinated nerve fibers,D
+410_right.jpg,410,Ageing,dry age-related macular degeneration macular epiretinal membrane,A
+1327_left.jpg,1327,Glaucoma,glaucoma macular epiretinal membrane,G
 1868_right.jpg,1868,Ageing,dry age-related macular degeneration,A
 1262_right.jpg,1262,Glaucoma,glaucoma,G
-1286_right.jpg,1286,Glaucoma,glaucoma，diabetic retinopathy,G
+1286_right.jpg,1286,Glaucoma,glaucoma diabetic retinopathy,G
 3194_left.jpg,3194,Normal,normal fundus,N
 4462_right.jpg,4462,Diabetes,moderate non proliferative retinopathy,D
 3078_right.jpg,3078,Normal,normal fundus,N
@@ -3227,7 +3227,7 @@ filename,ID,class,keywords,label
 2456_right.jpg,2456,Normal,normal fundus,N
 1479_left.jpg,1479,Glaucoma,glaucoma,G
 3326_right.jpg,3326,Normal,normal fundus,N
-566_right.jpg,566,Diabetes,moderate non proliferative retinopathy，drusen,D
+566_right.jpg,566,Diabetes,moderate non proliferative retinopathy drusen,D
 1586_left.jpg,1586,Myopia,pathological myopia,M
 659_left.jpg,659,Other diseases,branch retinal vein occlusion,O
 129_right.jpg,129,Normal,normal fundus,N
@@ -3241,7 +3241,7 @@ filename,ID,class,keywords,label
 4549_right.jpg,4549,Diabetes,moderate non proliferative retinopathy,D
 2754_left.jpg,2754,Normal,normal fundus,N
 1092_left.jpg,1092,Normal,normal fundus,N
-4012_left.jpg,4012,Diabetes,mild nonproliferative retinopathy，hypertensive retinopathy,D
+4012_left.jpg,4012,Diabetes,mild nonproliferative retinopathy hypertensive retinopathy,D
 2520_left.jpg,2520,Normal,normal fundus,N
 4488_left.jpg,4488,Diabetes,moderate non proliferative retinopathy,D
 445_left.jpg,445,Diabetes,severe nonproliferative retinopathy,D
@@ -3251,8 +3251,8 @@ filename,ID,class,keywords,label
 2374_right.jpg,2374,Normal,normal fundus,N
 2918_left.jpg,2918,Normal,normal fundus,N
 1083_right.jpg,1083,Diabetes,moderate non proliferative retinopathy,D
-323_left.jpg,323,Hypertension,hypertensive retinopathy，optic nerve atrophy,H
-1557_right.jpg,1557,Other diseases,refractive media opacity，pathological myopia,O
+323_left.jpg,323,Hypertension,hypertensive retinopathy optic nerve atrophy,H
+1557_right.jpg,1557,Other diseases,refractive media opacity pathological myopia,O
 652_left.jpg,652,Other diseases,macular epiretinal membrane,O
 4315_left.jpg,4315,Diabetes,mild nonproliferative retinopathy,D
 2544_left.jpg,2544,Normal,normal fundus,N
@@ -3261,8 +3261,8 @@ filename,ID,class,keywords,label
 128_right.jpg,128,Other diseases,epiretinal membrane,O
 2523_right.jpg,2523,Normal,normal fundus,N
 2728_left.jpg,2728,Normal,normal fundus,N
-3966_left.jpg,3966,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
-169_right.jpg,169,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+3966_left.jpg,3966,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
+169_right.jpg,169,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 2780_left.jpg,2780,Normal,normal fundus,N
 2117_right.jpg,2117,Diabetes,mild nonproliferative retinopathy,D
 3229_left.jpg,3229,Normal,normal fundus,N
@@ -3272,7 +3272,7 @@ filename,ID,class,keywords,label
 77_right.jpg,77,Other diseases,myelinated nerve fibers,O
 3189_left.jpg,3189,Normal,normal fundus,N
 755_left.jpg,755,Diabetes,severe nonproliferative retinopathy,D
-887_left.jpg,887,Other diseases,macular epiretinal membrane，laser spot,O
+887_left.jpg,887,Other diseases,macular epiretinal membrane laser spot,O
 4007_right.jpg,4007,Diabetes,mild nonproliferative retinopathy,D
 1516_right.jpg,1516,Other diseases,refractive media opacity,O
 1460_right.jpg,1460,Cataract,cataract,C
@@ -3280,8 +3280,8 @@ filename,ID,class,keywords,label
 4308_right.jpg,4308,Diabetes,moderate non proliferative retinopathy,D
 2117_left.jpg,2117,Cataract,cataract,C
 4087_right.jpg,4087,Diabetes,mild nonproliferative retinopathy,D
-707_left.jpg,707,Diabetes,moderate non proliferative retinopathy，myelinated nerve fibers,D
-1965_left.jpg,1965,Glaucoma,glaucoma，moderate non proliferative retinopathy,G
+707_left.jpg,707,Diabetes,moderate non proliferative retinopathy myelinated nerve fibers,D
+1965_left.jpg,1965,Glaucoma,glaucoma moderate non proliferative retinopathy,G
 181_right.jpg,181,Other diseases,drusen,O
 74_right.jpg,74,Normal,normal fundus,N
 4671_right.jpg,4671,Normal,normal fundus,N
@@ -3319,10 +3319,10 @@ filename,ID,class,keywords,label
 3170_right.jpg,3170,Normal,normal fundus,N
 2236_right.jpg,2236,Cataract,cataract,C
 1081_left.jpg,1081,Hypertension,hypertensive retinopathy,H
-161_left.jpg,161,Diabetes,mild nonproliferative retinopathy，myelinated nerve fibers,D
+161_left.jpg,161,Diabetes,mild nonproliferative retinopathy myelinated nerve fibers,D
 3270_right.jpg,3270,Normal,normal fundus,N
 2669_right.jpg,2669,Normal,normal fundus,N
-386_right.jpg,386,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+386_right.jpg,386,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 2916_right.jpg,2916,Normal,normal fundus,N
 2941_right.jpg,2941,Normal,normal fundus,N
 2547_right.jpg,2547,Normal,normal fundus,N
@@ -3356,12 +3356,12 @@ filename,ID,class,keywords,label
 3325_left.jpg,3325,Normal,normal fundus,N
 4246_right.jpg,4246,Diabetes,mild nonproliferative retinopathy,D
 1531_left.jpg,1531,Myopia,pathological myopia,M
-625_left.jpg,625,Cataract,cataract，suspected glaucoma,C
+625_left.jpg,625,Cataract,cataract suspected glaucoma,C
 3020_right.jpg,3020,Normal,normal fundus,N
 1085_right.jpg,1085,Ageing,dry age-related macular degeneration,A
 2655_left.jpg,2655,Normal,normal fundus,N
 1232_right.jpg,1232,Glaucoma,glaucoma,G
-905_right.jpg,905,Diabetes,moderate non proliferative retinopathy，laser spot,D
+905_right.jpg,905,Diabetes,moderate non proliferative retinopathy laser spot,D
 1844_left.jpg,1844,Ageing,dry age-related macular degeneration,A
 878_left.jpg,878,Other diseases,epiretinal membrane,O
 3304_right.jpg,3304,Normal,normal fundus,N
@@ -3383,8 +3383,8 @@ filename,ID,class,keywords,label
 3078_left.jpg,3078,Normal,normal fundus,N
 1602_right.jpg,1602,Myopia,pathological myopia,M
 1080_left.jpg,1080,Other diseases,macular epiretinal membrane,O
-315_right.jpg,315,Ageing,wet age-related macular degeneration，hypertensive retinopathy,A
-413_left.jpg,413,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+315_right.jpg,315,Ageing,wet age-related macular degeneration hypertensive retinopathy,A
+413_left.jpg,413,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 4137_left.jpg,4137,Diabetes,severe nonproliferative retinopathy,D
 2182_right.jpg,2182,Cataract,cataract,C
 3945_left.jpg,3945,Diabetes,moderate non proliferative retinopathy,D
@@ -3392,13 +3392,13 @@ filename,ID,class,keywords,label
 2480_right.jpg,2480,Normal,normal fundus,N
 3068_left.jpg,3068,Normal,normal fundus,N
 3441_right.jpg,3441,Normal,normal fundus,N
-85_right.jpg,85,Other diseases,drusen，atrophic change,O
+85_right.jpg,85,Other diseases,drusen atrophic change,O
 1092_right.jpg,1092,Other diseases,epiretinal membrane,O
 4206_left.jpg,4206,Diabetes,mild nonproliferative retinopathy,D
 1266_right.jpg,1266,Glaucoma,glaucoma,G
 4442_right.jpg,4442,Diabetes,moderate non proliferative retinopathy,D
 2115_right.jpg,2115,Cataract,cataract,C
-913_left.jpg,913,Diabetes,moderate non proliferative retinopathy，vitreous degeneration,D
+913_left.jpg,913,Diabetes,moderate non proliferative retinopathy vitreous degeneration,D
 3952_left.jpg,3952,Diabetes,moderate non proliferative retinopathy,D
 1830_left.jpg,1830,Ageing,dry age-related macular degeneration,A
 194_right.jpg,194,Other diseases,epiretinal membrane,O
@@ -3406,13 +3406,13 @@ filename,ID,class,keywords,label
 4324_left.jpg,4324,Diabetes,moderate non proliferative retinopathy,D
 3406_left.jpg,3406,Normal,normal fundus,N
 2744_right.jpg,2744,Normal,normal fundus,N
-4120_left.jpg,4120,Diabetes,severe nonproliferative retinopathy，hypertensive retinopathy,D
+4120_left.jpg,4120,Diabetes,severe nonproliferative retinopathy hypertensive retinopathy,D
 395_left.jpg,395,Other diseases,drusen,O
-4784_left.jpg,4784,Hypertension,hypertensive retinopathy，age-related macular degeneration,H
+4784_left.jpg,4784,Hypertension,hypertensive retinopathy age-related macular degeneration,H
 2682_left.jpg,2682,Normal,normal fundus,N
 3350_right.jpg,3350,Normal,normal fundus,N
 816_left.jpg,816,Hypertension,hypertensive retinopathy,H
-94_right.jpg,94,Other diseases,vitreous degeneration，mild nonproliferative retinopathy,O
+94_right.jpg,94,Other diseases,vitreous degeneration mild nonproliferative retinopathy,O
 707_right.jpg,707,Diabetes,mild nonproliferative retinopathy,D
 4354_right.jpg,4354,Normal,normal fundus,N
 2667_right.jpg,2667,Normal,normal fundus,N
@@ -3425,7 +3425,7 @@ filename,ID,class,keywords,label
 2985_left.jpg,2985,Normal,normal fundus,N
 2479_left.jpg,2479,Normal,normal fundus,N
 3122_left.jpg,3122,Normal,normal fundus,N
-90_right.jpg,90,Diabetes,moderate non proliferative retinopathy，laser spot,D
+90_right.jpg,90,Diabetes,moderate non proliferative retinopathy laser spot,D
 4341_left.jpg,4341,Diabetes,severe nonproliferative retinopathy,D
 2542_right.jpg,2542,Normal,normal fundus,N
 2332_left.jpg,2332,Normal,normal fundus,N
@@ -3463,7 +3463,7 @@ filename,ID,class,keywords,label
 4067_right.jpg,4067,Normal,normal fundus,N
 1486_left.jpg,1486,Glaucoma,glaucoma,G
 163_left.jpg,163,Diabetes,mild nonproliferative retinopathy,D
-1291_right.jpg,1291,Glaucoma,glaucoma，macular epiretinal membrane,G
+1291_right.jpg,1291,Glaucoma,glaucoma macular epiretinal membrane,G
 4274_left.jpg,4274,Diabetes,mild nonproliferative retinopathy,D
 901_right.jpg,901,Other diseases,myelinated nerve fibers,O
 1628_left.jpg,1628,Myopia,pathological myopia,M
@@ -3482,9 +3482,9 @@ filename,ID,class,keywords,label
 4178_left.jpg,4178,Diabetes,moderate non proliferative retinopathy,D
 3166_right.jpg,3166,Normal,normal fundus,N
 1488_left.jpg,1488,Glaucoma,glaucoma,G
-479_left.jpg,479,Diabetes,moderate non proliferative retinopathy，macular epiretinal membrane,D
+479_left.jpg,479,Diabetes,moderate non proliferative retinopathy macular epiretinal membrane,D
 84_left.jpg,84,Normal,normal fundus,N
-938_left.jpg,938,Ageing,dry age-related macular degeneration，myopia retinopathy,A
+938_left.jpg,938,Ageing,dry age-related macular degeneration myopia retinopathy,A
 1487_left.jpg,1487,Glaucoma,glaucoma,G
 907_right.jpg,907,Other diseases,refractive media opacity,O
 1536_left.jpg,1536,Myopia,pathological myopia,M
@@ -3509,7 +3509,7 @@ filename,ID,class,keywords,label
 321_right.jpg,321,Ageing,wet age-related macular degeneration,A
 1386_left.jpg,1386,Glaucoma,glaucoma,G
 939_right.jpg,939,Normal,normal fundus,N
-1402_left.jpg,1402,Glaucoma,suspected glaucoma，moderate non proliferative retinopathy,G
+1402_left.jpg,1402,Glaucoma,suspected glaucoma moderate non proliferative retinopathy,G
 2596_left.jpg,2596,Normal,normal fundus,N
 537_right.jpg,537,Diabetes,mild nonproliferative retinopathy,D
 4192_right.jpg,4192,Diabetes,moderate non proliferative retinopathy,D
@@ -3576,17 +3576,17 @@ filename,ID,class,keywords,label
 2911_right.jpg,2911,Normal,normal fundus,N
 4028_left.jpg,4028,Diabetes,mild nonproliferative retinopathy,D
 2183_left.jpg,2183,Cataract,cataract,C
-341_left.jpg,341,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+341_left.jpg,341,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 4325_right.jpg,4325,Diabetes,mild nonproliferative retinopathy,D
 454_right.jpg,454,Other diseases,vitreous degeneration,O
 641_right.jpg,641,Other diseases,maculopathy,O
 2638_left.jpg,2638,Normal,normal fundus,N
 2806_left.jpg,2806,Normal,normal fundus,N
-118_left.jpg,118,Diabetes,moderate non proliferative retinopathy，myelinated nerve fibers,D
+118_left.jpg,118,Diabetes,moderate non proliferative retinopathy myelinated nerve fibers,D
 503_right.jpg,503,Normal,normal fundus,N
 1245_left.jpg,1245,Normal,normal fundus,N
 1393_left.jpg,1393,Normal,normal fundus,N
-571_right.jpg,571,Hypertension,hypertensive retinopathy，mild nonproliferative retinopathy,H
+571_right.jpg,571,Hypertension,hypertensive retinopathy mild nonproliferative retinopathy,H
 1218_right.jpg,1218,Glaucoma,glaucoma,G
 442_right.jpg,442,Diabetes,moderate non proliferative retinopathy,D
 1015_left.jpg,1015,Other diseases,drusen,O
@@ -3607,9 +3607,9 @@ filename,ID,class,keywords,label
 4166_right.jpg,4166,Diabetes,mild nonproliferative retinopathy,D
 2659_right.jpg,2659,Normal,normal fundus,N
 3955_right.jpg,3955,Diabetes,moderate non proliferative retinopathy,D
-904_left.jpg,904,Diabetes,mild nonproliferative retinopathy，mild nonproliferative retinopathy,D
+904_left.jpg,904,Diabetes,mild nonproliferative retinopathy mild nonproliferative retinopathy,D
 2363_right.jpg,2363,Normal,normal fundus,N
-281_right.jpg,281,Diabetes,mild nonproliferative retinopathy，epiretinal membrane,D
+281_right.jpg,281,Diabetes,mild nonproliferative retinopathy epiretinal membrane,D
 979_right.jpg,979,Other diseases,macular epiretinal membrane,O
 1891_left.jpg,1891,Other diseases,drusen,O
 2583_right.jpg,2583,Normal,normal fundus,N
@@ -3618,7 +3618,7 @@ filename,ID,class,keywords,label
 2997_left.jpg,2997,Normal,normal fundus,N
 4032_left.jpg,4032,Diabetes,moderate non proliferative retinopathy,D
 288_right.jpg,288,Diabetes,moderate non proliferative retinopathy,D
-216_left.jpg,216,Other diseases,epiretinal membrane，moderate non proliferative retinopathy,O
+216_left.jpg,216,Other diseases,epiretinal membrane moderate non proliferative retinopathy,O
 1410_right.jpg,1410,Diabetes,mild nonproliferative retinopathy,D
 4389_left.jpg,4389,Diabetes,moderate non proliferative retinopathy,D
 157_left.jpg,157,Diabetes,moderate non proliferative retinopathy,D
@@ -3635,7 +3635,7 @@ filename,ID,class,keywords,label
 2135_right.jpg,2135,Cataract,cataract,C
 447_left.jpg,447,Ageing,dry age-related macular degeneration,A
 2348_left.jpg,2348,Normal,normal fundus,N
-3982_left.jpg,3982,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+3982_left.jpg,3982,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 3410_left.jpg,3410,Normal,normal fundus,N
 2827_right.jpg,2827,Normal,normal fundus,N
 4397_right.jpg,4397,Diabetes,moderate non proliferative retinopathy,D
@@ -3646,7 +3646,7 @@ filename,ID,class,keywords,label
 4519_right.jpg,4519,Diabetes,moderate non proliferative retinopathy,D
 2544_right.jpg,2544,Normal,normal fundus,N
 2099_left.jpg,2099,Cataract,cataract,C
-1411_right.jpg,1411,Glaucoma,glaucoma，macular epiretinal membrane,G
+1411_right.jpg,1411,Glaucoma,glaucoma macular epiretinal membrane,G
 216_right.jpg,216,Other diseases,epiretinal membrane,O
 1662_left.jpg,1662,Myopia,pathological myopia,M
 433_left.jpg,433,Other diseases,myelinated nerve fibers,O
@@ -3658,12 +3658,12 @@ filename,ID,class,keywords,label
 4387_right.jpg,4387,Diabetes,mild nonproliferative retinopathy,D
 4050_left.jpg,4050,Diabetes,mild nonproliferative retinopathy,D
 1553_left.jpg,1553,Myopia,pathological myopia,M
-1167_right.jpg,1167,Diabetes,moderate non proliferative retinopathy，cataract,D
+1167_right.jpg,1167,Diabetes,moderate non proliferative retinopathy cataract,D
 2973_right.jpg,2973,Normal,normal fundus,N
 4173_left.jpg,4173,Diabetes,moderate non proliferative retinopathy,D
-1543_left.jpg,1543,Diabetes,suspected moderate non proliferative retinopathy，pathological myopia,D
+1543_left.jpg,1543,Diabetes,suspected moderate non proliferative retinopathy pathological myopia,D
 1059_right.jpg,1059,Normal,normal fundus,N
-247_right.jpg,247,Ageing,dry age-related macular degeneration，glaucoma,A
+247_right.jpg,247,Ageing,dry age-related macular degeneration glaucoma,A
 2233_right.jpg,2233,Cataract,cataract,C
 3288_right.jpg,3288,Normal,normal fundus,N
 373_right.jpg,373,Other diseases,macular epiretinal membrane,O
@@ -3674,10 +3674,10 @@ filename,ID,class,keywords,label
 3364_left.jpg,3364,Normal,normal fundus,N
 4543_right.jpg,4543,Normal,normal fundus,N
 3344_left.jpg,3344,Normal,normal fundus,N
-1056_right.jpg,1056,Hypertension,hypertensive retinopathy，macular epiretinal membrane,H
+1056_right.jpg,1056,Hypertension,hypertensive retinopathy macular epiretinal membrane,H
 100_left.jpg,100,Other diseases,macular epiretinal membrane,O
 3092_right.jpg,3092,Normal,normal fundus,N
-3979_right.jpg,3979,Diabetes,mild nonproliferative retinopathy，dry age-related macular degeneration,D
+3979_right.jpg,3979,Diabetes,mild nonproliferative retinopathy dry age-related macular degeneration,D
 3188_left.jpg,3188,Normal,normal fundus,N
 2361_right.jpg,2361,Normal,normal fundus,N
 820_left.jpg,820,Cataract,cataract,C
@@ -3690,7 +3690,7 @@ filename,ID,class,keywords,label
 1147_left.jpg,1147,Diabetes,moderate non proliferative retinopathy,D
 3174_left.jpg,3174,Normal,normal fundus,N
 2774_left.jpg,2774,Normal,normal fundus,N
-1308_right.jpg,1308,Other diseases,epiretinal membrane，white vessel,O
+1308_right.jpg,1308,Other diseases,epiretinal membrane white vessel,O
 1546_right.jpg,1546,Myopia,pathological myopia,M
 2669_left.jpg,2669,Normal,normal fundus,N
 681_right.jpg,681,Ageing,dry age-related macular degeneration,A
@@ -3701,13 +3701,13 @@ filename,ID,class,keywords,label
 3940_right.jpg,3940,Diabetes,mild nonproliferative retinopathy,D
 2376_right.jpg,2376,Normal,normal fundus,N
 2865_left.jpg,2865,Normal,normal fundus,N
-981_right.jpg,981,Other diseases,epiretinal membrane，moderate non proliferative retinopathy,O
+981_right.jpg,981,Other diseases,epiretinal membrane moderate non proliferative retinopathy,O
 699_left.jpg,699,Other diseases,epiretinal membrane,O
 681_left.jpg,681,Ageing,dry age-related macular degeneration,A
 168_right.jpg,168,Ageing,dry age-related macular degeneration,A
 2896_right.jpg,2896,Normal,normal fundus,N
 4409_right.jpg,4409,Normal,normal fundus,N
-953_right.jpg,953,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+953_right.jpg,953,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 417_right.jpg,417,Normal,normal fundus,N
 2466_left.jpg,2466,Normal,normal fundus,N
 929_right.jpg,929,Other diseases,drusen,O
@@ -3734,12 +3734,12 @@ filename,ID,class,keywords,label
 715_right.jpg,715,Normal,normal fundus,N
 1837_left.jpg,1837,Normal,normal fundus,N
 4574_right.jpg,4574,Diabetes,moderate non proliferative retinopathy,D
-911_right.jpg,911,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+911_right.jpg,911,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 1212_right.jpg,1212,Glaucoma,glaucoma,G
 1626_left.jpg,1626,Myopia,pathological myopia,M
 3182_right.jpg,3182,Normal,normal fundus,N
 2710_right.jpg,2710,Normal,normal fundus,N
-1202_left.jpg,1202,Ageing,dry age-related macular degeneration，choroidal nevus,A
+1202_left.jpg,1202,Ageing,dry age-related macular degeneration choroidal nevus,A
 1548_right.jpg,1548,Myopia,pathological myopia,M
 563_right.jpg,563,Diabetes,moderate non proliferative retinopathy,D
 2522_right.jpg,2522,Normal,normal fundus,N
@@ -3752,7 +3752,7 @@ filename,ID,class,keywords,label
 1064_left.jpg,1064,Ageing,dry age-related macular degeneration,A
 999_right.jpg,999,Cataract,cataract,C
 3246_right.jpg,3246,Normal,normal fundus,N
-1263_right.jpg,1263,Glaucoma,glaucoma，hypertensive retinopathy,G
+1263_right.jpg,1263,Glaucoma,glaucoma hypertensive retinopathy,G
 3190_right.jpg,3190,Normal,normal fundus,N
 2144_left.jpg,2144,Cataract,cataract,C
 2490_right.jpg,2490,Normal,normal fundus,N
@@ -3786,7 +3786,7 @@ filename,ID,class,keywords,label
 2782_left.jpg,2782,Normal,normal fundus,N
 4172_right.jpg,4172,Normal,normal fundus,N
 366_left.jpg,366,Other diseases,macular epiretinal membrane,O
-1211_right.jpg,1211,Glaucoma,glaucoma，optic nerve atrophy,G
+1211_right.jpg,1211,Glaucoma,glaucoma optic nerve atrophy,G
 2667_left.jpg,2667,Normal,normal fundus,N
 3077_right.jpg,3077,Normal,normal fundus,N
 2850_right.jpg,2850,Normal,normal fundus,N
@@ -3804,10 +3804,10 @@ filename,ID,class,keywords,label
 4035_right.jpg,4035,Diabetes,mild nonproliferative retinopathy,D
 4533_right.jpg,4533,Diabetes,moderate non proliferative retinopathy,D
 3485_left.jpg,3485,Normal,normal fundus,N
-4445_right.jpg,4445,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+4445_right.jpg,4445,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 205_left.jpg,205,Other diseases,drusen,O
 2542_left.jpg,2542,Normal,normal fundus,N
-746_left.jpg,746,Glaucoma,suspected glaucoma，suspicious diabetic retinopathy,G
+746_left.jpg,746,Glaucoma,suspected glaucoma suspicious diabetic retinopathy,G
 3342_left.jpg,3342,Normal,normal fundus,N
 976_right.jpg,976,Diabetes,moderate non proliferative retinopathy,D
 273_right.jpg,273,Other diseases,macular epiretinal membrane,O
@@ -3818,7 +3818,7 @@ filename,ID,class,keywords,label
 4578_right.jpg,4578,Diabetes,mild nonproliferative retinopathy,D
 4560_right.jpg,4560,Diabetes,severe nonproliferative retinopathy,D
 3072_left.jpg,3072,Normal,normal fundus,N
-212_right.jpg,212,Ageing,dry age-related macular degeneration，diabetic retinopathy,A
+212_right.jpg,212,Ageing,dry age-related macular degeneration diabetic retinopathy,A
 82_left.jpg,82,Normal,normal fundus,N
 2469_right.jpg,2469,Normal,normal fundus,N
 695_right.jpg,695,Normal,normal fundus,N
@@ -3840,28 +3840,28 @@ filename,ID,class,keywords,label
 2830_right.jpg,2830,Normal,normal fundus,N
 2399_right.jpg,2399,Normal,normal fundus,N
 1471_right.jpg,1471,Other diseases,epiretinal membrane,O
-543_left.jpg,543,Hypertension,hypertensive retinopathy，mild nonproliferative retinopathy,H
+543_left.jpg,543,Hypertension,hypertensive retinopathy mild nonproliferative retinopathy,H
 2657_right.jpg,2657,Normal,normal fundus,N
 4618_left.jpg,4618,Normal,normal fundus,N
 928_right.jpg,928,Other diseases,drusen,O
 2902_left.jpg,2902,Normal,normal fundus,N
 876_right.jpg,876,Other diseases,epiretinal membrane,O
-3936_right.jpg,3936,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
-2200_right.jpg,2200,Diabetes,moderate non proliferative retinopathy，laser spot,D
+3936_right.jpg,3936,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
+2200_right.jpg,2200,Diabetes,moderate non proliferative retinopathy laser spot,D
 4158_right.jpg,4158,Diabetes,moderate non proliferative retinopathy,D
 4074_right.jpg,4074,Normal,normal fundus,N
 2389_right.jpg,2389,Normal,normal fundus,N
 3147_right.jpg,3147,Normal,normal fundus,N
 1074_left.jpg,1074,Other diseases,macular epiretinal membrane,O
 3380_left.jpg,3380,Normal,normal fundus,N
-831_right.jpg,831,Myopia,pathological myopia，moderate non proliferative retinopathy,M
+831_right.jpg,831,Myopia,pathological myopia moderate non proliferative retinopathy,M
 4413_left.jpg,4413,Diabetes,moderate non proliferative retinopathy,D
-1302_right.jpg,1302,Glaucoma,glaucoma，diabetic retinopathy,G
+1302_right.jpg,1302,Glaucoma,glaucoma diabetic retinopathy,G
 3150_left.jpg,3150,Normal,normal fundus,N
 1572_right.jpg,1572,Myopia,pathological myopia,M
 3245_left.jpg,3245,Normal,normal fundus,N
 2452_right.jpg,2452,Normal,normal fundus,N
-4122_right.jpg,4122,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+4122_right.jpg,4122,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 282_right.jpg,282,Normal,normal fundus,N
 4349_right.jpg,4349,Diabetes,moderate non proliferative retinopathy,D
 3341_left.jpg,3341,Normal,normal fundus,N
@@ -3885,7 +3885,7 @@ filename,ID,class,keywords,label
 3231_right.jpg,3231,Normal,normal fundus,N
 774_right.jpg,774,Other diseases,drusen,O
 607_right.jpg,607,Diabetes,moderate non proliferative retinopathy,D
-267_left.jpg,267,Diabetes,mild nonproliferative retinopathy，vitreous degeneration,D
+267_left.jpg,267,Diabetes,mild nonproliferative retinopathy vitreous degeneration,D
 2414_left.jpg,2414,Normal,normal fundus,N
 772_left.jpg,772,Other diseases,myelinated nerve fibers,O
 4410_left.jpg,4410,Normal,normal fundus,N
@@ -3906,20 +3906,20 @@ filename,ID,class,keywords,label
 979_left.jpg,979,Normal,normal fundus,N
 4202_left.jpg,4202,Hypertension,hypertensive retinopathy,H
 1247_right.jpg,1247,Glaucoma,glaucoma,G
-2226_right.jpg,2226,Cataract,cataract，moderate non proliferative retinopathy,C
-649_right.jpg,649,Diabetes,mild nonproliferative retinopathy，epiretinal membrane,D
+2226_right.jpg,2226,Cataract,cataract moderate non proliferative retinopathy,C
+649_right.jpg,649,Diabetes,mild nonproliferative retinopathy epiretinal membrane,D
 1282_left.jpg,1282,Glaucoma,glaucoma,G
 886_left.jpg,886,Other diseases,refractive media opacity,O
 1977_right.jpg,1977,Glaucoma,glaucoma,G
 2197_left.jpg,2197,Normal,normal fundus,N
 316_right.jpg,316,Other diseases,drusen,O
 4155_left.jpg,4155,Diabetes,moderate non proliferative retinopathy,D
-748_right.jpg,748,Diabetes,mild nonproliferative retinopathy，epiretinal membrane,D
+748_right.jpg,748,Diabetes,mild nonproliferative retinopathy epiretinal membrane,D
 4399_right.jpg,4399,Diabetes,moderate non proliferative retinopathy,D
 2644_right.jpg,2644,Normal,normal fundus,N
 3179_right.jpg,3179,Normal,normal fundus,N
 3180_right.jpg,3180,Normal,normal fundus,N
-133_left.jpg,133,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+133_left.jpg,133,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 3315_left.jpg,3315,Normal,normal fundus,N
 2439_right.jpg,2439,Normal,normal fundus,N
 903_left.jpg,903,Normal,normal fundus,N
@@ -3927,19 +3927,19 @@ filename,ID,class,keywords,label
 24_right.jpg,24,Cataract,cataract,C
 3340_left.jpg,3340,Normal,normal fundus,N
 892_right.jpg,892,Other diseases,macular epiretinal membrane,O
-684_left.jpg,684,Diabetes,moderate non proliferative retinopathy，laser spot,D
+684_left.jpg,684,Diabetes,moderate non proliferative retinopathy laser spot,D
 941_left.jpg,941,Other diseases,epiretinal membrane,O
 333_right.jpg,333,Other diseases,macular epiretinal membrane,O
-970_left.jpg,970,Cataract,cataract，moderate non proliferative retinopathy,C
+970_left.jpg,970,Cataract,cataract moderate non proliferative retinopathy,C
 4161_left.jpg,4161,Diabetes,moderate non proliferative retinopathy,D
 4126_right.jpg,4126,Diabetes,mild nonproliferative retinopathy,D
-501_left.jpg,501,Other diseases,epiretinal membrane over the macula，white vessel,O
+501_left.jpg,501,Other diseases,epiretinal membrane over the macula white vessel,O
 3044_left.jpg,3044,Normal,normal fundus,N
 2347_right.jpg,2347,Normal,normal fundus,N
 3328_right.jpg,3328,Normal,normal fundus,N
 2133_left.jpg,2133,Cataract,cataract,C
 2579_left.jpg,2579,Normal,normal fundus,N
-964_right.jpg,964,Diabetes,moderate non proliferative retinopathy，macular epiretinal membrane,D
+964_right.jpg,964,Diabetes,moderate non proliferative retinopathy macular epiretinal membrane,D
 2914_left.jpg,2914,Normal,normal fundus,N
 2066_left.jpg,2066,Hypertension,hypertensive retinopathy,H
 448_right.jpg,448,Diabetes,moderate non proliferative retinopathy,D
@@ -3963,7 +3963,7 @@ filename,ID,class,keywords,label
 4009_left.jpg,4009,Diabetes,moderate non proliferative retinopathy,D
 4340_left.jpg,4340,Diabetes,mild nonproliferative retinopathy,D
 2512_right.jpg,2512,Normal,normal fundus,N
-1314_right.jpg,1314,Ageing,wet age-related macular degeneration，glaucoma,A
+1314_right.jpg,1314,Ageing,wet age-related macular degeneration glaucoma,A
 3306_right.jpg,3306,Normal,normal fundus,N
 3222_left.jpg,3222,Normal,normal fundus,N
 405_right.jpg,405,Other diseases,epiretinal membrane,O
@@ -3986,14 +3986,14 @@ filename,ID,class,keywords,label
 3289_left.jpg,3289,Normal,normal fundus,N
 532_right.jpg,532,Ageing,dry age-related macular degeneration,A
 4559_right.jpg,4559,Hypertension,hypertensive retinopathy,H
-2032_right.jpg,2032,Diabetes,moderate non proliferative retinopathy，suspected glaucoma,D
+2032_right.jpg,2032,Diabetes,moderate non proliferative retinopathy suspected glaucoma,D
 3225_left.jpg,3225,Normal,normal fundus,N
 3285_left.jpg,3285,Normal,normal fundus,N
 1046_right.jpg,1046,Hypertension,hypertensive retinopathy,H
 3235_right.jpg,3235,Normal,normal fundus,N
 2820_right.jpg,2820,Normal,normal fundus,N
 2176_left.jpg,2176,Cataract,cataract,C
-743_right.jpg,743,Other diseases,epiretinal membrane，vessel tortuosity,O
+743_right.jpg,743,Other diseases,epiretinal membrane vessel tortuosity,O
 186_left.jpg,186,Diabetes,moderate non proliferative retinopathy,D
 1574_right.jpg,1574,Myopia,pathological myopia,M
 1581_right.jpg,1581,Myopia,pathological myopia,M
@@ -4014,13 +4014,13 @@ filename,ID,class,keywords,label
 434_left.jpg,434,Normal,normal fundus,N
 2136_right.jpg,2136,Normal,normal fundus,N
 4041_right.jpg,4041,Diabetes,moderate non proliferative retinopathy,D
-1230_left.jpg,1230,Glaucoma,glaucoma，diabetic retinopathy,G
+1230_left.jpg,1230,Glaucoma,glaucoma diabetic retinopathy,G
 4003_left.jpg,4003,Diabetes,moderate non proliferative retinopathy,D
 1550_left.jpg,1550,Myopia,pathological myopia,M
 3379_left.jpg,3379,Normal,normal fundus,N
 1877_left.jpg,1877,Ageing,dry age-related macular degeneration,A
 2769_left.jpg,2769,Normal,normal fundus,N
-636_right.jpg,636,Other diseases,drusen，epiretinal membrane,O
+636_right.jpg,636,Other diseases,drusen epiretinal membrane,O
 2329_left.jpg,2329,Normal,normal fundus,N
 2579_right.jpg,2579,Normal,normal fundus,N
 4672_right.jpg,4672,Diabetes,mild nonproliferative retinopathy,D
@@ -4060,13 +4060,13 @@ filename,ID,class,keywords,label
 4018_left.jpg,4018,Diabetes,severe nonproliferative retinopathy,D
 470_right.jpg,470,Normal,normal fundus,N
 506_right.jpg,506,Diabetes,mild nonproliferative retinopathy,D
-2048_right.jpg,2048,Glaucoma,glaucoma，old central retinal vein occlusion,G
+2048_right.jpg,2048,Glaucoma,glaucoma old central retinal vein occlusion,G
 678_left.jpg,678,Diabetes,moderate non proliferative retinopathy,D
 2553_right.jpg,2553,Normal,normal fundus,N
 991_right.jpg,991,Diabetes,mild nonproliferative retinopathy,D
 2784_right.jpg,2784,Normal,normal fundus,N
 764_left.jpg,764,Other diseases,drusen,O
-4037_right.jpg,4037,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+4037_right.jpg,4037,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 4077_right.jpg,4077,Hypertension,hypertensive retinopathy,H
 4377_right.jpg,4377,Diabetes,mild nonproliferative retinopathy,D
 3412_right.jpg,3412,Normal,normal fundus,N
@@ -4081,7 +4081,7 @@ filename,ID,class,keywords,label
 126_left.jpg,126,Ageing,dry age-related macular degeneration,A
 383_left.jpg,383,Diabetes,moderate non proliferative retinopathy,D
 4617_left.jpg,4617,Diabetes,mild nonproliferative retinopathy,D
-952_right.jpg,952,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+952_right.jpg,952,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 2633_right.jpg,2633,Normal,normal fundus,N
 4572_left.jpg,4572,Diabetes,moderate non proliferative retinopathy,D
 1126_left.jpg,1126,Normal,normal fundus,N
@@ -4102,7 +4102,7 @@ filename,ID,class,keywords,label
 1853_left.jpg,1853,Hypertension,hypertensive retinopathy,H
 394_left.jpg,394,Normal,normal fundus,N
 2826_right.jpg,2826,Normal,normal fundus,N
-997_right.jpg,997,Diabetes,diabetic retinopathy，post laser photocoagulation,D
+997_right.jpg,997,Diabetes,diabetic retinopathy post laser photocoagulation,D
 3345_right.jpg,3345,Normal,normal fundus,N
 153_right.jpg,153,Ageing,dry age-related macular degeneration,A
 1014_right.jpg,1014,Normal,normal fundus,N
@@ -4110,17 +4110,17 @@ filename,ID,class,keywords,label
 829_left.jpg,829,Other diseases,refractive media opacity,O
 4347_left.jpg,4347,Diabetes,moderate non proliferative retinopathy,D
 698_left.jpg,698,Diabetes,moderate non proliferative retinopathy,D
-4077_left.jpg,4077,Diabetes,mild nonproliferative retinopathy，hypertensive retinopathy,D
+4077_left.jpg,4077,Diabetes,mild nonproliferative retinopathy hypertensive retinopathy,D
 1031_right.jpg,1031,Hypertension,hypertensive retinopathy,H
 1260_left.jpg,1260,Glaucoma,glaucoma,G
 2402_left.jpg,2402,Normal,normal fundus,N
 4282_right.jpg,4282,Diabetes,moderate non proliferative retinopathy,D
-2102_right.jpg,2102,Cataract,cataract，laser spot,C
+2102_right.jpg,2102,Cataract,cataract laser spot,C
 2467_left.jpg,2467,Normal,normal fundus,N
 1048_right.jpg,1048,Hypertension,hypertensive retinopathy,H
 1086_left.jpg,1086,Normal,normal fundus,N
 2672_left.jpg,2672,Normal,normal fundus,N
-1458_right.jpg,1458,Ageing,dry age-related macular degeneration，glaucoma,A
+1458_right.jpg,1458,Ageing,dry age-related macular degeneration glaucoma,A
 941_right.jpg,941,Other diseases,epiretinal membrane,O
 2557_right.jpg,2557,Normal,normal fundus,N
 774_left.jpg,774,Other diseases,drusen,O
@@ -4155,7 +4155,7 @@ filename,ID,class,keywords,label
 2649_left.jpg,2649,Normal,normal fundus,N
 731_left.jpg,731,Other diseases,epiretinal membrane over the macula,O
 2673_left.jpg,2673,Normal,normal fundus,N
-1279_left.jpg,1279,Glaucoma,glaucoma，myopia retinopathy,G
+1279_left.jpg,1279,Glaucoma,glaucoma myopia retinopathy,G
 4639_left.jpg,4639,Normal,normal fundus,N
 334_right.jpg,334,Ageing,dry age-related macular degeneration,A
 2857_left.jpg,2857,Normal,normal fundus,N
@@ -4167,7 +4167,7 @@ filename,ID,class,keywords,label
 603_left.jpg,603,Ageing,wet age-related macular degeneration,A
 481_right.jpg,481,Normal,normal fundus,N
 3131_right.jpg,3131,Normal,normal fundus,N
-1419_left.jpg,1419,Glaucoma,suspected glaucoma，drusen,G
+1419_left.jpg,1419,Glaucoma,suspected glaucoma drusen,G
 2203_right.jpg,2203,Cataract,cataract,C
 2492_left.jpg,2492,Normal,normal fundus,N
 2682_right.jpg,2682,Normal,normal fundus,N
@@ -4190,7 +4190,7 @@ filename,ID,class,keywords,label
 2712_right.jpg,2712,Normal,normal fundus,N
 4184_left.jpg,4184,Diabetes,moderate non proliferative retinopathy,D
 3993_right.jpg,3993,Diabetes,moderate non proliferative retinopathy,D
-1119_left.jpg,1119,Other diseases,epiretinal membrane，chorioretinal atrophy,O
+1119_left.jpg,1119,Other diseases,epiretinal membrane chorioretinal atrophy,O
 4213_right.jpg,4213,Diabetes,mild nonproliferative retinopathy,D
 4085_right.jpg,4085,Diabetes,moderate non proliferative retinopathy,D
 4069_left.jpg,4069,Normal,normal fundus,N
@@ -4204,7 +4204,7 @@ filename,ID,class,keywords,label
 3324_left.jpg,3324,Normal,normal fundus,N
 2204_left.jpg,2204,Cataract,cataract,C
 63_left.jpg,63,Normal,normal fundus,N
-688_right.jpg,688,Diabetes,moderate non proliferative retinopathy，post laser photocoagulation,D
+688_right.jpg,688,Diabetes,moderate non proliferative retinopathy post laser photocoagulation,D
 1510_left.jpg,1510,Normal,normal fundus,N
 2642_right.jpg,2642,Normal,normal fundus,N
 1023_right.jpg,1023,Other diseases,epiretinal membrane over the macula,O
@@ -4248,7 +4248,7 @@ filename,ID,class,keywords,label
 2208_right.jpg,2208,Cataract,cataract,C
 2602_left.jpg,2602,Normal,normal fundus,N
 4241_right.jpg,4241,Diabetes,moderate non proliferative retinopathy,D
-911_left.jpg,911,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+911_left.jpg,911,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 3066_left.jpg,3066,Normal,normal fundus,N
 2240_left.jpg,2240,Cataract,cataract,C
 3164_right.jpg,3164,Normal,normal fundus,N
@@ -4264,7 +4264,7 @@ filename,ID,class,keywords,label
 2004_right.jpg,2004,Hypertension,hypertensive retinopathy,H
 3257_right.jpg,3257,Normal,normal fundus,N
 2173_right.jpg,2173,Cataract,cataract,C
-717_left.jpg,717,Other diseases,epiretinal membrane，drusen,O
+717_left.jpg,717,Other diseases,epiretinal membrane drusen,O
 2881_right.jpg,2881,Normal,normal fundus,N
 1435_right.jpg,1435,Normal,normal fundus,N
 4110_left.jpg,4110,Diabetes,moderate non proliferative retinopathy,D
@@ -4276,7 +4276,7 @@ filename,ID,class,keywords,label
 1479_right.jpg,1479,Normal,normal fundus,N
 2507_right.jpg,2507,Normal,normal fundus,N
 1683_right.jpg,1683,Myopia,pathological myopia,M
-574_left.jpg,574,Diabetes,mild nonproliferative retinopathy，mild nonproliferative retinopathy,D
+574_left.jpg,574,Diabetes,mild nonproliferative retinopathy mild nonproliferative retinopathy,D
 3401_right.jpg,3401,Normal,normal fundus,N
 4309_left.jpg,4309,Normal,normal fundus,N
 2856_right.jpg,2856,Normal,normal fundus,N
@@ -4297,7 +4297,7 @@ filename,ID,class,keywords,label
 4322_right.jpg,4322,Normal,normal fundus,N
 4085_left.jpg,4085,Diabetes,mild nonproliferative retinopathy,D
 1097_right.jpg,1097,Other diseases,epiretinal membrane,O
-288_left.jpg,288,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+288_left.jpg,288,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 1097_left.jpg,1097,Normal,normal fundus,N
 1498_left.jpg,1498,Glaucoma,glaucoma,G
 4278_right.jpg,4278,Diabetes,moderate non proliferative retinopathy,D
@@ -4311,16 +4311,16 @@ filename,ID,class,keywords,label
 2599_left.jpg,2599,Normal,normal fundus,N
 2599_right.jpg,2599,Normal,normal fundus,N
 250_right.jpg,250,Other diseases,macular epiretinal membrane,O
-690_left.jpg,690,Diabetes,mild nonproliferative retinopathy，epiretinal membrane,D
+690_left.jpg,690,Diabetes,mild nonproliferative retinopathy epiretinal membrane,D
 2211_left.jpg,2211,Cataract,cataract,C
 732_left.jpg,732,Normal,normal fundus,N
 737_left.jpg,737,Normal,normal fundus,N
-130_right.jpg,130,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+130_right.jpg,130,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 4550_left.jpg,4550,Diabetes,moderate non proliferative retinopathy,D
 3210_right.jpg,3210,Normal,normal fundus,N
 511_left.jpg,511,Normal,normal fundus,N
-850_right.jpg,850,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
-120_right.jpg,120,Diabetes,proliferative diabetic retinopathy，hypertensive retinopathy,D
+850_right.jpg,850,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
+120_right.jpg,120,Diabetes,proliferative diabetic retinopathy hypertensive retinopathy,D
 3207_right.jpg,3207,Normal,normal fundus,N
 3997_right.jpg,3997,Diabetes,severe nonproliferative retinopathy,D
 4316_right.jpg,4316,Diabetes,moderate non proliferative retinopathy,D
@@ -4354,7 +4354,7 @@ filename,ID,class,keywords,label
 91_left.jpg,91,Normal,normal fundus,N
 3336_right.jpg,3336,Normal,normal fundus,N
 2729_left.jpg,2729,Normal,normal fundus,N
-997_left.jpg,997,Diabetes,diabetic retinopathy，post laser photocoagulation,D
+997_left.jpg,997,Diabetes,diabetic retinopathy post laser photocoagulation,D
 3300_right.jpg,3300,Normal,normal fundus,N
 3087_right.jpg,3087,Normal,normal fundus,N
 925_right.jpg,925,Other diseases,epiretinal membrane,O
@@ -4377,7 +4377,7 @@ filename,ID,class,keywords,label
 3391_left.jpg,3391,Normal,normal fundus,N
 2709_left.jpg,2709,Normal,normal fundus,N
 608_right.jpg,608,Ageing,dry age-related macular degeneration,A
-43_right.jpg,43,Ageing,dry age-related macular degeneration，glaucoma,A
+43_right.jpg,43,Ageing,dry age-related macular degeneration glaucoma,A
 1111_right.jpg,1111,Ageing,dry age-related macular degeneration,A
 2097_right.jpg,2097,Cataract,cataract,C
 2619_left.jpg,2619,Normal,normal fundus,N
@@ -4405,7 +4405,7 @@ filename,ID,class,keywords,label
 33_right.jpg,33,Other diseases,macular epiretinal membrane,O
 4589_left.jpg,4589,Diabetes,moderate non proliferative retinopathy,D
 957_right.jpg,957,Hypertension,hypertensive retinopathy,H
-4012_right.jpg,4012,Diabetes,mild nonproliferative retinopathy，hypertensive retinopathy,D
+4012_right.jpg,4012,Diabetes,mild nonproliferative retinopathy hypertensive retinopathy,D
 2454_left.jpg,2454,Normal,normal fundus,N
 1082_left.jpg,1082,Diabetes,moderate non proliferative retinopathy,D
 272_left.jpg,272,Hypertension,hypertensive retinopathy,H
@@ -4419,7 +4419,7 @@ filename,ID,class,keywords,label
 4564_left.jpg,4564,Diabetes,moderate non proliferative retinopathy,D
 191_left.jpg,191,Normal,normal fundus,N
 3437_right.jpg,3437,Normal,normal fundus,N
-1942_left.jpg,1942,Diabetes,diabetic retinopathy，dry age-related macular degeneration,D
+1942_left.jpg,1942,Diabetes,diabetic retinopathy dry age-related macular degeneration,D
 2380_left.jpg,2380,Normal,normal fundus,N
 2940_left.jpg,2940,Normal,normal fundus,N
 183_right.jpg,183,Normal,normal fundus,N
@@ -4430,7 +4430,7 @@ filename,ID,class,keywords,label
 600_left.jpg,600,Diabetes,mild nonproliferative retinopathy,D
 4373_right.jpg,4373,Diabetes,mild nonproliferative retinopathy,D
 2445_right.jpg,2445,Normal,normal fundus,N
-1971_right.jpg,1971,Diabetes,moderate non proliferative retinopathy，pathological myopia,D
+1971_right.jpg,1971,Diabetes,moderate non proliferative retinopathy pathological myopia,D
 4073_right.jpg,4073,Diabetes,proliferative diabetic retinopathy,D
 3175_right.jpg,3175,Normal,normal fundus,N
 4098_right.jpg,4098,Diabetes,severe nonproliferative retinopathy,D
@@ -4443,11 +4443,11 @@ filename,ID,class,keywords,label
 3228_right.jpg,3228,Normal,normal fundus,N
 3407_right.jpg,3407,Normal,normal fundus,N
 3109_left.jpg,3109,Normal,normal fundus,N
-497_right.jpg,497,Diabetes,moderate non proliferative retinopathy，laser spot,D
+497_right.jpg,497,Diabetes,moderate non proliferative retinopathy laser spot,D
 3954_right.jpg,3954,Normal,normal fundus,N
 2128_right.jpg,2128,Cataract,cataract,C
 785_left.jpg,785,Normal,normal fundus,N
-452_right.jpg,452,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+452_right.jpg,452,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 1872_right.jpg,1872,Ageing,dry age-related macular degeneration,A
 1964_right.jpg,1964,Other diseases,maculopathy,O
 2462_left.jpg,2462,Normal,normal fundus,N
@@ -4461,7 +4461,7 @@ filename,ID,class,keywords,label
 3352_left.jpg,3352,Normal,normal fundus,N
 832_left.jpg,832,Normal,normal fundus,N
 4177_right.jpg,4177,Diabetes,mild nonproliferative retinopathy,D
-1228_left.jpg,1228,Glaucoma,glaucoma，diabetic retinopathy,G
+1228_left.jpg,1228,Glaucoma,glaucoma diabetic retinopathy,G
 3260_right.jpg,3260,Normal,normal fundus,N
 873_left.jpg,873,Other diseases,drusen,O
 3446_right.jpg,3446,Normal,normal fundus,N
@@ -4472,7 +4472,7 @@ filename,ID,class,keywords,label
 679_right.jpg,679,Normal,normal fundus,N
 4357_right.jpg,4357,Diabetes,moderate non proliferative retinopathy,D
 4586_right.jpg,4586,Normal,normal fundus,N
-677_left.jpg,677,Diabetes,moderate non proliferative retinopathy，vitreous degeneration,D
+677_left.jpg,677,Diabetes,moderate non proliferative retinopathy vitreous degeneration,D
 3944_right.jpg,3944,Diabetes,moderate non proliferative retinopathy,D
 3330_left.jpg,3330,Normal,normal fundus,N
 580_right.jpg,580,Other diseases,macular epiretinal membrane,O
@@ -4496,7 +4496,7 @@ filename,ID,class,keywords,label
 2390_right.jpg,2390,Normal,normal fundus,N
 2980_right.jpg,2980,Normal,normal fundus,N
 2866_left.jpg,2866,Normal,normal fundus,N
-376_right.jpg,376,Diabetes,moderate non proliferative retinopathy，myelinated nerve fibers,D
+376_right.jpg,376,Diabetes,moderate non proliferative retinopathy myelinated nerve fibers,D
 2844_left.jpg,2844,Normal,normal fundus,N
 2101_left.jpg,2101,Cataract,cataract,C
 3359_left.jpg,3359,Normal,normal fundus,N
@@ -4508,12 +4508,12 @@ filename,ID,class,keywords,label
 2348_right.jpg,2348,Normal,normal fundus,N
 2609_left.jpg,2609,Normal,normal fundus,N
 1856_right.jpg,1856,Ageing,wet age-related macular degeneration,A
-647_left.jpg,647,Diabetes,moderate non proliferative retinopathy，laser spot,D
+647_left.jpg,647,Diabetes,moderate non proliferative retinopathy laser spot,D
 2762_right.jpg,2762,Normal,normal fundus,N
-296_right.jpg,296,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+296_right.jpg,296,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 963_left.jpg,963,Other diseases,drusen,O
 784_left.jpg,784,Diabetes,moderate non proliferative retinopathy,D
-4072_right.jpg,4072,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+4072_right.jpg,4072,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 1519_left.jpg,1519,Normal,normal fundus,N
 4436_left.jpg,4436,Diabetes,moderate non proliferative retinopathy,D
 45_right.jpg,45,Hypertension,hypertensive retinopathy,H
@@ -4568,7 +4568,7 @@ filename,ID,class,keywords,label
 3211_left.jpg,3211,Normal,normal fundus,N
 4438_right.jpg,4438,Diabetes,mild nonproliferative retinopathy,D
 3341_right.jpg,3341,Normal,normal fundus,N
-71_right.jpg,71,Ageing,wet age-related macular degeneration，diabetic retinopathy,A
+71_right.jpg,71,Ageing,wet age-related macular degeneration diabetic retinopathy,A
 223_right.jpg,223,Diabetes,moderate non proliferative retinopathy,D
 3076_left.jpg,3076,Normal,normal fundus,N
 1114_left.jpg,1114,Other diseases,refractive media opacity,O
@@ -4581,13 +4581,13 @@ filename,ID,class,keywords,label
 2866_right.jpg,2866,Normal,normal fundus,N
 1537_right.jpg,1537,Myopia,pathological myopia,M
 864_left.jpg,864,Diabetes,proliferative diabetic retinopathy,D
-701_right.jpg,701,Diabetes,moderate non proliferative retinopathy，retinal pigment epithelial hypertrophy,D
+701_right.jpg,701,Diabetes,moderate non proliferative retinopathy retinal pigment epithelial hypertrophy,D
 1573_right.jpg,1573,Myopia,pathological myopia,M
 3375_left.jpg,3375,Normal,normal fundus,N
 4544_left.jpg,4544,Diabetes,moderate non proliferative retinopathy,D
 915_left.jpg,915,Normal,normal fundus,N
 4675_left.jpg,4675,Diabetes,moderate non proliferative retinopathy,D
-27_right.jpg,27,Other diseases,macular epiretinal membrane，moderate non proliferative retinopathy,O
+27_right.jpg,27,Other diseases,macular epiretinal membrane moderate non proliferative retinopathy,O
 292_right.jpg,292,Ageing,dry age-related macular degeneration,A
 4635_right.jpg,4635,Diabetes,moderate non proliferative retinopathy,D
 2847_right.jpg,2847,Normal,normal fundus,N
@@ -4660,13 +4660,13 @@ filename,ID,class,keywords,label
 137_left.jpg,137,Normal,normal fundus,N
 669_left.jpg,669,Diabetes,mild nonproliferative retinopathy,D
 2572_left.jpg,2572,Normal,normal fundus,N
-358_left.jpg,358,Diabetes,mild nonproliferative retinopathy，drusen,D
+358_left.jpg,358,Diabetes,mild nonproliferative retinopathy drusen,D
 442_left.jpg,442,Diabetes,moderate non proliferative retinopathy,D
 2621_left.jpg,2621,Normal,normal fundus,N
 3324_right.jpg,3324,Normal,normal fundus,N
 765_right.jpg,765,Diabetes,severe nonproliferative retinopathy,D
 1071_right.jpg,1071,Diabetes,mild nonproliferative retinopathy,D
-1986_right.jpg,1986,Other diseases,myelinated nerve fibers，drusen,O
+1986_right.jpg,1986,Other diseases,myelinated nerve fibers drusen,O
 806_left.jpg,806,Diabetes,mild nonproliferative retinopathy,D
 1859_right.jpg,1859,Ageing,dry age-related macular degeneration,A
 2201_left.jpg,2201,Diabetes,mild nonproliferative retinopathy,D
@@ -4680,9 +4680,9 @@ filename,ID,class,keywords,label
 4221_right.jpg,4221,Diabetes,severe nonproliferative retinopathy,D
 615_right.jpg,615,Ageing,dry age-related macular degeneration,A
 2861_right.jpg,2861,Normal,normal fundus,N
-1289_left.jpg,1289,Glaucoma,glaucoma，myopia retinopathy,G
+1289_left.jpg,1289,Glaucoma,glaucoma myopia retinopathy,G
 2448_left.jpg,2448,Normal,normal fundus,N
-4129_right.jpg,4129,Diabetes,mild nonproliferative retinopathy，hypertensive retinopathy,D
+4129_right.jpg,4129,Diabetes,mild nonproliferative retinopathy hypertensive retinopathy,D
 1801_right.jpg,1801,Ageing,dry age-related macular degeneration,A
 1498_right.jpg,1498,Normal,normal fundus,N
 674_right.jpg,674,Other diseases,drusen,O
@@ -4698,7 +4698,7 @@ filename,ID,class,keywords,label
 3950_right.jpg,3950,Diabetes,mild nonproliferative retinopathy,D
 3017_left.jpg,3017,Normal,normal fundus,N
 1975_right.jpg,1975,Normal,normal fundus,N
-1718_right.jpg,1718,Diabetes,moderate non proliferative retinopathy，pathological myopia,D
+1718_right.jpg,1718,Diabetes,moderate non proliferative retinopathy pathological myopia,D
 2781_left.jpg,2781,Normal,normal fundus,N
 618_right.jpg,618,Normal,normal fundus,N
 3061_right.jpg,3061,Normal,normal fundus,N
@@ -4737,7 +4737,7 @@ filename,ID,class,keywords,label
 2432_left.jpg,2432,Normal,normal fundus,N
 579_left.jpg,579,Other diseases,myelinated nerve fibers,O
 1474_right.jpg,1474,Other diseases,drusen,O
-898_left.jpg,898,Diabetes,moderate non proliferative retinopathy，epiretinal membrane,D
+898_left.jpg,898,Diabetes,moderate non proliferative retinopathy epiretinal membrane,D
 2442_right.jpg,2442,Normal,normal fundus,N
 1835_left.jpg,1835,Ageing,dry age-related macular degeneration,A
 2761_left.jpg,2761,Normal,normal fundus,N
@@ -4763,7 +4763,7 @@ filename,ID,class,keywords,label
 1880_left.jpg,1880,Ageing,dry age-related macular degeneration,A
 3144_right.jpg,3144,Normal,normal fundus,N
 520_right.jpg,520,Other diseases,drusen,O
-847_right.jpg,847,Ageing,dry age-related macular degeneration，post laser photocoagulation,A
+847_right.jpg,847,Ageing,dry age-related macular degeneration post laser photocoagulation,A
 1659_right.jpg,1659,Myopia,pathological myopia,M
 1231_right.jpg,1231,Glaucoma,glaucoma,G
 2382_left.jpg,2382,Normal,normal fundus,N
@@ -4780,18 +4780,18 @@ filename,ID,class,keywords,label
 2919_right.jpg,2919,Normal,normal fundus,N
 3098_right.jpg,3098,Normal,normal fundus,N
 3230_left.jpg,3230,Normal,normal fundus,N
-111_left.jpg,111,Diabetes,severe nonproliferative retinopathy，white vessel,D
-522_right.jpg,522,Other diseases,macular epiretinal membrane，mild nonproliferative retinopathy,O
+111_left.jpg,111,Diabetes,severe nonproliferative retinopathy white vessel,D
+522_right.jpg,522,Other diseases,macular epiretinal membrane mild nonproliferative retinopathy,O
 3021_left.jpg,3021,Normal,normal fundus,N
 4193_left.jpg,4193,Normal,normal fundus,N
 3124_right.jpg,3124,Normal,normal fundus,N
 3385_right.jpg,3385,Normal,normal fundus,N
 2899_left.jpg,2899,Normal,normal fundus,N
-676_right.jpg,676,Diabetes,moderate non proliferative retinopathy，moderate non proliferative retinopathy，moderate non proliferative retinopathy,D
+676_right.jpg,676,Diabetes,moderate non proliferative retinopathy moderate non proliferative retinopathy moderate non proliferative retinopathy,D
 1103_right.jpg,1103,Myopia,pathological myopia,M
 3130_right.jpg,3130,Normal,normal fundus,N
 1565_left.jpg,1565,Myopia,pathological myopia,M
-592_right.jpg,592,Diabetes,moderate non proliferative retinopathy，laser spot,D
+592_right.jpg,592,Diabetes,moderate non proliferative retinopathy laser spot,D
 1613_right.jpg,1613,Myopia,pathological myopia,M
 4474_left.jpg,4474,Diabetes,mild nonproliferative retinopathy,D
 3258_left.jpg,3258,Normal,normal fundus,N
@@ -4817,7 +4817,7 @@ filename,ID,class,keywords,label
 3114_right.jpg,3114,Normal,normal fundus,N
 4200_right.jpg,4200,Diabetes,mild nonproliferative retinopathy,D
 4623_left.jpg,4623,Diabetes,severe nonproliferative retinopathy,D
-4090_left.jpg,4090,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+4090_left.jpg,4090,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 2143_left.jpg,2143,Normal,normal fundus,N
 548_right.jpg,548,Normal,normal fundus,N
 4240_right.jpg,4240,Diabetes,moderate non proliferative retinopathy,D
@@ -4837,21 +4837,21 @@ filename,ID,class,keywords,label
 2688_left.jpg,2688,Normal,normal fundus,N
 2930_right.jpg,2930,Normal,normal fundus,N
 2481_right.jpg,2481,Normal,normal fundus,N
-783_right.jpg,783,Hypertension,hypertensive retinopathy，moderate non proliferative retinopathy,H
+783_right.jpg,783,Hypertension,hypertensive retinopathy moderate non proliferative retinopathy,H
 4333_left.jpg,4333,Normal,normal fundus,N
 4549_left.jpg,4549,Diabetes,mild nonproliferative retinopathy,D
 475_left.jpg,475,Diabetes,moderate non proliferative retinopathy,D
 2391_left.jpg,2391,Normal,normal fundus,N
 3315_right.jpg,3315,Normal,normal fundus,N
-3982_right.jpg,3982,Diabetes,moderate non proliferative retinopathy，hypertensive retinopathy,D
+3982_right.jpg,3982,Diabetes,moderate non proliferative retinopathy hypertensive retinopathy,D
 4023_right.jpg,4023,Diabetes,mild nonproliferative retinopathy,D
-1020_left.jpg,1020,Glaucoma,glaucoma，intraretinal hemorrhage,G
+1020_left.jpg,1020,Glaucoma,glaucoma intraretinal hemorrhage,G
 4169_right.jpg,4169,Diabetes,moderate non proliferative retinopathy,D
-818_left.jpg,818,Hypertension,hypertensive retinopathy，moderate non proliferative retinopathy,H
+818_left.jpg,818,Hypertension,hypertensive retinopathy moderate non proliferative retinopathy,H
 1222_right.jpg,1222,Glaucoma,glaucoma,G
 2185_left.jpg,2185,Cataract,cataract,C
 473_left.jpg,473,Diabetes,severe nonproliferative retinopathy,D
-428_left.jpg,428,Other diseases,epiretinal membrane，mild nonproliferative retinopathy,O
+428_left.jpg,428,Other diseases,epiretinal membrane mild nonproliferative retinopathy,O
 587_left.jpg,587,Other diseases,epiretinal membrane,O
 3012_right.jpg,3012,Normal,normal fundus,N
 2559_right.jpg,2559,Normal,normal fundus,N
@@ -4885,7 +4885,7 @@ filename,ID,class,keywords,label
 2821_left.jpg,2821,Normal,normal fundus,N
 4134_left.jpg,4134,Diabetes,moderate non proliferative retinopathy,D
 4273_right.jpg,4273,Diabetes,moderate non proliferative retinopathy,D
-1273_right.jpg,1273,Glaucoma,glaucoma，fundus laser photocoagulation spots,G
+1273_right.jpg,1273,Glaucoma,glaucoma fundus laser photocoagulation spots,G
 2782_right.jpg,2782,Normal,normal fundus,N
 4334_right.jpg,4334,Diabetes,moderate non proliferative retinopathy,D
 4203_left.jpg,4203,Normal,normal fundus,N
@@ -4901,7 +4901,7 @@ filename,ID,class,keywords,label
 2910_left.jpg,2910,Normal,normal fundus,N
 2675_left.jpg,2675,Normal,normal fundus,N
 1269_left.jpg,1269,Glaucoma,glaucoma,G
-1428_left.jpg,1428,Glaucoma,suspected glaucoma，moderate non proliferative retinopathy,G
+1428_left.jpg,1428,Glaucoma,suspected glaucoma moderate non proliferative retinopathy,G
 4630_left.jpg,4630,Diabetes,moderate non proliferative retinopathy,D
 101_left.jpg,101,Other diseases,drusen,O
 4625_right.jpg,4625,Diabetes,moderate non proliferative retinopathy,D
@@ -4942,7 +4942,7 @@ filename,ID,class,keywords,label
 3179_left.jpg,3179,Normal,normal fundus,N
 4573_left.jpg,4573,Diabetes,mild nonproliferative retinopathy,D
 4534_right.jpg,4534,Diabetes,moderate non proliferative retinopathy,D
-914_left.jpg,914,Diabetes,moderate non proliferative retinopathy，myelinated nerve fibers，laser spot,D
+914_left.jpg,914,Diabetes,moderate non proliferative retinopathy myelinated nerve fibers laser spot,D
 1297_right.jpg,1297,Glaucoma,glaucoma,G
 2158_left.jpg,2158,Cataract,cataract,C
 3965_left.jpg,3965,Diabetes,severe nonproliferative retinopathy,D
@@ -4970,8 +4970,8 @@ filename,ID,class,keywords,label
 1034_left.jpg,1034,Normal,normal fundus,N
 4612_left.jpg,4612,Diabetes,moderate non proliferative retinopathy,D
 1436_right.jpg,1436,Glaucoma,glaucoma,G
-1303_left.jpg,1303,Glaucoma,glaucoma，central retinal vein occlusion,G
-139_left.jpg,139,Diabetes,severe nonproliferative retinopathy，hypertensive retinopathy,D
+1303_left.jpg,1303,Glaucoma,glaucoma central retinal vein occlusion,G
+139_left.jpg,139,Diabetes,severe nonproliferative retinopathy hypertensive retinopathy,D
 1106_left.jpg,1106,Diabetes,moderate non proliferative retinopathy,D
 597_right.jpg,597,Diabetes,moderate non proliferative retinopathy,D
 1287_left.jpg,1287,Glaucoma,glaucoma,G
@@ -5013,11 +5013,11 @@ filename,ID,class,keywords,label
 1365_right.jpg,1365,Glaucoma,glaucoma,G
 3395_left.jpg,3395,Normal,normal fundus,N
 553_left.jpg,553,Cataract,cataract,C
-675_right.jpg,675,Hypertension,hypertensive retinopathy，branch retinal vein occlusion,H
-512_left.jpg,512,Diabetes,mild nonproliferative retinopathy，epiretinal membrane,D
+675_right.jpg,675,Hypertension,hypertensive retinopathy branch retinal vein occlusion,H
+512_left.jpg,512,Diabetes,mild nonproliferative retinopathy epiretinal membrane,D
 4306_left.jpg,4306,Diabetes,moderate non proliferative retinopathy,D
 837_right.jpg,837,Normal,normal fundus,N
-54_right.jpg,54,Diabetes,moderate non proliferative retinopathy，pathological myopia,D
+54_right.jpg,54,Diabetes,moderate non proliferative retinopathy pathological myopia,D
 145_left.jpg,145,Myopia,pathological myopia,M
 359_right.jpg,359,Ageing,dry age-related macular degeneration,A
 2129_right.jpg,2129,Cataract,cataract,C
