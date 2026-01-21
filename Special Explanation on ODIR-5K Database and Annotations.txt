@@ -1,0 +1,73 @@
+
+Special Explanation on ODIR-5K Database and Annotations
+
+1. The annotated classification labels are determined by the following rules
+   (1) The classification labels of one patient depends on left and right fundus images and corresponding diagnosis keywords;
+   (2) One patient is classified as normal if and only if both left and right diagnosis keywords are "normal fundus";	 
+   (3) The classification labels are decided by the other fundus image when one of fundus images is marked as "normal fundus";
+   (4) Treat all suspected diseases or abnormalities as diagnosed diseases or abnormalities. 
+
+2. Special words that appeared in diagnostic keywords	
+    (1) The appearance of the two keywords "anterior segment image" and "no fundus image" are not classified into any of the eight categories in this competition.
+       For example, there are two anterior segment images in ODIR-5K database, 1706_left.jpg and 1710_right.jpg. 
+	In this case, the patient's classification labels are only judged by the other fundus image of the same patient.
+	In addition, it is very important to note that the diagnostic keyword for 4580_left.jpg image is "no fundus image".
+	Because this image is actually not the left fundus image of this patient, it is from a rotation of right fundus image.
+	The introduction of these two diagnostic keywords can also be one of the challenges in this competition. 
+   (2) The keywords "lens dust", "optic disk photographically invisible", "low image quality" and "image offset" do not play a decisive role in determining patient's labels.
+
+3. The background of the following images is quite different from the rest ones. They are fundus images uploaded from the hospital. 
+	   We are sure that these images are preprocessed. You can decide by yourself whether or not to train these images in the model. 
+	   These images include
+		2174_right.jpg
+		2175_left.jpg
+		2176_left.jpg
+		2177_left.jpg
+		2177_right.jpg
+		2178_right.jpg
+		2179_left.jpg
+		2179_right.jpg
+		2180_left.jpg
+		2180_right.jpg
+		2181_left.jpg
+		2181_right.jpg
+		2182_left.jpg
+		2182_right.jpg
+		2957_left.jpg
+		2957_right.jpg
+		
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+����ODIR-5K���ݿ⼰��ע�ļ����ر����
+
+1. ��ע�ļ��еķ����ǩ,�����¹���ȷ����
+   (1) ��ȷ�����˵ķ����ǩʱ,�Ǹ������ۺ����۵��۵�ͼ�����Ϲؼ��ʽ���ȷ��;
+   (2) ���˱�����Ϊ����, ���ҽ���������������Ϲؼ��ʶ�Ϊ"�����۵�";
+   (3) �����˵�����һֻ�۾����۵�ͼ��Ϊ"�����۵�"ʱ,��Ҫ������һֻ�۾����۵�ͼ����ȷ���ò��˵ķ����ǩ;
+   (4) ���������Ƽ������쳣����ȷ�Ｒ�����쳣.
+
+2. ��Ϲؼ����е�����ؼ���
+   (1) "������"��"���۵�ͼ��"�������ؼ��ʵĳ���,������ǩ����Ϊ�˴ξ���8������е��κ�һ�ࡣ
+       ����,���ݿ��д�������������,�ֱ�1706_left.jpg��1710_right.jpg.���������,������һֻ�۾����۵�ͼ��Բ��˵ķ����ǩ�����ж�.
+	����,��Ҫ��ע����,4580_left.jpg����ͼ�����Ϲؼ���Ϊ"���۵�ͼ��". ��Ϊ����ͼ��,
+	��ʵ�ϲ����Ǵ˲��˵������۵�ͼ��,���������۵�ͼ�����ת.��������Ϲؼ�������Ӧͼ�������,Ҳ������������ѵ�֮һ.
+   (2) "��ͷ�۵�","���̲��ɼ�","ͼ��������"��"ͼƬƫλ"�⼸���ؼ��ʣ�����ͼ������ǩ��ȷ������������á�
+
+3. ����ͼ��ı�����ͬ������ͼ��,�����Ǵ�ҽԺ���ϴ����۵�ͼ��. ����ȷ����Щͼ���Ǿ���Ԥ������,��������������Ƿ�Ҫ����Щͼ�����ģ�͵�ѵ������. 
+	��ЩͼƬ������
+		2174_right.jpg
+		2175_left.jpg
+		2176_left.jpg
+		2177_left.jpg
+		2177_right.jpg
+		2178_right.jpg
+		2179_left.jpg
+		2179_right.jpg
+		2180_left.jpg
+		2180_right.jpg
+		2181_left.jpg
+		2181_right.jpg
+		2182_left.jpg
+		2182_right.jpg
+		2957_left.jpg
+		2957_right.jpg

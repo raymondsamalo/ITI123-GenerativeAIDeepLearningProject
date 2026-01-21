@@ -1419,15 +1419,8 @@ filename,label,ID,class,keywords
 2171_right.jpg,N,2171,Normal,normal fundus
 2172_right.jpg,N,2172,Normal,normal fundus
 2173_right.jpg,C,2173,Cataract,cataract
-2174_right.jpg,C,2174,Cataract,cataract
 2175_right.jpg,N,2175,Normal,normal fundus
 2176_right.jpg,C,2176,Cataract,cataract
-2177_right.jpg,C,2177,Cataract,cataract
-2178_right.jpg,C,2178,Cataract,cataract
-2179_right.jpg,C,2179,Cataract,cataract
-2180_right.jpg,C,2180,Cataract,cataract
-2181_right.jpg,C,2181,Cataract,cataract
-2182_right.jpg,C,2182,Cataract,cataract
 2183_right.jpg,C,2183,Cataract,cataract
 2184_right.jpg,C,2184,Cataract,cataract
 2185_right.jpg,O,2185,Other diseases,drusen
@@ -2047,7 +2040,6 @@ filename,label,ID,class,keywords
 2953_right.jpg,N,2953,Normal,normal fundus
 2955_right.jpg,N,2955,Normal,normal fundus
 2956_right.jpg,N,2956,Normal,normal fundus
-2957_right.jpg,N,2957,Normal,normal fundus
 2958_right.jpg,N,2958,Normal,normal fundus
 2960_right.jpg,N,2960,Normal,normal fundus
 2961_right.jpg,N,2961,Normal,normal fundus
@@ -4559,13 +4551,7 @@ filename,label,ID,class,keywords
 2172_left.jpg,C,2172,Cataract,cataract
 2173_left.jpg,O,2173,Other diseases,refractive media opacity
 2174_left.jpg,N,2174,Normal,normal fundus
-2175_left.jpg,C,2175,Cataract,cataract
-2176_left.jpg,C,2176,Cataract,cataract
 2178_left.jpg,C,2178,Cataract,cataract
-2179_left.jpg,C,2179,Cataract,cataract
-2180_left.jpg,C,2180,Cataract,cataract
-2181_left.jpg,C,2181,Cataract,cataract
-2182_left.jpg,C,2182,Cataract,cataract
 2183_left.jpg,C,2183,Cataract,cataract
 2184_left.jpg,C,2184,Cataract,cataract
 2185_left.jpg,C,2185,Cataract,cataract
@@ -5177,7 +5163,6 @@ filename,label,ID,class,keywords
 2954_left.jpg,N,2954,Normal,normal fundus
 2955_left.jpg,N,2955,Normal,normal fundus
 2956_left.jpg,N,2956,Normal,normal fundus
-2957_left.jpg,N,2957,Normal,normal fundus
 2958_left.jpg,N,2958,Normal,normal fundus
 2960_left.jpg,N,2960,Normal,normal fundus
 2961_left.jpg,N,2961,Normal,normal fundus
