@@ -5,6 +5,7 @@ ODIR-2019/dataset/ODIR-5K
 ODIR-2019/yolo
 ODIR-2019/processed_images
 ODIR-2019/preprocessed_images
+ODIR-2019/augmented_images
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
