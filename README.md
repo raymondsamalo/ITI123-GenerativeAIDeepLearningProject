@@ -43,3 +43,9 @@ Extra Data Set that can be incorporated in next stage
     - https://www.kaggle.com/datasets/kabirjaan/beh-glaucoma
 - Hypertension
     - https://www.kaggle.com/datasets/harshwardhanfartale/hypertension-and-hypertensive-retinopathy-dataset
+
+clahe and efficient net
+https://ieeexplore.ieee.org/document/9125868
+A. Momeni Pour, H. Seyedarabi, S. H. Abbasi Jahromi and A. Javadzadeh, "Automatic Detection and Monitoring of Diabetic Retinopathy Using Efficient Convolutional Neural Networks and Contrast Limited Adaptive Histogram Equalization," in IEEE Access, vol. 8, pp. 136668-136673, 2020, doi: 10.1109/ACCESS.2020.3005044.
+keywords: {Histograms;Retina;Monitoring;Biomedical imaging;Computational modeling;Diabetes;Retinopathy;Diabetic Retinopathy;contrast limited adaptive histogram equalization;convolutional neural networks;EfficientNet},
+
