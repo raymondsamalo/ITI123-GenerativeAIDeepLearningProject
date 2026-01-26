@@ -1,0 +1,8 @@
+processed_images.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+results.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+augmented_512_images.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+augmented_images.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+dataset.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+preprocessed_images.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+processed_512g_images.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+processed_512_images.tar.bz2 filter=lfs diff=lfs merge=lfs -text
