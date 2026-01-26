@@ -1,11 +1,5 @@
 # Datasets
-ODIR-2019/dataset/preprocessed_images
-ODIR-2019/dataset/full_df.csv
-ODIR-2019/dataset/ODIR-5K
-ODIR-2019/yolo
-ODIR-2019/processed_images
-ODIR-2019/preprocessed_images
-ODIR-2019/augmented_images
+ODIR-2019
 runs
 wandb
 # Byte-compiled / optimized / DLL files
