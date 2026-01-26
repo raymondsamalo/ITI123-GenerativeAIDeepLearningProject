@@ -1,4 +1,10 @@
 # Datasets
+ODIR-2019-archives/augmented_512_images.tar.bz2
+ODIR-2019-archives/augmented_images.tar.bz2
+ODIR-2019-archives/processed_512_images.tar.bz2
+ODIR-2019-archives/processed_512g_images.tar.bz2
+ODIR-2019-archives/processed_images.tar.bz2
+ODIR-2019-archives/results.tar.bz2
 ODIR-2019
 runs
 wandb
