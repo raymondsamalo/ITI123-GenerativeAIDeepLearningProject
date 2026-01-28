@@ -8,6 +8,7 @@ ODIR-2019-archives/results.tar.bz2
 ODIR-2019
 runs
 wandb
+yolo11n-cls.pt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
