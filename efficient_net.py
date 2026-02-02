@@ -692,8 +692,6 @@ class EfficientNetTrainer:
                 'train_f1': train_f1,
                 'val_f1': val_f1,
                 'learning_rate': current_lr,
-                'epoch_time': epoch_time,
-                'inference_time': val_inf_time
             })
             
             # Save best model
@@ -774,8 +772,7 @@ class EfficientNetTrainer:
             'test_loss': test_loss,
             'test_acc': test_acc,
             'test_f1': test_f1,
-            'test_classification_report': report,
-            'test_inference_time': test_inf_time
+            'test_classification_report': report
         })
         
         # Create a detailed results table
