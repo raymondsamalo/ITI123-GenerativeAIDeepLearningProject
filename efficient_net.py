@@ -1,5 +1,6 @@
 # train_efficientnet_folder_structure.py
 import os
+import time
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -163,7 +164,10 @@ class EfficientNetTrainer:
             'train_f1': [], 'val_f1': [],
             'learning_rates': []
         }
-    
+        # Timing
+        self.training_times = []
+        self.inference_times = []
+
     def _create_model(self):
         """Create EfficientNet model for multi-class classification"""
         model_name = self.config.get('model_name', 'efficientnet-b0')
@@ -265,16 +269,19 @@ class EfficientNetTrainer:
         num_workers = self.config.get('num_workers', 4)
         use_weighted_sampler = self.config.get('use_weighted_sampler', False)
         
-        if use_weighted_sampler and self.split == 'train':
+        if use_weighted_sampler and self.train_dataset is not None:
             # Create weighted sampler to handle class imbalance
-            class_counts = []
+            train_labels = []
             for _, class_idx in self.train_dataset.samples:
-                class_counts.append(class_idx)
+                train_labels.append(class_idx)
             
-            class_counts = np.bincount(class_counts)
+            class_counts = np.bincount(train_labels)
+            print("Class counts for weighted sampler:", class_counts)
+            print("Labels are:", train_labels)
+            print("Using WeightedRandomSampler to address class imbalance.")
             class_weights = 1. / class_counts
-            sample_weights = class_weights[class_counts]
-            
+            sample_weights = class_weights[train_labels]
+            print("Sample weights are:", sample_weights)
             sampler = torch.utils.data.WeightedRandomSampler(
                 weights=sample_weights,
                 num_samples=len(self.train_dataset),
@@ -313,9 +320,18 @@ class EfficientNetTrainer:
             num_workers=num_workers,
             pin_memory=True
         )
-    
+        print("\n📊 Dataset Statistics:")
+        print(f"   Train samples: {len(self.train_dataset)}")
+        print(f"   Val samples:   {len(self.val_dataset)}")
+        print(f"   Test samples:  {len(self.test_dataset)}")
+        print(f"   Image size:    {self.config.get('image_size', 224)}")
+        print(f"   Batch size:    {batch_size}")
+
     def _create_optimizer(self):
-        """Create optimizer with different parameter groups"""
+        """Create optimizer with different parameter groups
+           Optimizer supports 'adamw', 'adam', 'sgd'
+           optimizer changes learning rates for backbone and classifier differently 
+        """
         optimizer_name = self.config.get('optimizer', 'adamw')
         lr = self.config.get('lr', 0.001)
         weight_decay = self.config.get('weight_decay', 1e-4)
@@ -353,7 +369,12 @@ class EfficientNetTrainer:
         return optimizer
     
     def _create_scheduler(self):
-        """Create learning rate scheduler"""
+        """Create learning rate scheduler
+           Supported schedulers: 'plateau', 'cosine', 'onecycle'
+           Scheduler is optional but recommended for better training
+           Scheduler adjusts learning rate during training based on performance or epoch count
+           It modifies the optimizer's learning rate according to the chosen strategy
+        """
         scheduler_name = self.config.get('scheduler', 'cosine')
         
         if scheduler_name == 'plateau':
@@ -442,6 +463,7 @@ class EfficientNetTrainer:
         epoch_f1 = f1_score(all_targets, all_preds, average='weighted')
         
         return epoch_loss, epoch_acc, epoch_f1
+
     
     def validate(self, dataloader=None, split_name='Validation'):
         """Validate the model"""
@@ -455,13 +477,17 @@ class EfficientNetTrainer:
         all_preds = []
         all_targets = []
         all_probs = []
-        
+        inference_times = []
+
         with torch.no_grad():
             pbar = tqdm(dataloader, desc=split_name)
             for images, targets, _ in pbar:
                 images, targets = images.to(self.device), targets.to(self.device)
-                
+                start_time = time.time()
                 outputs = self.model(images)
+                inference_time = time.time() - start_time
+                inference_times.append(inference_time)
+
                 loss = self.criterion(outputs, targets)
                 
                 running_loss += loss.item()
@@ -470,7 +496,8 @@ class EfficientNetTrainer:
                 total += targets.size(0)
                 correct += predicted.eq(targets).sum().item()
                 
-                all_preds.extend(predicted.cpu().numpy())
+                #copy tensor from gpu to cpu numpy and append to list
+                all_preds.extend(predicted.cpu().numpy()) 
                 all_targets.extend(targets.cpu().numpy())
                 all_probs.extend(probs.cpu().numpy())
                 
@@ -482,8 +509,12 @@ class EfficientNetTrainer:
         epoch_loss = running_loss / len(dataloader)
         epoch_acc = 100. * correct / total
         epoch_f1 = f1_score(all_targets, all_preds, average='weighted')
+        avg_inference_time = np.mean(inference_times) * 1000  # Convert to ms
         
-        return epoch_loss, epoch_acc, epoch_f1, all_preds, all_targets, all_probs
+        # Store inference times
+        self.inference_times.extend(inference_times)
+
+        return epoch_loss, epoch_acc, epoch_f1, all_preds, all_targets, all_probs, avg_inference_time
     
     def plot_confusion_matrix(self, y_true, y_pred, class_names, split='val', save_path=None):
         """Plot confusion matrix"""
@@ -606,6 +637,7 @@ class EfficientNetTrainer:
         epochs = self.config.get('epochs', 50)
         
         for epoch in range(epochs):
+            epoch_start = time.time()
             print(f"\n{'='*60}")
             print(f"Epoch {epoch+1}/{epochs}")
             print(f"{'='*60}")
@@ -618,7 +650,7 @@ class EfficientNetTrainer:
             train_loss, train_acc, train_f1 = self.train_epoch(epoch)
             
             # Validate
-            val_loss, val_acc, val_f1, val_preds, val_targets, _ = self.validate()
+            val_loss, val_acc, val_f1, val_preds, val_targets, _,val_inf_time = self.validate()
             
             # Update scheduler (if not OneCycleLR)
             if self.scheduler and not isinstance(self.scheduler, optim.lr_scheduler.OneCycleLR):
@@ -639,11 +671,16 @@ class EfficientNetTrainer:
             self.history['train_f1'].append(train_f1)
             self.history['val_f1'].append(val_f1)
             
+            # Calculate epoch time
+            epoch_time = time.time() - epoch_start
+            self.training_times.append(epoch_time)
+            
             # Print epoch results
-            print(f"\nEpoch {epoch+1} Summary:")
+            print(f"\n📊 Epoch {epoch+1} Summary:")
             print(f"Train - Loss: {train_loss:.4f}, Acc: {train_acc:.2f}%, F1: {train_f1:.4f}")
             print(f"Val   - Loss: {val_loss:.4f}, Acc: {val_acc:.2f}%, F1: {val_f1:.4f}")
             print(f"Learning Rate: {current_lr:.2e}")
+            print(f"  Time - Epoch: {epoch_time:.1f}s, Inference: {val_inf_time:.1f}ms")
             
             # Log to wandb
             wandb.log({
@@ -654,7 +691,9 @@ class EfficientNetTrainer:
                 'val_acc': val_acc,
                 'train_f1': train_f1,
                 'val_f1': val_f1,
-                'learning_rate': current_lr
+                'learning_rate': current_lr,
+                'epoch_time': epoch_time,
+                'inference_time': val_inf_time
             })
             
             # Save best model
@@ -669,6 +708,14 @@ class EfficientNetTrainer:
             if (epoch + 1) % 5 == 0 or epoch == epochs - 1:
                 self.plot_confusion_matrix(val_targets, val_preds, 
                                           self.class_names, split='val')
+        # Training summary
+        print(f"\n🎉 Training completed!")
+        print(f"📈 Best validation F1: {self.best_f1:.4f}")
+        print(f"⏱️  Average epoch time: {np.mean(self.training_times):.1f}s")
+        print(f"⚡ Average inference time: {np.mean(self.inference_times)*1000:.1f}ms")
+
+        # Plot training history
+        self.plot_training_history(save_path=os.path.join(wandb.run.dir, 'training_history.png'))
     
     def _gradually_unfreeze(self, epoch, total_epochs):
         """Gradually unfreeze layers during training"""
@@ -697,7 +744,7 @@ class EfficientNetTrainer:
         if self.best_model_path:
             self.load_model(self.best_model_path)
         
-        test_loss, test_acc, test_f1, test_preds, test_targets, test_probs = self.validate(
+        test_loss, test_acc, test_f1, test_preds, test_targets, test_probs, test_inf_time = self.validate(
             self.test_loader, split_name='Testing'
         )
         
@@ -710,6 +757,7 @@ class EfficientNetTrainer:
         print(f"Test Loss: {test_loss:.4f}")
         print(f"Test Accuracy: {test_acc:.2f}%")
         print(f"Test Weighted F1 Score: {test_f1:.4f}")
+        print(f"Average Inference Time per Image: {test_inf_time:.2f} ms")
         
         print("\n📋 Detailed Classification Report:")
         print(classification_report(test_targets, test_preds, 
@@ -720,15 +768,14 @@ class EfficientNetTrainer:
                                   self.class_names, split='test',
                                   save_path=os.path.join(wandb.run.dir, 'test_confusion_matrix.png'))
         
-        # Plot training history
-        self.plot_training_history(save_path=os.path.join(wandb.run.dir, 'training_history.png'))
         
         # Log test results to wandb
         wandb.log({
             'test_loss': test_loss,
             'test_acc': test_acc,
             'test_f1': test_f1,
-            'test_classification_report': report
+            'test_classification_report': report,
+            'test_inference_time': test_inf_time
         })
         
         # Create a detailed results table
@@ -769,42 +816,57 @@ class EfficientNetTrainer:
     
     def predict_single_image(self, image_path):
         """Predict class for a single image"""
-        from PIL import Image
-        
         # Load and preprocess image
+        print(f"\n🔍 Predicting: {os.path.basename(image_path)}")
+        start_time = time.time()
+        
+        # Load image
+        load_start = time.time()
         transform = self.val_transform
         try:
             image = Image.open(image_path).convert('RGB')
-        except:
-            raise ValueError(f"Could not load image from {image_path}")
+        except Exception as exc:
+            raise ValueError(f"Could not load image from {image_path}") from exc
+        load_time = time.time() - load_start
         
+        transform_start = time.time()
         image_tensor = transform(image).unsqueeze(0).to(self.device)
-        
+        transform_time = time.time() - transform_start
+
         # Predict
+        inference_start = time.time()
         self.model.eval()
         with torch.no_grad():
             outputs = self.model(image_tensor)
             probabilities = torch.softmax(outputs, dim=1)
             _, predicted = outputs.max(1)
-        
+        inference_time = time.time() - inference_start
+
         # Get results
+        process_start = time.time()
         class_idx = predicted.item()
         class_name = self.class_names[class_idx]
         confidence = probabilities[0, class_idx].item()
-        
+
         # Get top-3 predictions
         top3_probs, top3_indices = torch.topk(probabilities[0], 3)
         top3_predictions = [
             (self.class_names[idx.item()], prob.item())
             for idx, prob in zip(top3_indices, top3_probs)
         ]
-        
+        process_time = time.time() - process_start
+        total_time = time.time() - start_time
+        print(f"Prediction completed in {total_time*1000:.2f} ms "
+              f"(Load: {load_time*1000:.2f} ms, Transform: {transform_time*1000:.2f} ms, "
+              f"Inference: {inference_time*1000:.2f} ms, Process: {process_time*1000:.2f} ms)")        
         return {
             'predicted_class': class_name,
             'confidence': confidence,
             'class_index': class_idx,
             'all_probabilities': probabilities[0].cpu().numpy(),
-            'top3_predictions': top3_predictions
+            'top3_predictions': top3_predictions,
+            'total_time_ms': total_time * 1000,
+            'inference_time_ms': inference_time * 1000
         }
 
 
