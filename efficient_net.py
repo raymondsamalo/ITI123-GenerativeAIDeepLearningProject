@@ -710,7 +710,7 @@ class EfficientNetTrainer:
                                           self.class_names, split='val')
         # Training summary
         print(f"\n🎉 Training completed!")
-        print(f"📈 Best validation F1: {self.best_f1:.4f}")
+        print(f"📈 Best validation F1: {self.best_val_f1:.4f}")
         print(f"⏱️  Average epoch time: {np.mean(self.training_times):.1f}s")
         print(f"⚡ Average inference time: {np.mean(self.inference_times)*1000:.1f}ms")
 
