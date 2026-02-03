@@ -40,7 +40,7 @@ class ODIRYOLOTrainer:
     YOLO Classification Trainer for ODIR-2019 dataset
     """
     
-    def __init__(self, model_version, run_name, 
+    def __init__(self, model_version, run_name, project_name,
                  use_wandb=False):
         """
         Initialize trainer
@@ -61,6 +61,7 @@ class ODIRYOLOTrainer:
         self.test_labels = []
         self.inference_times = []
         self.use_wandb = use_wandb
+        self.project_name = project_name
         
         # ODIR-2019 class names (8 classes)
         self.class_names = [
@@ -254,7 +255,7 @@ class ODIRYOLOTrainer:
         # Load the model
         self.load_model(model_path)
         
-    def train_model(self, data_yaml, epochs=100, imgsz=512, batch_size=32, 
+    def train_model(self, data_dir, epochs=100, imgsz=512, batch_size=32, 
                     patience=50, save_dir='./runs'):
         """
         Train YOLO classification model with 512x512 image size
@@ -278,13 +279,13 @@ class ODIRYOLOTrainer:
         
         # Training arguments - using 512 image size
         train_args = {
-            'data': str(data_yaml),
+            'data': data_dir,
             'epochs': epochs,
             'imgsz': imgsz,  # Using 512
             'batch': batch_size,
             'patience': patience,
-            'project': save_dir,
-            'name': f'{self.model_version}_imgsz{imgsz}_{datetime.now().strftime("%Y%m%d_%H%M%S")}',
+            'project': "runs",
+            'name': f'{self.run_name}_{datetime.now().strftime("%Y%m%d_%H%M%S")}',
             'exist_ok': True,
             'device': self.device,
             'workers': 8 if self.device == 'cuda' else 4,
@@ -338,10 +339,6 @@ class ODIRYOLOTrainer:
             'verbose': True,
         }
         
-        # Add W&B arguments if enabled
-        if self.use_wandb:
-            train_args['project'] = save_dir
-            print("W&B integration enabled for training")
         
         # Train the model
         print("\nStarting training...")
@@ -1007,7 +1004,7 @@ def main():
         
         # Train model
         results = trainer.train_model(
-            data_yaml=data_yaml,
+            data_dir=data_yaml,
             epochs=EPOCHS,
             imgsz=IMG_SIZE,
             batch_size=BATCH_SIZE,
