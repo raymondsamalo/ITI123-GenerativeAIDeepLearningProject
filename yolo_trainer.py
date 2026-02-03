@@ -42,7 +42,7 @@ class ODIRYOLOTrainer:
     YOLO Classification Trainer for ODIR-2019 dataset
     """
     
-    def __init__(self, model_version='yolo11n-cls', run_name='odir-classification', 
+    def __init__(self, model_version='yolo11n-cls', 
                  use_wandb=False, wandb_run=None):
         """
         Initialize trainer
@@ -55,7 +55,6 @@ class ODIRYOLOTrainer:
             wandb_run: Existing W&B run object (if None and use_wandb=True, will create new)
         """
         self.model_version = model_version
-        self.run_name = run_name
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
         self.model = None
         self.results = None
@@ -76,7 +75,7 @@ class ODIRYOLOTrainer:
         self.num_classes = len(self.class_names)
         
         # Setup run directory
-        self.run_dir = Path('yolo-runs') / self.run_name
+        self.run_dir = Path('yolo-runs') 
         self.run_dir.mkdir(parents=True, exist_ok=True)
         
         print(f"Using device: {self.device}")
@@ -299,7 +298,7 @@ class ODIRYOLOTrainer:
             'name': run_name,
             'exist_ok': True,
             'device': self.device,
-            'workers': 8 if self.device == 'cuda' else 4,
+            'workers': 2,
             'seed': 42,
             'val': True,  # Enable validation during training
             'save': True,
