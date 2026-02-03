@@ -49,3 +49,6 @@ https://ieeexplore.ieee.org/document/9125868
 A. Momeni Pour, H. Seyedarabi, S. H. Abbasi Jahromi and A. Javadzadeh, "Automatic Detection and Monitoring of Diabetic Retinopathy Using Efficient Convolutional Neural Networks and Contrast Limited Adaptive Histogram Equalization," in IEEE Access, vol. 8, pp. 136668-136673, 2020, doi: 10.1109/ACCESS.2020.3005044.
 keywords: {Histograms;Retina;Monitoring;Biomedical imaging;Computational modeling;Diabetes;Retinopathy;Diabetic Retinopathy;contrast limited adaptive histogram equalization;convolutional neural networks;EfficientNet},
 
+After failing to get augmented images that does not introduce over fitting, we add 
+Ocular Disease DataSet to expand our odir-2019 with actual images to form ODIR-2019-OD data
+https://www.kaggle.com/datasets/manan1717/ocular-disease-dataset 
