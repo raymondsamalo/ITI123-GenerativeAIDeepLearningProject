@@ -10,7 +10,8 @@ OcularDiseaseDataSet
 ODIR-2019-OD
 runs
 wandb
-yolo11n-cls.pt
+*.pt
+yolo-runs
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

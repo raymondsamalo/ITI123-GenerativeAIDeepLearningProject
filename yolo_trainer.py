@@ -76,7 +76,7 @@ class ODIRYOLOTrainer:
         self.num_classes = len(self.class_names)
         
         # Setup run directory
-        self.run_dir = Path('yolo-run') / self.run_name
+        self.run_dir = Path('yolo-runs') / self.run_name
         self.run_dir.mkdir(parents=True, exist_ok=True)
         
         print(f"Using device: {self.device}")
