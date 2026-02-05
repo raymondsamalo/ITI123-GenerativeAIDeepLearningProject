@@ -52,3 +52,8 @@ keywords: {Histograms;Retina;Monitoring;Biomedical imaging;Computational modelin
 After failing to get augmented images that does not introduce over fitting, we add 
 Ocular Disease DataSet to expand our odir-2019 with actual images to form ODIR-2019-OD data
 https://www.kaggle.com/datasets/manan1717/ocular-disease-dataset 
+
+we remove odir images using 
+```bash
+ find . -type f -regextype posix-awk -regex '.*_(left|right)\.jpg' -delete
+ ```
