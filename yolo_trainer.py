@@ -70,6 +70,7 @@ class ODIRYOLOTrainer:
         self.val_metrics_history = []  # Store validation metrics history
         self.wandb_project_name = wandb_project_name
         self.wandb_run_name = wandb_run_name
+        self.wandb_run_id = None
         # ODIR-2019 class names (8 classes)
         self.class_names = [
             'normal', 'diabetes', 'glaucoma', 'cataract',
@@ -90,9 +91,15 @@ class ODIRYOLOTrainer:
     def wandb_init(self):
         """Initialize W&B run"""
         if self.use_wandb and (self.wandb_project_name is not None and self.wandb_run_name is not None):
-            return wandb.init(project=self.wandb_project_name,
-                       name=self.wandb_run_name)
-        return None
+            if self.wandb_run_id is None:
+                # start new run
+                wandb_run = wandb.init(project=self.wandb_project_name,
+                                            name=self.wandb_run_name)
+                self.wandb_run_id = wandb_run.id
+            else:
+                # resume existing run
+                wandb.init(project=self.wandb_project_name,name=self.wandb_run_name,id=self.wandb_run_id,resume="must")
+            
     
     def load_model(self, model_path=None):
         """
@@ -336,6 +343,8 @@ class ODIRYOLOTrainer:
         start_time = time.time()
         self.results = self.model.train(**train_args)
         training_time = time.time() - start_time
+        metrics=self.model.val()  # Final validation after training
+        print(f"\nFinal validation metrics: {metrics}")
         if self.use_wandb:
             self.wandb_finish()
         print(f"\nTraining completed in {training_time:.2f} seconds")
