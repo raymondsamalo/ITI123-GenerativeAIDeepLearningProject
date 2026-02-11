@@ -22,9 +22,10 @@ from ultralytics import YOLO
 import gradio as gr
 
 # 3️⃣ Dataset setup
-train_root = Path('odir_cls/train')
-val_root = Path('odir_cls/val')
-test_root = Path('odir_cls/test')
+data_dir = Path('ODIR-2019/YOLO/processed_512g_merged')
+train_root = data_dir / 'train'
+val_root = data_dir / 'val'
+test_root = data_dir / 'test'
 
 CLASSES = sorted([d.name for d in train_root.iterdir() if d.is_dir()])
 NUM_CLASSES = len(CLASSES)
