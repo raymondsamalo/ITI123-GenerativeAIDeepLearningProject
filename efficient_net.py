@@ -66,7 +66,8 @@ class ODIRFolderDataset(Dataset):
 
         # Collect all images and their labels
         self.samples = []  # List of (image_path, class_idx)
-
+        self.class_num_samples = [0] * self.num_classes # place holder
+        self.total_num_samples = 0
         for class_name in self.class_names:
             class_dir = os.path.join(root_dir, split, class_name)
             if not os.path.exists(class_dir):
@@ -75,13 +76,14 @@ class ODIRFolderDataset(Dataset):
                 continue
 
             class_idx = self.class_to_idx[class_name]
-
             # Get all image files in the class directory
             image_extensions = ('.png', '.jpg', '.jpeg', '.bmp', '.tiff')
             for img_file in os.listdir(class_dir):
                 if img_file.lower().endswith(image_extensions):
                     img_path = os.path.join(class_dir, img_file)
                     self.samples.append((img_path, class_idx))
+                    self.class_num_samples[class_idx]+=1  # number of samples per class
+                    self.total_num_samples+=1 # total number of samples
 
         print(
             f"Found {len(self.samples)} images in {split} split across {len(self.class_names)} classes")
@@ -89,20 +91,29 @@ class ODIRFolderDataset(Dataset):
         # Print class distribution
         self._print_class_distribution()
 
+
+    def get_class_weights(self):
+        weights=[]
+        number_of_classes = self.num_classes
+        num_samples = float(self.total_num_samples)
+        for class_idx in range(self.num_classes):
+            class_count = float(self.class_num_samples[class_idx])
+            # we use inverse weight
+            weight = num_samples/(number_of_classes*class_count)
+            weights.append(weight)
+        return weights
+
     def _print_class_distribution(self):
         """Print distribution of samples per class"""
-        class_counts = {class_name: 0 for class_name in self.class_names}
-        for _, class_idx in self.samples:
-            class_name = self.class_names[class_idx]
-            class_counts[class_name] += 1
-
         print(f"\nClass distribution in {self.split} split:")
-        for class_name in self.class_names:
-            count = class_counts[class_name]
-            if count > 0:
-                print(
-                    f"  {class_name}: {count} samples ({count/len(self.samples)*100:.1f}%)")
-
+        total = self.total_num_samples
+        for class_idx in range(self.num_classes):
+            class_name = self.class_names[class_idx]
+            class_count = self.class_num_samples[class_idx]
+            percentage = class_count/total*100
+            print(f"  {class_name}: {class_count} samples ({percentage:.1f}%)")
+            
+      
     def __len__(self):
         return len(self.samples)
 
@@ -156,9 +167,15 @@ class EfficientNetTrainer:
 
             # Dataloaders
             self._create_dataloaders()
-
+        # get weight
+        weights=None
+        if config.get('use_weight',False):
+            weights=self.train_dataset.get_class_weights()
+            print("use_weight for cross entropy loss training", weights)
+            weights=torch.tensor(weights, dtype=torch.float32).to(self.device) # make weights a tensor on training device
         # Loss function (multi-class classification)
         self.criterion = nn.CrossEntropyLoss(
+            weight = weights,
             label_smoothing=config.get('label_smoothing', 0.1))
 
         # Optimizer and scheduler
